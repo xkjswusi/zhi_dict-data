@@ -1,0 +1,728 @@
+sense_uid	seq	target_entry_id	target_trad	target_simp	target_pinyin
+一個|一个|yi1 ge5~1	0	個|个|ge4	個	个	ge4
+一旦|一旦|yi1 dan4~1	0	如果|如果|ru2 guo3	如果	如果	ru2 guo3
+一生|一生|yi1 sheng1~1	0	一輩子|一辈子|yi1 bei4 zi5	一輩子	一辈子	yi1 bei4 zi5
+一直|一直|yi1 zhi2~1	0	總是|总是|zong3 shi4	總是	总是	zong3 shi4
+丈夫|丈夫|zhang4 fu5~1	0	妻子|妻子|qi1 zi5	妻子	妻子	qi1 zi5
+上|上|shang4~5	0	下|下|xia4	下	下	xia4
+上|上|shang4~6	0	裡|里|li3	裡	里	li3
+下|下|xia4~1	0	上|上|shang4	上	上	shang4
+下|下|xia4~7	0	一下|一下|yi1 xia4	一下	一下	yi1 xia4
+不僅|不仅|bu4 jin3~1	0	不但|不但|bu4 dan4	不但	不但	bu4 dan4
+不同|不同|bu4 tong2~1	0	不一樣|不一样|bu4 yi1 yang4	不一樣	不一样	bu4 yi1 yang4
+不用|不用|bu4 yong4~1	0	不要|不要|bu4 yao4	不要	不要	bu4 yao4
+不要|不要|bu4 yao4~1	0	別|别|bie2	別	别	bie2
+不過|不过|bu4 guo4~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+且|且|qie3~1	0	而且|而且|er2 qie3	而且	而且	er2 qie3
+且|且|qie3~1	1	並且|并且|bing4 qie3	並且	并且	bing4 qie3
+且|且|qie3~2	0	暫且|暂且|zan4 qie3	暫且	暂且	zan4 qie3
+且|且|qie3~3	0	一邊|一边|yi1 bian1	一邊	一边	yi1 bian1
+且|且|qie3~4	0	將要|将要|jiang1 yao4	將要	将要	jiang1 yao4
+並且|并且|bing4 qie3~1	0	而且|而且|er2 qie3	而且	而且	er2 qie3
+中央|中央|zhong1 yang1~2	0	地方|地方|di4 fang1	地方	地方	di4 fang1
+主|主|zhu3~6	0	上帝|上帝|Shang4 di4	上帝	上帝	Shang4 di4
+主角|主角|zhu3 jue2~1	0	配角|配角|pei4 jue2	配角	配角	pei4 jue2
+久|久|jiu3~1	0	長|长|chang2	長	长	chang2
+之中|之中|zhi1 zhong1~1	0	裡面|里面|li3 mian4	裡面	里面	li3 mian4
+之前|之前|zhi1 qian2~1	0	之後|之后|zhi1 hou4	之後	之后	zhi1 hou4
+之後|之后|zhi1 hou4~1	0	以後|以后|yi3 hou4	以後	以后	yi3 hou4
+之間|之间|zhi1 jian1~1	0	中間|中间|zhong1 jian1	中間	中间	zhong1 jian1
+也|也|ye3~2	0	連|连|lian2	連	连	lian2
+也|也|ye3~2	1	都|都|dou1	都	都	dou1
+也|也|ye3~3	0	啊|啊|a5	啊	啊	a5
+乾|乾|qian2~1	0	八卦|八卦|ba1 gua4	八卦	八卦	ba1 gua4
+了|了|le5~1	0	過|过|guo5	過	过	guo5
+事件|事件|shi4 jian4~1	0	事情|事情|shi4 qing5	事情	事情	shi4 qing5
+事實|事实|shi4 shi2~1	0	真相|真相|zhen1 xiang4	真相	真相	zhen1 xiang4
+事實上|事实上|shi4 shi2 shang4~1	0	其實|其实|qi2 shi2	其實	其实	qi2 shi2
+二|二|er4~1	0	兩|两|liang3	兩	两	liang3
+交易|交易|jiao1 yi4~1	0	買賣|买卖|mai3 mai4	買賣	买卖	mai3 mai4
+人數|人数|ren2 shu4~1	0	人口|人口|ren2 kou3	人口	人口	ren2 kou3
+人民|人民|ren2 min2~1	0	人們|人们|ren2 men5	人們	人们	ren2 men5
+什|什|shi2~2	0	十|十|shi2	十	十	shi2
+什麼|什么|shen2 me5~1	0	誰|谁|shei2	誰	谁	shei2
+仍|仍|reng2~1	0	仍然|仍然|reng2 ran2	仍然	仍然	reng2 ran2
+仍|仍|reng2~1	1	還|还|hai2	還	还	hai2
+他|他|ta1~1	0	她|她|ta1	她	她	ta1
+他|他|ta1~1	1	它|它|ta1	它	它	ta1
+他人|他人|ta1 ren2~1	0	別人|别人|bie2 ren5	別人	别人	bie2 ren5
+他們|他们|ta1 men5~1	0	她們|她们|ta1 men5	她們	她们	ta1 men5
+以|以|yi3~1	0	按照|按照|an4 zhao4	按照	按照	an4 zhao4
+以|以|yi3~1	1	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+以|以|yi3~3	0	為了|为了|wei4 le5	為了	为了	wei4 le5
+以下|以下|yi3 xia4~1	0	以上|以上|yi3 shang4	以上	以上	yi3 shang4
+以來|以来|yi3 lai2~1	0	以後|以后|yi3 hou4	以後	以后	yi3 hou4
+以前|以前|yi3 qian2~1	0	以後|以后|yi3 hou4	以後	以后	yi3 hou4
+以外|以外|yi3 wai4~1	0	以內|以内|yi3 nei4	以內	以内	yi3 nei4
+以外|以外|yi3 wai4~1	1	除了|除了|chu2 le5	除了	除了	chu2 le5
+以後|以后|yi3 hou4~1	0	後來|后来|hou4 lai2	後來	后来	hou4 lai2
+以為|以为|yi3 wei2~1	0	認為|认为|ren4 wei2	認為	认为	ren4 wei2
+任|任|ren4~6	0	無論|无论|wu2 lun4	無論	无论	wu2 lun4
+任務|任务|ren4 wu5~1	0	工作|工作|gong1 zuo4	工作	工作	gong1 zuo4
+伊|伊|yi1~2	0	他|他|ta1	他	他	ta1
+伊|伊|yi1~2	1	她|她|ta1	她	她	ta1
+伊|伊|yi1~5	0	你|你|ni3	你	你	ni3
+伯|伯|bai3~1	0	百|百|bai3	百	百	bai3
+伯|伯|bo2~1	0	叔叔|叔叔|shu1 shu5	叔叔	叔叔	shu1 shu5
+伯|伯|bo2~3	0	五等爵位|五等爵位|wu3 deng3 jue2 wei4	五等爵位	五等爵位	wu3 deng3 jue2 wei4
+似乎|似乎|si4 hu1~1	0	好像|好像|hao3 xiang4	好像	好像	hao3 xiang4
+但|但|dan4~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+但是|但是|dan4 shi4~1	0	雖然|虽然|sui1 ran2	雖然	虽然	sui1 ran2
+但是|但是|dan4 shi4~1	1	可是|可是|ke3 shi4	可是	可是	ke3 shi4
+位|位|wei4~2	0	個|个|ge4	個	个	ge4
+何|何|he2~1	0	什麼|什么|shen2 me5	什麼	什么	shen2 me5
+何|何|he2~2	0	荷|荷|he4	荷	荷	he4
+作|作|zuo4~1	0	做|做|zuo4	做	做	zuo4
+作家|作家|zuo4 jia1~1	0	作者|作者|zuo4 zhe3	作者	作者	zuo4 zhe3
+作戰|作战|zuo4 zhan4~1	0	戰爭|战争|zhan4 zheng1	戰爭	战争	zhan4 zheng1
+你|你|ni3~1	0	您|您|nin2	您	您	nin2
+使|使|shi3~5	0	讓|让|rang4	讓	让	rang4
+使用|使用|shi3 yong4~1	0	用|用|yong4	用	用	yong4
+來|来|lai2~1	0	去|去|qu4	去	去	qu4
+來|来|lai2~8	0	明年|明年|ming2 nian2	明年	明年	ming2 nian2
+來到|来到|lai2 dao4~1	0	到達|到达|dao4 da2	到達	到达	dao4 da2
+例如|例如|li4 ru2~1	0	比如|比如|bi3 ru2	比如	比如	bi3 ru2
+依然|依然|yi1 ran2~1	0	仍然|仍然|reng2 ran2	仍然	仍然	reng2 ran2
+便|便|bian4~2	0	就|就|jiu4	就	就	jiu4
+係|系|xi4~3	0	繫|系|ji4	繫	系	ji4
+保|保|bao3~3	0	保甲|保甲|bao3 jia3	保甲	保甲	bao3 jia3
+信任|信任|xin4 ren4~1	0	相信|相信|xiang1 xin4	相信	相信	xiang1 xin4
+信息|信息|xin4 xi1~1	0	消息|消息|xiao1 xi5	消息	消息	xiao1 xi5
+做|做|zuo4~1	0	作|作|zuo4	作	作	zuo4
+做出|做出|zuo4 chu1~1	0	作出|作出|zuo4 chu1	作出	作出	zuo4 chu1
+停止|停止|ting2 zhi3~1	0	停|停|ting2	停	停	ting2
+傳統|传统|chuan2 tong3~1	0	習慣|习惯|xi2 guan4	習慣	习惯	xi2 guan4
+僅|仅|jin3~1	0	只|只|zhi3	只	只	zhi3
+像|像|xiang4~1	0	一樣|一样|yi1 yang4	一樣	一样	yi1 yang4
+像|像|xiang4~2	0	好像|好像|hao3 xiang4	好像	好像	hao3 xiang4
+價值|价值|jia4 zhi2~1	0	價格|价格|jia4 ge2	價格	价格	jia4 ge2
+億|亿|yi4~1	0	萬|万|wan4	萬	万	wan4
+儘管|尽管|jin3 guan3~1	0	雖然|虽然|sui1 ran2	雖然	虽然	sui1 ran2
+元|元|yuan2~1	0	塊|块|kuai4	塊	块	kuai4
+元素|元素|yuan2 su4~3	0	集合|集合|ji2 he2	集合	集合	ji2 he2
+先|先|xian1~1	0	再|再|zai4	再	再	zai4
+兒童|儿童|er2 tong2~1	0	孩子|孩子|hai2 zi5	孩子	孩子	hai2 zi5
+入|入|ru4~5	0	聲調|声调|sheng1 diao4	聲調	声调	sheng1 diao4
+內|内|nei4~1	0	外|外|wai4	外	外	wai4
+內容|内容|nei4 rong2~1	0	形式|形式|xing2 shi4	形式	形式	xing2 shi4
+全|全|quan2~2	0	都|都|dou1	都	都	dou1
+公民|公民|gong1 min2~1	0	人民|人民|ren2 min2	人民	人民	ren2 min2
+公路|公路|gong1 lu4~1	0	馬路|马路|ma3 lu4	馬路	马路	ma3 lu4
+其他|其他|qi2 ta1~1	0	其它|其它|qi2 ta1	其它	其它	qi2 ta1
+其它|其它|qi2 ta1~1	0	其他|其他|qi2 ta1	其他	其他	qi2 ta1
+再|再|zai4~1	0	又|又|you4	又	又	you4
+冒險|冒险|mao4 xian3~1	0	探險|探险|tan4 xian3	探險	探险	tan4 xian3
+冠軍|冠军|guan4 jun1~1	0	亞軍|亚军|ya4 jun1	亞軍	亚军	ya4 jun1
+冠軍|冠军|guan4 jun1~1	1	季軍|季军|ji4 jun1	季軍	季军	ji4 jun1
+出現|出现|chu1 xian4~1	0	發現|发现|fa1 xian4	發現	发现	fa1 xian4
+分子|分子|fen1 zi3~2	0	分母|分母|fen1 mu3	分母	分母	fen1 mu3
+分鐘|分钟|fen1 zhong1~1	0	分|分|fen1	分	分	fen1
+切|切|qie4~7	0	反切|反切|fan3 qie4	反切	反切	fan3 qie4
+別|别|bie2~1	0	不要|不要|bu4 yao4	不要	不要	bu4 yao4
+到|到|dao4~1	0	到達|到达|dao4 da2	到達	到达	dao4 da2
+到|到|dao4~5	0	周到|周到|zhou1 dao4	周到	周到	zhou1 dao4
+到達|到达|dao4 da2~1	0	達到|达到|da2 dao4	達到	达到	da2 dao4
+則|则|ze2~1	0	就|就|jiu4	就	就	jiu4
+則|则|ze2~1	1	而|而|er2	而	而	er2
+則|则|ze2~3	0	條|条|tiao2	條	条	tiao2
+前|前|qian2~1	0	後|后|hou4	後	后	hou4
+前|前|qian2~6	0	公元前|公元前|gong1 yuan2 qian2	公元前	公元前	gong1 yuan2 qian2
+前往|前往|qian2 wang3~1	0	去|去|qu4	去	去	qu4
+剛|刚|gang1~1	0	剛才|刚才|gang1 cai2	剛才	刚才	gang1 cai2
+副|副|fu4~3	0	雙|双|shuang1	雙	双	shuang1
+創造|创造|chuang4 zao4~1	0	製造|制造|zhi4 zao4	製造	制造	zhi4 zao4
+力量|力量|li4 liang5~1	0	力氣|力气|li4 qi5	力氣	力气	li4 qi5
+加|加|jia1~3	0	加以|加以|jia1 yi3	加以	加以	jia1 yi3
+動作|动作|dong4 zuo4~1	0	行動|行动|xing2 dong4	行動	行动	xing2 dong4
+勝利|胜利|sheng4 li4~1	0	贏|赢|ying2	贏	赢	ying2
+十分|十分|shi2 fen1~1	0	非常|非常|fei1 chang2	非常	非常	fei1 chang2
+十分|十分|shi2 fen1~1	1	很|很|hen3	很	很	hen3
+升|升|sheng1~4	0	斗|斗|dou3	斗	斗	dou3
+即使|即使|ji2 shi3~1	0	雖然|虽然|sui1 ran2	雖然	虽然	sui1 ran2
+即使|即使|ji2 shi3~1	1	就算|就算|jiu4 suan4	就算	就算	jiu4 suan4
+卷|卷|juan4~3	0	本|本|ben3	本	本	ben3
+卻|却|que4~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+原因|原因|yuan2 yin1~1	0	理由|理由|li3 you2	理由	理由	li3 you2
+去|去|qu4~1	0	來|来|lai2	來	来	lai2
+去|去|qu4~4	0	來|来|lai2	來	来	lai2
+去|去|qu4~6	0	距離|距离|ju4 li2	距離	距离	ju4 li2
+參與|参与|can1 yu4~1	0	參加|参加|can1 jia1	參加	参加	can1 jia1
+又|又|you4~1	0	再|再|zai4	再	再	zai4
+及|及|ji2~1	0	和|和|he2	和	和	he2
+取得|取得|qu3 de2~1	0	得到|得到|de2 dao4	得到	得到	de2 dao4
+口|口|kou3~1	0	嘴|嘴|zui3	嘴	嘴	zui3
+另外|另外|ling4 wai4~1	0	其他|其他|qi2 ta1	其他	其他	qi2 ta1
+只|只|zhi3~1	0	只有|只有|zhi3 you3	只有	只有	zhi3 you3
+只是|只是|zhi3 shi4~2	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+只有|只有|zhi3 you3~2	0	只要|只要|zhi3 yao4	只要	只要	zhi3 yao4
+只能|只能|zhi3 neng2~1	0	只好|只好|zhi3 hao3	只好	只好	zhi3 hao3
+叫|叫|jiao4~4	0	讓|让|rang4	讓	让	rang4
+叫|叫|jiao4~5	0	被|被|bei4	被	被	bei4
+叫做|叫做|jiao4 zuo4~1	0	稱為|称为|cheng1 wei2	稱為	称为	cheng1 wei2
+可以|可以|ke3 yi3~1	0	能|能|neng2	能	能	neng2
+可以|可以|ke3 yi3~2	0	不行|不行|bu4 xing2	不行	不行	bu4 xing2
+可是|可是|ke3 shi4~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+可能|可能|ke3 neng2~1	0	能|能|neng2	能	能	neng2
+可能|可能|ke3 neng2~1	1	也許|也许|ye3 xu3	也許	也许	ye3 xu3
+右|右|you4~1	0	左|左|zuo3	左	左	zuo3
+叶|叶|xie2~1	0	協|协|xie2	協	协	xie2
+各|各|ge4~1	0	每|每|mei3	每	每	mei3
+合|合|ge3~1	0	升|升|sheng1	升	升	sheng1
+合法|合法|he2 fa3~1	0	合理|合理|he2 li3	合理	合理	he2 li3
+同|同|tong2~3	0	跟|跟|gen1	跟	跟	gen1
+同|同|tong2~3	1	和|和|he2	和	和	he2
+同意|同意|tong2 yi4~1	0	答應|答应|da1 ying5	答應	答应	da1 ying5
+名|名|ming2~2	0	有名|有名|you3 ming2	有名	有名	you3 ming2
+名|名|ming2~5	0	名詞|名词|ming2 ci2	名詞	名词	ming2 ci2
+名人|名人|ming2 ren2~1	0	明星|明星|ming2 xing1	明星	明星	ming2 xing1
+名字|名字|ming2 zi5~1	0	姓|姓|xing4	姓	姓	xing4
+向|向|xiang4~1	0	往|往|wang3	往	往	wang3
+君|君|jun1~1	0	君主|君主|jun1 zhu3	君主	君主	jun1 zhu3
+听|听|yin3~1	0	聽|听|ting1	聽	听	ting1
+呢|呢|ne5~1	0	嗎|吗|ma5	嗎	吗	ma5
+周圍|周围|zhou1 wei2~1	0	附近|附近|fu4 jin4	附近	附近	fu4 jin4
+命令|命令|ming4 ling4~1	0	要求|要求|yao1 qiu2	要求	要求	yao1 qiu2
+商|商|shang1~4	0	智商|智商|zhi4 shang1	智商	智商	zhi4 shang1
+善|善|shan4~2	0	善於|善于|shan4 yu2	善於	善于	shan4 yu2
+喜|喜|xi3~1	0	喜歡|喜欢|xi3 huan5	喜歡	喜欢	xi3 huan5
+單|单|dan1~3	0	雙|双|shuang1	雙	双	shuang1
+單|单|dan1~4	0	只|只|zhi3	只	只	zhi3
+嗎|吗|ma5~1	0	吧|吧|ba5	吧	吧	ba5
+回到|回到|hui2 dao4~1	0	回來|回来|hui2 lai5	回來	回来	hui2 lai5
+回到|回到|hui2 dao4~1	1	回去|回去|hui2 qu5	回去	回去	hui2 qu5
+回憶|回忆|hui2 yi4~1	0	記憶|记忆|ji4 yi4	記憶	记忆	ji4 yi4
+因|因|yin1~2	0	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+因此|因此|yin1 ci3~1	0	所以|所以|suo3 yi3	所以	所以	suo3 yi3
+因為|因为|yin1 wei4~1	0	所以|所以|suo3 yi3	所以	所以	suo3 yi3
+團|团|tuan2~4	0	塊|块|kuai4	塊	块	kuai4
+團體|团体|tuan2 ti3~1	0	團隊|团队|tuan2 dui4	團隊	团队	tuan2 dui4
+土|土|tu3~5	0	八音|八音|ba1 yin1	八音	八音	ba1 yin1
+圣|圣|ku1~1	0	挖|挖|wa1	挖	挖	wa1
+在|在|zai4~3	0	著|着|zhe5	著	着	zhe5
+地方|地方|di4 fang1~1	0	中央|中央|zhong1 yang1	中央	中央	zhong1 yang1
+執行|执行|zhi2 xing2~1	0	進行|进行|jin4 xing2	進行	进行	jin4 xing2
+基於|基于|ji1 yu2~1	0	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+塊|块|kuai4~3	0	元|元|yuan2	元	元	yuan2
+多|多|duo1~3	0	多少|多少|duo1 shao3	多少	多少	duo1 shao3
+多|多|duo1~5	0	許多|许多|xu3 duo1	許多	许多	xu3 duo1
+夜|夜|ye4~1	0	晚上|晚上|wan3 shang5	晚上	晚上	wan3 shang5
+天|天|tian1~2	0	天空|天空|tian1 kong1	天空	天空	tian1 kong1
+天|天|tian1~3	0	天氣|天气|tian1 qi4	天氣	天气	tian1 qi4
+天氣|天气|tian1 qi4~1	0	氣候|气候|qi4 hou4	氣候	气候	qi4 hou4
+太|太|tai4~1	0	很|很|hen3	很	很	hen3
+太空|太空|tai4 kong1~1	0	天空|天空|tian1 kong1	天空	天空	tian1 kong1
+夫|夫|fu2~1	0	此|此|ci3	此	此	ci3
+夫|夫|fu2~3	0	啊|啊|a5	啊	啊	a5
+夫人|夫人|fu1 ren5~1	0	太太|太太|tai4 tai5	太太	太太	tai4 tai5
+失敗|失败|shi1 bai4~1	0	輸|输|shu1	輸	输	shu1
+奇|奇|ji1~1	0	偶數|偶数|ou3 shu4	偶數	偶数	ou3 shu4
+套|套|tao4~8	0	河套|河套|He2 tao4	河套	河套	He2 tao4
+女人|女人|nu:3 ren2~1	0	女子|女子|nu:3 zi3	女子	女子	nu:3 zi3
+女人|女人|nu:3 ren5~1	0	老婆|老婆|lao3 po2	老婆	老婆	lao3 po2
+女子|女子|nu:3 zi3~1	0	女人|女人|nu:3 ren2	女人	女人	nu:3 ren2
+女性|女性|nu:3 xing4~1	0	男性|男性|nan2 xing4	男性	男性	nan2 xing4
+女性|女性|nu:3 xing4~1	1	女人|女人|nu:3 ren2	女人	女人	nu:3 ren2
+她|她|ta1~1	0	他|他|ta1	他	他	ta1
+她|她|ta1~1	1	它|它|ta1	它	它	ta1
+好|好|hao3~2	0	難|难|nan2	難	难	nan2
+如|如|ru2~2	0	如果|如果|ru2 guo3	如果	如果	ru2 guo3
+如何|如何|ru2 he2~1	0	怎麼樣|怎么样|zen3 me5 yang4	怎麼樣	怎么样	zen3 me5 yang4
+如果|如果|ru2 guo3~1	0	要是|要是|yao4 shi5	要是	要是	yao4 shi5
+如果|如果|ru2 guo3~1	1	的話|的话|de5 hua4	的話	的话	de5 hua4
+妳|你|ni3~1	0	你|你|ni3	你	你	ni3
+妻子|妻子|qi1 zi5~1	0	老婆|老婆|lao3 po2	老婆	老婆	lao3 po2
+婚姻|婚姻|hun1 yin1~1	0	結婚|结婚|jie2 hun1	結婚	结婚	jie2 hun1
+婦女|妇女|fu4 nu:3~1	0	女人|女人|nu:3 ren2	女人	女人	nu:3 ren2
+字|字|zi4~1	0	詞|词|ci2	詞	词	ci2
+它|它|ta1~1	0	他|他|ta1	他	他	ta1
+它|它|ta1~1	1	她|她|ta1	她	她	ta1
+它們|它们|ta1 men5~1	0	他們|他们|ta1 men5	他們	他们	ta1 men5
+宇宙|宇宙|yu3 zhou4~1	0	太空|太空|tai4 kong1	太空	太空	tai4 kong1
+完成|完成|wan2 cheng2~1	0	結束|结束|jie2 shu4	結束	结束	jie2 shu4
+家族|家族|jia1 zu2~1	0	家庭|家庭|jia1 ting2	家庭	家庭	jia1 ting2
+實現|实现|shi2 xian4~1	0	完成|完成|wan2 cheng2	完成	完成	wan2 cheng2
+實際|实际|shi2 ji4~1	0	實際上|实际上|shi2 ji4 shang4	實際上	实际上	shi2 ji4 shang4
+實際上|实际上|shi2 ji4 shang4~1	0	其實|其实|qi2 shi2	其實	其实	qi2 shi2
+實驗|实验|shi2 yan4~1	0	試驗|试验|shi4 yan4	試驗	试验	shi4 yan4
+將|将|jiang1~2	0	把|把|ba3	把	把	ba3
+將|将|jiang4~2	0	象棋|象棋|xiang4 qi2	象棋	象棋	xiang4 qi2
+將|将|jiang4~3	0	率領|率领|shuai4 ling3	率領	率领	shuai4 ling3
+將|将|qiang1~1	0	請|请|qing3	請	请	qing3
+專業|专业|zhuan1 ye4~1	0	職業|职业|zhi2 ye4	職業	职业	zhi2 ye4
+尊重|尊重|zun1 zhong4~1	0	尊敬|尊敬|zun1 jing4	尊敬	尊敬	zun1 jing4
+對|对|dui4~2	0	對於|对于|dui4 yu2	對於	对于	dui4 yu2
+對|对|dui4~6	0	雙|双|shuang1	雙	双	shuang1
+對於|对于|dui4 yu2~1	0	對|对|dui4	對	对	dui4
+小時|小时|xiao3 shi2~1	0	點|点|dian3	點	点	dian3
+就是|就是|jiu4 shi4~3	0	即使|即使|ji2 shi3	即使	即使	ji2 shi3
+屍體|尸体|shi1 ti3~1	0	遺體|遗体|yi2 ti3	遺體	遗体	yi2 ti3
+屬|属|shu3~1	0	屬於|属于|shu3 yu2	屬於	属于	shu3 yu2
+左|左|zuo3~1	0	右|右|you4	右	右	you4
+左|左|zuo3~2	0	右|右|you4	右	右	you4
+已|已|yi3~1	0	已經|已经|yi3 jing1	已經	已经	yi3 jing1
+巴士|巴士|ba1 shi4~1	0	公共汽車|公共汽车|gong1 gong4 qi4 che1	公共汽車	公共汽车	gong1 gong4 qi4 che1
+帶|带|dai4~11	0	帶子|带子|dai4 zi5	帶子	带子	dai4 zi5
+帶|带|dai4~7	0	戴|戴|dai4	戴	戴	dai4
+常|常|chang2~1	0	常常|常常|chang2 chang2	常常	常常	chang2 chang2
+常常|常常|chang2 chang2~1	0	往往|往往|wang3 wang3	往往	往往	wang3 wang3
+幅|幅|fu2~2	0	張|张|zhang1	張	张	zhang1
+幫助|帮助|bang1 zhu4~1	0	幫忙|帮忙|bang1 mang2	幫忙	帮忙	bang1 mang2
+干|干|gan1~2	0	地支|地支|di4 zhi1	地支	地支	di4 zhi1
+干|干|gan1~3	0	盾牌|盾牌|dun4 pai2	盾牌	盾牌	dun4 pai2
+年|年|nian2~1	0	歲|岁|sui4	歲	岁	sui4
+年|年|nian2~2	0	春節|春节|Chun1 jie2	春節	春节	Chun1 jie2
+年|年|nian2~3	0	歲數|岁数|sui4 shu5	歲數	岁数	sui4 shu5
+年代|年代|nian2 dai4~2	0	時代|时代|shi2 dai4	時代	时代	shi2 dai4
+幾|几|ji3~1	0	多少|多少|duo1 shao3	多少	多少	duo1 shao3
+幾乎|几乎|ji1 hu1~1	0	差不多|差不多|cha4 bu5 duo1	差不多	差不多	cha4 bu5 duo1
+底|底|de5~1	0	的|的|de5	的	的	de5
+座|座|zuo4~5	0	師座|师座|shi1 zuo4	師座	师座	shi1 zuo4
+建造|建造|jian4 zao4~1	0	建設|建设|jian4 she4	建設	建设	jian4 she4
+引|引|yin3~1	0	引起|引起|yin3 qi3	引起	引起	yin3 qi3
+引|引|yin3~1	1	吸引|吸引|xi1 yin3	吸引	吸引	xi1 yin3
+引|引|yin3~2	0	引導|引导|yin3 dao3	引導	引导	yin3 dao3
+引|引|yin3~3	0	引用|引用|yin3 yong4	引用	引用	yin3 yong4
+引|引|yin3~6	0	丈|丈|zhang4	丈	丈	zhang4
+引擎|引擎|yin3 qing2~1	0	發動機|发动机|fa1 dong4 ji1	發動機	发动机	fa1 dong4 ji1
+引發|引发|yin3 fa1~1	0	引起|引起|yin3 qi3	引起	引起	yin3 qi3
+張|张|zhang1~4	0	條|条|tiao2	條	条	tiao2
+強|强|qiang2~1	0	百強|百强|bai3 qiang2	百強	百强	bai3 qiang2
+形式|形式|xing2 shi4~1	0	形狀|形状|xing2 zhuang4	形狀	形状	xing2 zhuang4
+往|往|wang3~1	0	向|向|xiang4	向	向	xiang4
+待|待|dai1~1	0	呆|呆|dai1	呆	呆	dai1
+後|后|hou4~1	0	前|前|qian2	前	前	qian2
+後來|后来|hou4 lai2~1	0	以後|以后|yi3 hou4	以後	以后	yi3 hou4
+得|得|de2~1	0	得到|得到|de2 dao4	得到	得到	de2 dao4
+得|得|dei3~1	0	必須|必须|bi4 xu1	必須	必须	bi4 xu1
+得到|得到|de2 dao4~1	0	受到|受到|shou4 dao4	受到	受到	shou4 dao4
+從未|从未|cong2 wei4~1	0	從來|从来|cong2 lai2	從來	从来	cong2 lai2
+必須|必须|bi4 xu1~1	0	必需|必需|bi4 xu1	必需	必需	bi4 xu1
+快速|快速|kuai4 su4~1	0	快|快|kuai4	快	快	kuai4
+思想|思想|si1 xiang3~1	0	想法|想法|xiang3 fa3	想法	想法	xiang3 fa3
+怪|怪|guai4~1	0	奇怪|奇怪|qi2 guai4	奇怪	奇怪	qi2 guai4
+恩|恩|en1~2	0	嗯|嗯|en4	嗯	嗯	en4
+想法|想法|xiang3 fa3~1	0	看法|看法|kan4 fa3	看法	看法	kan4 fa3
+意義|意义|yi4 yi4~2	0	意思|意思|yi4 si5	意思	意思	yi4 si5
+愛|爱|ai4~1	0	喜歡|喜欢|xi3 huan5	喜歡	喜欢	xi3 huan5
+感|感|gan3~3	0	性|性|xing4	性	性	xing4
+感情|感情|gan3 qing2~1	0	感覺|感觉|gan3 jue2	感覺	感觉	gan3 jue2
+感覺|感觉|gan3 jue2~1	0	覺得|觉得|jue2 de5	覺得	觉得	jue2 de5
+應|应|ying1~1	0	應該|应该|ying1 gai1	應該	应该	ying1 gai1
+應該|应该|ying1 gai1~1	0	必須|必须|bi4 xu1	必須	必须	bi4 xu1
+成|成|cheng2~3	0	行|行|xing2	行	行	xing2
+成為|成为|cheng2 wei2~1	0	變成|变成|bian4 cheng2	變成	变成	bian4 cheng2
+成績|成绩|cheng2 ji4~1	0	成果|成果|cheng2 guo3	成果	成果	cheng2 guo3
+我們|我们|wo3 men5~1	0	咱們|咱们|zan2 men5	咱們	咱们	zan2 men5
+或|或|huo4~1	0	還是|还是|hai2 shi5	還是	还是	hai2 shi5
+或|或|huo4~2	0	或許|或许|huo4 xu3	或許	或许	huo4 xu3
+或是|或是|huo4 shi4~1	0	還是|还是|hai2 shi5	還是	还是	hai2 shi5
+或者|或者|huo4 zhe3~1	0	還是|还是|hai2 shi5	還是	还是	hai2 shi5
+戰鬥|战斗|zhan4 dou4~1	0	戰爭|战争|zhan4 zheng1	戰爭	战争	zhan4 zheng1
+戴|戴|dai4~1	0	穿|穿|chuan1	穿	穿	chuan1
+所|所|suo3~2	0	間|间|jian1	間	间	jian1
+所|所|suo3~2	1	家|家|jia1	家	家	jia1
+所有|所有|suo3 you3~1	0	全部|全部|quan2 bu4	全部	全部	quan2 bu4
+所有|所有|suo3 you3~2	0	佔有|占有|zhan4 you3	佔有	占有	zhan4 you3
+所有|所有|suo3 you3~2	1	屬於|属于|shu3 yu2	屬於	属于	shu3 yu2
+打算|打算|da3 suan4~1	0	計劃|计划|ji4 hua4	計劃	计划	ji4 hua4
+托|托|tuo1~2	0	託|托|tuo1	託	托	tuo1
+批准|批准|pi1 zhun3~1	0	同意|同意|tong2 yi4	同意	同意	tong2 yi4
+找到|找到|zhao3 dao4~1	0	找|找|zhao3	找	找	zhao3
+承認|承认|cheng2 ren4~1	0	同意|同意|tong2 yi4	同意	同意	tong2 yi4
+投|投|tou2~2	0	投票|投票|tou2 piao4	投票	投票	tou2 piao4
+投|投|tou2~2	1	投資|投资|tou2 zi1	投資	投资	tou2 zi1
+投|投|tou2~3	0	投稿|投稿|tou2 gao3	投稿	投稿	tou2 gao3
+拉|拉|la1~1	0	推|推|tui1	推	推	tui1
+拍攝|拍摄|pai1 she4~1	0	拍|拍|pai1	拍	拍	pai1
+拿|拿|na2~2	0	把|把|ba3	把	把	ba3
+持續|持续|chi2 xu4~1	0	繼續|继续|ji4 xu4	繼續	继续	ji4 xu4
+按|按|an4~2	0	按照|按照|an4 zhao4	按照	按照	an4 zhao4
+按照|按照|an4 zhao4~1	0	根據|根据|gen1 ju4	根據	根据	gen1 ju4
+捲|卷|juan3~4	0	張|张|zhang1	張	张	zhang1
+掉|掉|diao4~3	0	完|完|wan2	完	完	wan2
+排|排|pai2~4	0	行|行|hang2	行	行	hang2
+接受|接受|jie1 shou4~1	0	收到|收到|shou1 dao4	收到	收到	shou1 dao4
+接著|接着|jie1 zhe5~1	0	然後|然后|ran2 hou4	然後	然后	ran2 hou4
+接觸|接触|jie1 chu4~2	0	聯繫|联系|lian2 xi4	聯繫	联系	lian2 xi4
+接近|接近|jie1 jin4~1	0	靠近|靠近|kao4 jin4	靠近	靠近	kao4 jin4
+描述|描述|miao2 shu4~1	0	描寫|描写|miao2 xie3	描寫	描写	miao2 xie3
+提議|提议|ti2 yi4~1	0	建議|建议|jian4 yi4	建議	建议	jian4 yi4
+提高|提高|ti2 gao1~1	0	增加|增加|zeng1 jia1	增加	增加	zeng1 jia1
+支援|支援|zhi1 yuan2~1	0	支持|支持|zhi1 chi2	支持	支持	zhi1 chi2
+收到|收到|shou1 dao4~1	0	收|收|shou1	收	收	shou1
+改變|改变|gai3 bian4~1	0	變化|变化|bian4 hua4	變化	变化	bian4 hua4
+攻擊|攻击|gong1 ji1~2	0	批評|批评|pi1 ping2	批評	批评	pi1 ping2
+放|放|fang4~3	0	播放|播放|bo1 fang4	播放	播放	bo1 fang4
+效果|效果|xiao4 guo3~1	0	結果|结果|jie2 guo3	結果	结果	jie2 guo3
+教會|教会|jiao4 hui4~1	0	教堂|教堂|jiao4 tang2	教堂	教堂	jiao4 tang2
+整|整|zheng3~7	0	弄|弄|nong4	弄	弄	nong4
+整個|整个|zheng3 ge4~1	0	所有|所有|suo3 you3	所有	所有	suo3 you3
+數|数|shuo4~1	0	數見不鮮|数见不鲜|shuo4 jian4 bu4 xian1	數見不鮮	数见不鲜	shuo4 jian4 bu4 xian1
+數據|数据|shu4 ju4~1	0	資料|资料|zi1 liao4	資料	资料	zi1 liao4
+文化|文化|wen2 hua4~1	0	文明|文明|wen2 ming2	文明	文明	wen2 ming2
+斗|斗|dou3~1	0	升|升|sheng1	升	升	sheng1
+新聞|新闻|xin1 wen2~1	0	消息|消息|xiao1 xi5	消息	消息	xiao1 xi5
+方式|方式|fang1 shi4~1	0	方法|方法|fang1 fa3	方法	方法	fang1 fa3
+方案|方案|fang1 an4~1	0	計劃|计划|ji4 hua4	計劃	计划	ji4 hua4
+方法|方法|fang1 fa3~1	0	辦法|办法|ban4 fa3	辦法	办法	ban4 fa3
+於|于|yu2~1	0	在|在|zai4	在	在	zai4
+於|于|yu2~3	0	比|比|bi3	比	比	bi3
+於|于|yu2~5	0	被|被|bei4	被	被	bei4
+於|於|wu1~1	0	嗚呼|呜呼|wu1 hu1	嗚呼	呜呼	wu1 hu1
+於是|于是|yu2 shi4~1	0	所以|所以|suo3 yi3	所以	所以	suo3 yi3
+於是|于是|yu2 shi4~1	1	因此|因此|yin1 ci3	因此	因此	yin1 ci3
+旁|旁|pang2~3	0	偏旁|偏旁|pian1 pang2	偏旁	偏旁	pian1 pang2
+既|既|ji4~2	0	既然|既然|ji4 ran2	既然	既然	ji4 ran2
+明|明|ming2~4	0	暗|暗|an4	暗	暗	an4
+易|易|yi4~1	0	容易|容易|rong2 yi4	容易	容易	rong2 yi4
+是|是|shi4~4	0	對|对|dui4	對	对	dui4
+時|时|shi2~1	0	時間|时间|shi2 jian1	時間	时间	shi2 jian1
+時|时|shi2~2	0	時候|时候|shi2 hou5	時候	时候	shi2 hou5
+時|时|shi2~3	0	小時|小时|xiao3 shi2	小時	小时	xiao3 shi2
+時|时|shi2~4	0	季節|季节|ji4 jie2	季節	季节	ji4 jie2
+時候|时候|shi2 hou5~1	0	時間|时间|shi2 jian1	時間	时间	shi2 jian1
+時期|时期|shi2 qi1~1	0	時代|时代|shi2 dai4	時代	时代	shi2 dai4
+時間|时间|shi2 jian1~1	0	時候|时候|shi2 hou5	時候	时候	shi2 hou5
+普通|普通|pu3 tong1~1	0	一般|一般|yi1 ban1	一般	一般	yi1 ban1
+曲|曲|qu3~1	0	歌|歌|ge1	歌	歌	ge1
+更|更|geng4~1	0	最|最|zui4	最	最	zui4
+更加|更加|geng4 jia1~1	0	更|更|geng4	更	更	geng4
+曾|曾|ceng2~1	0	曾經|曾经|ceng2 jing1	曾經	曾经	ceng2 jing1
+曾經|曾经|ceng2 jing1~1	0	已經|已经|yi3 jing1	已經	已经	yi3 jing1
+最|最|zui4~1	0	更|更|geng4	更	更	geng4
+最|最|zui4~2	0	之|之|zhi1	之	之	zhi1
+最後|最后|zui4 hou4~1	0	後來|后来|hou4 lai2	後來	后来	hou4 lai2
+最終|最终|zui4 zhong1~1	0	最後|最后|zui4 hou4	最後	最后	zui4 hou4
+有些|有些|you3 xie1~2	0	有點|有点|you3 dian3	有點	有点	you3 dian3
+有效|有效|you3 xiao4~1	0	有用|有用|you3 yong4	有用	有用	you3 yong4
+朝|朝|chao2~1	0	向|向|xiang4	向	向	xiang4
+朝|朝|chao2~1	1	往|往|wang3	往	往	wang3
+未|未|wei4~1	0	沒|没|mei2	沒	没	mei2
+未|未|wei4~2	0	地支|地支|di4 zhi1	地支	地支	di4 zhi1
+本|本|ben3~4	0	本來|本来|ben3 lai2	本來	本来	ben3 lai2
+本來|本来|ben3 lai2~1	0	原來|原来|yuan2 lai2	原來	原来	yuan2 lai2
+本身|本身|ben3 shen1~1	0	本人|本人|ben3 ren2	本人	本人	ben3 ren2
+某些|某些|mou3 xie1~1	0	有些|有些|you3 xie1	有些	有些	you3 xie1
+校|校|jiao4~1	0	校對|校对|jiao4 dui4	校對	校对	jiao4 dui4
+根據|根据|gen1 ju4~1	0	按照|按照|an4 zhao4	按照	按照	an4 zhao4
+格|格|ge2~8	0	改正|改正|gai3 zheng4	改正	改正	gai3 zheng4
+格|格|ge2~9	0	到達|到达|dao4 da2	到達	到达	dao4 da2
+梅|梅|mei2~2	0	梅花|梅花|mei2 hua1	梅花	梅花	mei2 hua1
+森林|森林|sen1 lin2~1	0	樹林|树林|shu4 lin2	樹林	树林	shu4 lin2
+槍|枪|qiang1~3	0	手槍|手枪|shou3 qiang1	手槍	手枪	shou3 qiang1
+權利|权利|quan2 li4~1	0	權力|权力|quan2 li4	權力	权力	quan2 li4
+權力|权力|quan2 li4~1	0	權利|权利|quan2 li4	權利	权利	quan2 li4
+次|次|ci4~1	0	遍|遍|bian4	遍	遍	bian4
+歌曲|歌曲|ge1 qu3~1	0	歌|歌|ge1	歌	歌	ge1
+正在|正在|zheng4 zai4~1	0	在|在|zai4	在	在	zai4
+正確|正确|zheng4 que4~1	0	對|对|dui4	對	对	dui4
+此|此|ci3~2	0	這|这|zhe4	這	这	zhe4
+此|此|ci3~2	1	因此|因此|yin1 ci3	因此	因此	yin1 ci3
+歸|归|gui1~5	0	出嫁|出嫁|chu1 jia4	出嫁	出嫁	chu1 jia4
+歸|归|gui1~6	0	算盤|算盘|suan4 pan2	算盤	算盘	suan4 pan2
+死亡|死亡|si3 wang2~1	0	死|死|si3	死	死	si3
+殺|杀|sha1~4	0	死|死|si3	死	死	si3
+殺死|杀死|sha1 si3~1	0	殺|杀|sha1	殺	杀	sha1
+母親|母亲|mu3 qin1~1	0	媽媽|妈妈|ma1 ma5	媽媽	妈妈	ma1 ma5
+每個|每个|mei3 ge4~1	0	每|每|mei3	每	每	mei3
+每個|每个|mei3 ge4~1	1	都|都|dou1	都	都	dou1
+比|比|bi3~2	0	比較|比较|bi3 jiao4	比較	比较	bi3 jiao4
+比如|比如|bi3 ru2~1	0	例如|例如|li4 ru2	例如	例如	li4 ru2
+比較|比较|bi3 jiao4~1	0	很|很|hen3	很	很	hen3
+毛|毛|mao2~2	0	角|角|jiao3	角	角	jiao3
+求|求|qiu2~1	0	請|请|qing3	請	请	qing3
+沒|没|mei2~1	0	沒有|没有|mei2 you3	沒有	没有	mei2 you3
+沒|没|mei2~2	0	不|不|bu4	不	不	bu4
+沒有|没有|mei2 you3~1	0	沒|没|mei2	沒	没	mei2
+沒有|没有|mei2 you3~2	0	不|不|bu4	不	不	bu4
+沖|冲|chong1~6	0	衝|冲|chong1	衝	冲	chong1
+沙|沙|sha4~1	0	篩|筛|shai1	篩	筛	shai1
+法庭|法庭|fa3 ting2~1	0	法官|法官|fa3 guan1	法官	法官	fa3 guan1
+派|派|pai4~8	0	支流|支流|zhi1 liu2	支流	支流	zhi1 liu2
+消息|消息|xiao1 xi5~1	0	新聞|新闻|xin1 wen2	新聞	新闻	xin1 wen2
+混|混|hun2~1	0	渾|浑|hun2	渾	浑	hun2
+混|混|hun2~2	0	渾|浑|hun2	渾	浑	hun2
+演出|演出|yan3 chu1~1	0	表演|表演|biao3 yan3	表演	表演	biao3 yan3
+火|火|huo3~4	0	中醫|中医|zhong1 yi1	中醫	中医	zhong1 yi1
+火|火|huo3~9	0	部首|部首|bu4 shou3	部首	部首	bu4 shou3
+為|为|wei2~6	0	被|被|bei4	被	被	bei4
+為|为|wei4~2	0	為了|为了|wei4 le5	為了	为了	wei4 le5
+為|为|wei4~2	1	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+為了|为了|wei4 le5~1	0	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+為什麼|为什么|wei4 shen2 me5~1	0	怎麼|怎么|zen3 me5	怎麼	怎么	zen3 me5
+為止|为止|wei2 zhi3~1	0	到|到|dao4	到	到	dao4
+無論|无论|wu2 lun4~1	0	不管|不管|bu4 guan3	不管	不管	bu4 guan3
+然後|然后|ran2 hou4~1	0	後來|后来|hou4 lai2	後來	后来	hou4 lai2
+然而|然而|ran2 er2~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+父親|父亲|fu4 qin1~1	0	爸爸|爸爸|ba4 ba5	爸爸	爸爸	ba4 ba5
+牠|它|ta1~1	0	它|它|ta1	它	它	ta1
+特殊|特殊|te4 shu1~1	0	特別|特别|te4 bie2	特別	特别	te4 bie2
+狀態|状态|zhuang4 tai4~1	0	情況|情况|qing2 kuang4	情況	情况	qing2 kuang4
+獲得|获得|huo4 de2~1	0	得到|得到|de2 dao4	得到	得到	de2 dao4
+現代|现代|xian4 dai4~1	0	當代|当代|dang1 dai4	當代	当代	dang1 dai4
+現在|现在|xian4 zai4~1	0	目前|目前|mu4 qian2	目前	目前	mu4 qian2
+理解|理解|li3 jie3~1	0	了解|了解|liao3 jie3	了解	了解	liao3 jie3
+生命|生命|sheng1 ming4~1	0	生活|生活|sheng1 huo2	生活	生活	sheng1 huo2
+生物|生物|sheng1 wu4~2	0	生物學|生物学|sheng1 wu4 xue2	生物學	生物学	sheng1 wu4 xue2
+用|用|yong4~7	0	因此|因此|yin1 ci3	因此	因此	yin1 ci3
+由|由|you2~1	0	從|从|cong2	從	从	cong2
+由|由|you2~2	0	由於|由于|you2 yu2	由於	由于	you2 yu2
+由於|由于|you2 yu2~1	0	因為|因为|yin1 wei4	因為	因为	yin1 wei4
+甲|甲|jia3~4	0	天干|天干|tian1 gan1	天干	天干	tian1 gan1
+男|男|nan2~2	0	五等爵位|五等爵位|wu3 deng3 jue2 wei4	五等爵位	五等爵位	wu3 deng3 jue2 wei4
+男人|男人|nan2 ren2~1	0	男孩|男孩|nan2 hai2	男孩	男孩	nan2 hai2
+留下|留下|liu2 xia4~1	0	剩下|剩下|sheng4 xia4	剩下	剩下	sheng4 xia4
+當|当|dang4~1	0	當作|当作|dang4 zuo4	當作	当作	dang4 zuo4
+當|当|dang4~1	1	當成|当成|dang4 cheng2	當成	当成	dang4 cheng2
+當|当|dang4~4	0	當鋪|当铺|dang4 pu4	當鋪	当铺	dang4 pu4
+疾病|疾病|ji2 bing4~1	0	病|病|bing4	病	病	bing4
+發現|发现|fa1 xian4~2	0	發明|发明|fa1 ming2	發明	发明	fa1 ming2
+發生|发生|fa1 sheng1~1	0	出現|出现|chu1 xian4	出現	出现	chu1 xian4
+的|的|de5~1	0	地|地|de5	地	地	de5
+的|的|de5~1	1	得|得|de5	得	得	de5
+的|的|de5~3	0	是|是|shi4	是	是	shi4
+的話|的话|de5 hua4~1	0	如果|如果|ru2 guo3	如果	如果	ru2 guo3
+皇后|皇后|huang2 hou4~1	0	女王|女王|nu:3 wang2	女王	女王	nu:3 wang2
+目前|目前|mu4 qian2~1	0	現在|现在|xian4 zai4	現在	现在	xian4 zai4
+目標|目标|mu4 biao1~1	0	目的|目的|mu4 di4	目的	目的	mu4 di4
+目的|目的|mu4 di4~1	0	目標|目标|mu4 biao1	目標	目标	mu4 biao1
+直|直|zhi2~2	0	直接|直接|zhi2 jie1	直接	直接	zhi2 jie1
+直|直|zhi2~5	0	橫|横|heng2	橫	横	heng2
+直|直|zhi2~6	0	豎|竖|shu4	豎	竖	shu4
+直接|直接|zhi2 jie1~1	0	間接|间接|jian4 jie1	間接	间接	jian4 jie1
+相互|相互|xiang1 hu4~1	0	互相|互相|hu4 xiang1	互相	互相	hu4 xiang1
+相似|相似|xiang1 si4~1	0	相同|相同|xiang1 tong2	相同	相同	xiang1 tong2
+相信|相信|xiang1 xin4~1	0	以為|以为|yi3 wei2	以為	以为	yi3 wei2
+相當|相当|xiang1 dang1~1	0	比較|比较|bi3 jiao4	比較	比较	bi3 jiao4
+相當|相当|xiang1 dang1~1	1	非常|非常|fei1 chang2	非常	非常	fei1 chang2
+相關|相关|xiang1 guan1~1	0	有關|有关|you3 guan1	有關	有关	you3 guan1
+看到|看到|kan4 dao4~1	0	看|看|kan4	看	看	kan4
+看法|看法|kan4 fa3~1	0	想法|想法|xiang3 fa3	想法	想法	xiang3 fa3
+看見|看见|kan4 jian4~1	0	看|看|kan4	看	看	kan4
+真|真|zhen1~1	0	很|很|hen3	很	很	hen3
+真正|真正|zhen1 zheng4~1	0	真|真|zhen1	真	真	zhen1
+眼睛|眼睛|yan3 jing5~1	0	眼|眼|yan3	眼	眼	yan3
+知|知|zhi1~1	0	知道|知道|zhi1 dao4	知道	知道	zhi1 dao4
+知道|知道|zhi1 dao4~1	0	了解|了解|liao3 jie3	了解	了解	liao3 jie3
+短|短|duan3~1	0	長|长|chang2	長	长	chang2
+石|石|dan4~1	0	斗|斗|dou3	斗	斗	dou3
+石|石|shi2~3	0	八音|八音|ba1 yin1	八音	八音	ba1 yin1
+確保|确保|que4 bao3~1	0	保證|保证|bao3 zheng4	保證	保证	bao3 zheng4
+確定|确定|que4 ding4~1	0	決定|决定|jue2 ding4	決定	决定	jue2 ding4
+碼|码|ma3~10	0	瑪瑙|玛瑙|ma3 nao3	瑪瑙	玛瑙	ma3 nao3
+福|福|fu2~1	0	幸福|幸福|xing4 fu2	幸福	幸福	xing4 fu2
+离|离|chi1~1	0	螭|螭|chi1	螭	螭	chi1
+秀|秀|xiu4~5	0	開花|开花|kai1 hua1	開花	开花	kai1 hua1
+私人|私人|si1 ren2~1	0	個人|个人|ge4 ren2	個人	个人	ge4 ren2
+稍|稍|shao1~1	0	稍微|稍微|shao1 wei1	稍微	稍微	shao1 wei1
+種|种|zhong4~1	0	種子|种子|zhong3 zi5	種子	种子	zhong3 zi5
+稱為|称为|cheng1 wei2~1	0	叫做|叫做|jiao4 zuo4	叫做	叫做	jiao4 zuo4
+穀|谷|gu3~1	0	穀物|谷物|gu3 wu4	穀物	谷物	gu3 wu4
+積極|积极|ji1 ji2~1	0	消極|消极|xiao1 ji2	消極	消极	xiao1 ji2
+空間|空间|kong1 jian1~3	0	太空|太空|tai4 kong1	太空	太空	tai4 kong1
+穿|穿|chuan1~1	0	戴|戴|dai4	戴	戴	dai4
+第|第|di4~4	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+第五|第五|di4 wu3~1	0	第|第|di4	第	第	di4
+等|等|deng3~2	0	等到|等到|deng3 dao4	等到	等到	deng3 dao4
+等|等|deng3~3	0	等等|等等|deng3 deng3	等等	等等	deng3 deng3
+等|等|deng3~6	0	們|们|men5	們	们	men5
+等等|等等|deng3 deng3~1	0	什麼的|什么的|shen2 me5 de5	什麼的	什么的	shen2 me5 de5
+等等|等等|deng3 deng3~2	0	等一下|等一下|deng3 yi1 xia4	等一下	等一下	deng3 yi1 xia4
+管|管|guan3~5	0	把|把|ba3	把	把	ba3
+管|管|guan3~6	0	向|向|xiang4	向	向	xiang4
+管|管|guan3~6	1	跟|跟|gen1	跟	跟	gen1
+簡單|简单|jian3 dan1~1	0	複雜|复杂|fu4 za2	複雜	复杂	fu4 za2
+簡單|简单|jian3 dan1~1	1	容易|容易|rong2 yi4	容易	容易	rong2 yi4
+簽署|签署|qian1 shu3~1	0	簽名|签名|qian1 ming2	簽名	签名	qian1 ming2
+約|约|yue1~2	0	大約|大约|da4 yue1	大約	大约	da4 yue1
+終於|终于|zhong1 yu2~1	0	最後|最后|zui4 hou4	最後	最后	zui4 hou4
+組合|组合|zu3 he2~2	0	排列|排列|pai2 lie4	排列	排列	pai2 lie4
+結束|结束|jie2 shu4~1	0	開始|开始|kai1 shi3	開始	开始	kai1 shi3
+結束|结束|jie2 shu4~1	1	完成|完成|wan2 cheng2	完成	完成	wan2 cheng2
+結果|结果|jie2 guo3~1	0	後果|后果|hou4 guo3	後果	后果	hou4 guo3
+給|给|gei3~3	0	讓|让|rang4	讓	让	rang4
+給|给|gei3~4	0	被|被|bei4	被	被	bei4
+給|给|gei3~5	0	把|把|ba3	把	把	ba3
+給|给|gei3~5	1	被|被|bei4	被	被	bei4
+經常|经常|jing1 chang2~1	0	常常|常常|chang2 chang2	常常	常常	chang2 chang2
+經歷|经历|jing1 li4~1	0	經驗|经验|jing1 yan4	經驗	经验	jing1 yan4
+經驗|经验|jing1 yan4~1	0	經歷|经历|jing1 li4	經歷	经历	jing1 li4
+綠|绿|lu:4~2	0	綠帽子|绿帽子|lu:4 mao4 zi5	綠帽子	绿帽子	lu:4 mao4 zi5
+維持|维持|wei2 chi2~1	0	保持|保持|bao3 chi2	保持	保持	bao3 chi2
+線|线|xian4~3	0	路線|路线|lu4 xian4	路線	路线	lu4 xian4
+總|总|zong3~1	0	總是|总是|zong3 shi4	總是	总是	zong3 shi4
+美|美|mei3~1	0	漂亮|漂亮|piao4 liang5	漂亮	漂亮	piao4 liang5
+者|者|zhe3~1	0	的|的|de5	的	的	de5
+者|者|zhe3~5	0	這|这|zhe4	這	这	zhe4
+而|而|er2~2	0	而且|而且|er2 qie3	而且	而且	er2 qie3
+而已|而已|er2 yi3~1	0	罷了|罢了|ba4 le5	罷了	罢了	ba4 le5
+而是|而是|er2 shi4~1	0	而且|而且|er2 qie3	而且	而且	er2 qie3
+耶|耶|ye2~1	0	嗎|吗|ma5	嗎	吗	ma5
+耶|耶|ye2~1	1	呢|呢|ne5	呢	呢	ne5
+聲|声|sheng1~2	0	聲調|声调|sheng1 diao4	聲調	声调	sheng1 diao4
+聲明|声明|sheng1 ming2~1	0	宣布|宣布|xuan1 bu4	宣布	宣布	xuan1 bu4
+聽|听|ting1~1	0	聽見|听见|ting1 jian4	聽見	听见	ting1 jian4
+聽|听|ting1~3	0	罐|罐|guan4	罐	罐	guan4
+聽到|听到|ting1 dao4~1	0	聽|听|ting1	聽	听	ting1
+股|股|gu3~1	0	股票|股票|gu3 piao4	股票	股票	gu3 piao4
+股|股|gu3~3	0	大腿|大腿|da4 tui3	大腿	大腿	da4 tui3
+胡|胡|hu2~3	0	和|和|hu2	和	和	hu2
+能|能|neng2~1	0	會|会|hui4	會	会	hui4
+能|能|neng2~2	0	可以|可以|ke3 yi3	可以	可以	ke3 yi3
+能|能|neng2~3	0	可能|可能|ke3 neng2	可能	可能	ke3 neng2
+能|能|neng2~5	0	能量|能量|neng2 liang4	能量	能量	neng2 liang4
+能夠|能够|neng2 gou4~1	0	能|能|neng2	能	能	neng2
+自從|自从|zi4 cong2~1	0	從|从|cong2	從	从	cong2
+自然|自然|zi4 ran2~3	0	當然|当然|dang1 ran2	當然	当然	dang1 ran2
+至|至|zhi4~1	0	到|到|dao4	到	到	dao4
+至於|至于|zhi4 yu2~1	0	關於|关于|guan1 yu2	關於	关于	guan1 yu2
+與|与|yu3~1	0	和|和|he2	和	和	he2
+舉行|举行|ju3 xing2~1	0	舉辦|举办|ju3 ban4	舉辦	举办	ju3 ban4
+舉辦|举办|ju3 ban4~1	0	舉行|举行|ju3 xing2	舉行	举行	ju3 xing2
+舊|旧|jiu4~2	0	老|老|lao3	老	老	lao3
+舞|舞|wu3~1	0	跳舞|跳舞|tiao4 wu3	跳舞	跳舞	tiao4 wu3
+艘|艘|sou1~1	0	條|条|tiao2	條	条	tiao2
+色|色|shai3~1	0	顏色|颜色|yan2 se4	顏色	颜色	yan2 se4
+若|若|ruo4~1	0	如果|如果|ru2 guo3	如果	如果	ru2 guo3
+莫|莫|mo4~1	0	別|别|bie2	別	别	bie2
+萊|莱|lai2~1	0	藜|藜|li2	藜	藜	li2
+葉|叶|ye4~5	0	頁|页|ye4	頁	页	ye4
+著|着|zhao1~2	0	招|招|zhao1	招	招	zhao1
+著|着|zhe5~1	0	了|了|le5	了	了	le5
+著名|著名|zhu4 ming2~1	0	有名|有名|you3 ming2	有名	有名	you3 ming2
+處|处|chu3~2	0	相處|相处|xiang1 chu3	相處	相处	xiang1 chu3
+號|号|hao4~1	0	日|日|ri4	日	日	ri4
+行為|行为|xing2 wei2~1	0	行動|行动|xing2 dong4	行動	行动	xing2 dong4
+表示|表示|biao3 shi4~1	0	表達|表达|biao3 da2	表達	表达	biao3 da2
+表達|表达|biao3 da2~1	0	表示|表示|biao3 shi4	表示	表示	biao3 shi4
+被捕|被捕|bei4 bu3~1	0	逮捕|逮捕|dai4 bu3	逮捕	逮捕	dai4 bu3
+製|制|zhi4~1	0	制|制|zhi4	制	制	zhi4
+製作|制作|zhi4 zuo4~1	0	製造|制造|zhi4 zao4	製造	制造	zhi4 zao4
+複雜|复杂|fu4 za2~1	0	簡單|简单|jian3 dan1	簡單	简单	jian3 dan1
+要|要|yao4~5	0	要是|要是|yao4 shi5	要是	要是	yao4 shi5
+覺得|觉得|jue2 de5~1	0	認為|认为|ren4 wei2	認為	认为	ren4 wei2
+觀眾|观众|guan1 zhong4~1	0	聽眾|听众|ting1 zhong4	聽眾	听众	ting1 zhong4
+角|角|jiao3~4	0	元|元|yuan2	元	元	yuan2
+解釋|解释|jie3 shi4~1	0	說明|说明|shuo1 ming2	說明	说明	shuo1 ming2
+計劃|计划|ji4 hua4~1	0	打算|打算|da3 suan4	打算	打算	da3 suan4
+設計|设计|she4 ji4~1	0	計劃|计划|ji4 hua4	計劃	计划	ji4 hua4
+試驗|试验|shi4 yan4~1	0	實驗|实验|shi2 yan4	實驗	实验	shi2 yan4
+話|话|hua4~2	0	語言|语言|yu3 yan2	語言	语言	yu3 yan2
+該|该|gai1~1	0	應該|应该|ying1 gai1	應該	应该	ying1 gai1
+該|该|gai1~3	0	輪到|轮到|lun2 dao4	輪到	轮到	lun2 dao4
+該|该|gai1~5	0	欠|欠|qian4	欠	欠	qian4
+認為|认为|ren4 wei2~1	0	覺得|觉得|jue2 de5	覺得	觉得	jue2 de5
+語|语|yu4~1	0	告訴|告诉|gao4 su5	告訴	告诉	gao4 su5
+說|说|shuo1~1	0	告訴|告诉|gao4 su5	告訴	告诉	gao4 su5
+說法|说法|shuo1 fa5~2	0	想法|想法|xiang3 fa3	想法	想法	xiang3 fa3
+調整|调整|tiao2 zheng3~1	0	改變|改变|gai3 bian4	改變	改变	gai3 bian4
+調查|调查|diao4 cha2~1	0	檢查|检查|jian3 cha2	檢查	检查	jian3 cha2
+請求|请求|qing3 qiu2~1	0	要求|要求|yao1 qiu2	要求	要求	yao1 qiu2
+證實|证实|zheng4 shi2~1	0	證明|证明|zheng4 ming2	證明	证明	zheng4 ming2
+證據|证据|zheng4 ju4~1	0	證明|证明|zheng4 ming2	證明	证明	zheng4 ming2
+警|警|jing3~1	0	警察|警察|jing3 cha2	警察	警察	jing3 cha2
+警告|警告|jing3 gao4~1	0	提醒|提醒|ti2 xing3	提醒	提醒	ti2 xing3
+議員|议员|yi4 yuan2~1	0	議會|议会|yi4 hui4	議會	议会	yi4 hui4
+議會|议会|yi4 hui4~1	0	國會|国会|Guo2 hui4	國會	国会	Guo2 hui4
+護|护|hu4~1	0	保護|保护|bao3 hu4	保護	保护	bao3 hu4
+變|变|bian4~1	0	變成|变成|bian4 cheng2	變成	变成	bian4 cheng2
+變成|变成|bian4 cheng2~1	0	成為|成为|cheng2 wei2	成為	成为	cheng2 wei2
+讓|让|rang4~3	0	被|被|bei4	被	被	bei4
+谷|谷|gu3~1	0	山谷|山谷|shan1 gu3	山谷	山谷	shan1 gu3
+買|买|mai3~1	0	賣|卖|mai4	賣	卖	mai4
+資料|资料|zi1 liao4~1	0	材料|材料|cai2 liao4	材料	材料	cai2 liao4
+賣|卖|mai4~1	0	買|买|mai3	買	买	mai3
+贏得|赢得|ying2 de2~1	0	贏|赢|ying2	贏	赢	ying2
+起|起|qi3~2	0	起來|起来|qi3 lai5	起來	起来	qi3 lai5
+起|起|qi3~3	0	從|从|cong2	從	从	cong2
+起|起|qi3~5	0	件|件|jian4	件	件	jian4
+越|越|yue4~1	0	越來越|越来越|yue4 lai2 yue4	越來越	越来越	yue4 lai2 yue4
+越來越|越来越|yue4 lai2 yue4~1	0	越|越|yue4	越	越	yue4
+足|足|ju4~1	0	過分|过分|guo4 fen4	過分	过分	guo4 fen4
+足|足|zu2~2	0	夠|够|gou4	夠	够	gou4
+辦法|办法|ban4 fa3~1	0	方法|方法|fang1 fa3	方法	方法	fang1 fa3
+近|近|jin4~1	0	附近|附近|fu4 jin4	附近	附近	fu4 jin4
+逐漸|逐渐|zhu2 jian4~1	0	慢慢|慢慢|man4 man4	慢慢	慢慢	man4 man4
+這|这|zhe4~1	0	那|那|na4	那	那	na4
+這些|这些|zhe4 xie1~1	0	那些|那些|na4 xie1	那些	那些	na4 xie1
+這個|这个|zhe4 ge5~1	0	那個|那个|na4 ge5	那個	那个	na4 ge5
+這個|这个|zhe4 ge5~2	0	那個|那个|na4 ge5	那個	那个	na4 ge5
+這樣|这样|zhe4 yang4~1	0	那樣|那样|na4 yang4	那樣	那样	na4 yang4
+這種|这种|zhe4 zhong3~1	0	那種|那种|na4 zhong3	那種	那种	na4 zhong3
+這裡|这里|zhe4 li3~1	0	這兒|这儿|zhe4 r5	這兒	这儿	zhe4 r5
+通|通|tong4~1	0	頓|顿|dun4	頓	顿	dun4
+通常|通常|tong1 chang2~1	0	經常|经常|jing1 chang2	經常	经常	jing1 chang2
+週|周|zhou1~1	0	星期|星期|xing1 qi1	星期	星期	xing1 qi1
+進入|进入|jin4 ru4~1	0	進|进|jin4	進	进	jin4
+進步|进步|jin4 bu4~1	0	提高|提高|ti2 gao1	提高	提高	ti2 gao1
+逼|逼|bi1~1	0	強迫|强迫|qiang3 po4	強迫	强迫	qiang3 po4
+遇到|遇到|yu4 dao4~1	0	見面|见面|jian4 mian4	見面	见面	jian4 mian4
+過|过|guo4~4	0	太|太|tai4	太	太	tai4
+過|过|guo5~1	0	了|了|le5	了	了	le5
+過去|过去|guo4 qu4~2	0	過來|过来|guo4 lai2	過來	过来	guo4 lai2
+過去|过去|guo4 qu5~1	0	過來|过来|guo4 lai5	過來	过来	guo4 lai5
+道|道|dao4~5	0	道家|道家|Dao4 jia1	道家	道家	Dao4 jia1
+達到|达到|da2 dao4~1	0	到達|到达|dao4 da2	到達	到达	dao4 da2
+適合|适合|shi4 he2~1	0	合適|合适|he2 shi4	合適	合适	he2 shi4
+遭|遭|zao1~2	0	次|次|ci4	次	次	ci4
+遭到|遭到|zao1 dao4~1	0	受到|受到|shou4 dao4	受到	受到	shou4 dao4
+邀請|邀请|yao1 qing3~1	0	請|请|qing3	請	请	qing3
+還|还|hai2~2	0	也|也|ye3	也	也	ye3
+還|还|hai2~5	0	何況|何况|he2 kuang4	何況	何况	he2 kuang4
+還是|还是|hai2 shi5~2	0	或者|或者|huo4 zhe3	或者	或者	huo4 zhe3
+還有|还有|hai2 you3~2	0	而且|而且|er2 qie3	而且	而且	er2 qie3
+邊|边|bian1~3	0	一邊|一边|yi1 bian1	一邊	一边	yi1 bian1
+那|那|na4~1	0	這|这|zhe4	這	这	zhe4
+那|那|na4~2	0	那麼|那么|na4 me5	那麼	那么	na4 me5
+那|那|nuo2~3	0	哪|哪|na3	哪	哪	na3
+那些|那些|na4 xie1~1	0	這些|这些|zhe4 xie1	這些	这些	zhe4 xie1
+那些|那些|na4 xie1~1	1	那個|那个|na4 ge5	那個	那个	na4 ge5
+那個|那个|na4 ge5~1	0	這個|这个|zhe4 ge5	這個	这个	zhe4 ge5
+那樣|那样|na4 yang4~1	0	這樣|这样|zhe4 yang4	這樣	这样	zhe4 yang4
+那裡|那里|na4 li5~1	0	那兒|那儿|na4 r5	那兒	那儿	na4 r5
+那麼|那么|na4 me5~1	0	這麼|这么|zhe4 me5	這麼	这么	zhe4 me5
+郡|郡|jun4~1	0	縣|县|xian4	縣	县	xian4
+都|都|dou1~2	0	甚至|甚至|shen4 zhi4	甚至	甚至	shen4 zhi4
+都|都|dou1~2	1	連|连|lian2	連	连	lian2
+都|都|dou1~3	0	已經|已经|yi3 jing1	已經	已经	yi3 jing1
+里|里|li3~2	0	家鄉|家乡|jia1 xiang1	家鄉	家乡	jia1 xiang1
+里|里|li3~3	0	鎮|镇|zhen4	鎮	镇	zhen4
+重新|重新|chong2 xin1~1	0	再|再|zai4	再	再	zai4
+重複|重复|chong2 fu4~1	0	重新|重新|chong2 xin1	重新	重新	chong2 xin1
+重要|重要|zhong4 yao4~1	0	主要|主要|zhu3 yao4	主要	主要	zhu3 yao4
+錢|钱|qian2~2	0	兩|两|liang3	兩	两	liang3
+錯誤|错误|cuo4 wu4~1	0	錯|错|cuo4	錯	错	cuo4
+鍾|钟|zhong1~2	0	盅|盅|zhong1	盅	盅	zhong1
+長|长|chang2~1	0	短|短|duan3	短	短	duan3
+開放|开放|kai1 fang4~2	0	保守|保守|bao3 shou3	保守	保守	bao3 shou3
+關於|关于|guan1 yu2~1	0	對於|对于|dui4 yu2	對於	对于	dui4 yu2
+阻止|阻止|zu3 zhi3~1	0	禁止|禁止|jin4 zhi3	禁止	禁止	jin4 zhi3
+附近|附近|fu4 jin4~1	0	旁邊|旁边|pang2 bian1	旁邊	旁边	pang2 bian1
+除了|除了|chu2 le5~2	0	就是|就是|jiu4 shi4	就是	就是	jiu4 shi4
+隨|随|sui2~1	0	跟|跟|gen1	跟	跟	gen1
+隨|随|sui2~2	0	隨著|随着|sui2 zhe5	隨著	随着	sui2 zhe5
+雖然|虽然|sui1 ran2~1	0	但是|但是|dan4 shi4	但是	但是	dan4 shi4
+雜誌|杂志|za2 zhi4~1	0	報紙|报纸|bao4 zhi3	報紙	报纸	bao4 zhi3
+離|离|li2~2	0	從|从|cong2	從	从	cong2
+離|离|li2~4	0	八卦|八卦|ba1 gua4	八卦	八卦	ba1 gua4
+雷|雷|lei2~1	0	閃電|闪电|shan3 dian4	閃電	闪电	shan3 dian4
+需|需|xu1~1	0	需要|需要|xu1 yao4	需要	需要	xu1 yao4
+需要|需要|xu1 yao4~2	0	想要|想要|xiang3 yao4	想要	想要	xiang3 yao4
+非|非|fei1~1	0	不是|不是|bu4 shi4	不是	不是	bu4 shi4
+非法|非法|fei1 fa3~1	0	合法|合法|he2 fa3	合法	合法	he2 fa3
+靠近|靠近|kao4 jin4~1	0	接近|接近|jie1 jin4	接近	接近	jie1 jin4
+頁|页|ye4~1	0	張|张|zhang1	張	张	zhang1
+領導|领导|ling3 dao3~2	0	領袖|领袖|ling3 xiu4	領袖	领袖	ling3 xiu4
+顆|颗|ke1~1	0	棵|棵|ke1	棵	棵	ke1
+題|题|ti2~2	0	題目|题目|ti2 mu4	題目	题目	ti2 mu4
+題|题|ti2~4	0	提|提|ti2	提	提	ti2
+願意|愿意|yuan4 yi4~1	0	想|想|xiang3	想	想	xiang3
+食|食|si4~1	0	飼|饲|si4	飼	饲	si4
+食品|食品|shi2 pin3~1	0	食物|食物|shi2 wu4	食物	食物	shi2 wu4
+首|首|shou3~1	0	頭|头|tou2	頭	头	tou2
+高|高|gao1~1	0	矮|矮|ai3	矮	矮	ai3
+高|高|gao1~2	0	低|低|di1	低	低	di1
+高中|高中|gao1 zhong1~1	0	初中|初中|chu1 zhong1	初中	初中	chu1 zhong1
+鬼|鬼|gui3~2	0	迷|迷|mi2	迷	迷	mi2
+麥克|麦克|mai4 ke4~1	0	麥克風|麦克风|mai4 ke4 feng1	麥克風	麦克风	mai4 ke4 feng1
+點|点|dian3~3	0	一點|一点|yi1 dian3	一點	一点	yi1 dian3

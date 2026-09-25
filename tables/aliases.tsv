@@ -1,0 +1,79 @@
+entry_id	seq	kind	from_sense_uid	target_entry_id	target_trad	target_simp	target_pinyin	resolved
+了|了|liao3	0	variant	了|了|liao3~4	瞭|了|liao3	瞭	了	liao3	1
+了解|了解|liao3 jie3	0	twin		瞭解|了解|liao3 jie3	瞭解	了解	liao3 jie3	1
+交|交|jiao1	0	variant	交|交|jiao1~4	跤|跤|jiao1	跤	跤	jiao1	1
+仔|仔|zai3	0	variant	仔|仔|zai3~2	崽|崽|zai3	崽	崽	zai3	1
+份|份|fen4	0	variant	份|份|fen4~3	分|分|fen4	分	分	fen4	1
+伊|伊|yi1	0	abbr	伊|伊|yi1~1	伊拉克|伊拉克|Yi1 la1 ke4	伊拉克	伊拉克	Yi1 la1 ke4	1
+伊|伊|yi1	1	abbr	伊|伊|yi1~1	伊朗|伊朗|Yi1 lang3	伊朗	伊朗	Yi1 lang3	1
+佈|布|bu4	0	variant	佈|布|bu4~3	布|布|bu4	布	布	bu4	1
+入|入|ru4	0	abbr	入|入|ru4~5	入聲|入声|ru4 sheng1	入聲	入声	ru4 sheng1	1
+共|共|gong4	0	abbr	共|共|gong4~3	共產黨|共产党|Gong4 chan3 dang3	共產黨	共产党	Gong4 chan3 dang3	1
+制|制|zhi4	0	variant	制|制|zhi4~3	製|制|zhi4	製	制	zhi4	1
+前|前|qian2	0	abbr	前|前|qian2~6	公元前|公元前|gong1 yuan2 qian2	公元前	公元前	gong1 yuan2 qian2	1
+副|副|fu4	0	abbr	副|副|fu4~4	副詞|副词|fu4 ci2	副詞	副词	fu4 ci2	1
+勒|勒|le4	0	abbr	勒|勒|le4~6	勒克斯|勒克斯|le4 ke4 si1	勒克斯	勒克斯	le4 ke4 si1	1
+南|南|na1	0	used-in	南|南|na1~1	南無|南无|na1 mo2	南無	南无	na1 mo2	1
+博|博|bo2	0	abbr	博|博|bo2~5	博士|博士|bo2 shi4	博士	博士	bo2 shi4	1
+博|博|bo2	1	abbr	博|博|bo2~6	博客|博客|bo2 ke4	博客	博客	bo2 ke4	1
+反|反|fan3	0	abbr	反|反|fan3~6	反切|反切|fan3 qie4	反切	反切	fan3 qie4	1
+名|名|ming2	0	abbr	名|名|ming2~5	名詞|名词|ming2 ci2	名詞	名词	ming2 ci2	1
+哈|哈|ha1	0	abbr	哈|哈|ha1~4	哈士奇|哈士奇|ha1 shi4 qi2	哈士奇	哈士奇	ha1 shi4 qi2	1
+坐|坐|zuo4	0	variant	坐|坐|zuo4~4	座|座|zuo4	座	座	zuo4	1
+報|报|bao4	0	abbr	報|报|bao4~4	報名|报名|bao4 ming2	報名	报名	bao4 ming2	1
+太陽|太阳|tai4 yang5	0	abbr	太陽|太阳|tai4 yang5~2	太陽穴|太阳穴|tai4 yang2 xue2	太陽穴	太阳穴	tai4 yang2 xue2	1
+安|安|an1	0	abbr	安|安|an1~6	安培|安培|an1 pei2	安培	安培	an1 pei2	1
+嵗|岁|sui4	0	variant	嵗|岁|sui4~1	歲|岁|sui4	歲	岁	sui4	1
+左|左|zuo3	0	variant	左|左|zuo3~7	佐|佐|zuo3	佐	佐	zuo3	1
+希|希|xi1	0	variant	希|希|xi1~2	稀|稀|xi1	稀	稀	xi1	1
+底|底|di3	0	abbr	底|底|di3~6	底數|底数|di3 shu4	底數	底数	di3 shu4	1
+托|托|tuo1	0	variant	托|托|tuo1~2	託|托|tuo1	託	托	tuo1	1
+斗|斗|dou3	0	old-variant	斗|斗|dou3~3	陡|陡|dou3	陡	陡	dou3	1
+方|方|fang1	0	abbr	方|方|fang1~9	平方米|平方米|ping2 fang1 mi3	平方米	平方米	ping2 fang1 mi3	1
+方|方|fang1	1	abbr	方|方|fang1~9	立方米|立方米|li4 fang1 mi3	立方米	立方米	li4 fang1 mi3	1
+欲|欲|yu4	0	variant	欲|欲|yu4~2	慾|欲|yu4	慾	欲	yu4	1
+歐|欧|ou1	0	abbr	歐|欧|ou1~2	歐姆|欧姆|ou1 mu3	歐姆	欧姆	ou1 mu3	1
+歐|欧|ou1	1	abbr	歐|欧|ou1~1	歐元|欧元|ou1 yuan2	歐元	欧元	ou1 yuan2	1
+歐|欧|ou1	2	old-variant	歐|欧|ou1~4	謳|讴|ou1	謳	讴	ou1	1
+法|法|fa3	0	abbr	法|法|fa3~5	法家|法家|Fa3 jia1	法家	法家	Fa3 jia1	1
+法|法|fa3	1	abbr	法|法|fa3~6	法拉|法拉|fa3 la1	法拉	法拉	fa3 la1	1
+注|注|zhu4	0	variant	注|注|zhu4~5	註|注|zhu4	註	注	zhu4	1
+混|混|hun2	0	variant	混|混|hun2~2	渾|浑|hun2	渾	浑	hun2	1
+混|混|hun2	1	variant	混|混|hun2~1	渾|浑|hun2	渾	浑	hun2	1
+游|游|you2	0	variant	游|游|you2~2	遊|游|you2	遊	游	you2	1
+牛|牛|niu2	0	abbr	牛|牛|niu2~3	牛頓|牛顿|niu2 dun4	牛頓	牛顿	niu2 dun4	1
+特|特|te4	0	abbr	特|特|te4~4	特克斯|特克斯|te4 ke4 si1	特克斯	特克斯	te4 ke4 si1	1
+瓦|瓦|wa3	0	abbr	瓦|瓦|wa3~2	瓦特|瓦特|wa3 te4	瓦特	瓦特	wa3 te4	1
+生物|生物|sheng1 wu4	0	abbr	生物|生物|sheng1 wu4~2	生物學|生物学|sheng1 wu4 xue2	生物學	生物学	sheng1 wu4 xue2	1
+畫|画|hua4	0	variant	畫|画|hua4~3	劃|划|hua4	劃	划	hua4	1
+的|的|di1	0	abbr	的|的|di1~1	的士|的士|di1 shi4	的士	的士	di1 shi4	1
+盃|杯|bei1	0	variant	盃|杯|bei1~3	杯|杯|bei1	杯	杯	bei1	1
+瞭解|了解|liao3 jie3	0	twin		了解|了解|liao3 jie3	了解	了解	liao3 jie3	1
+經|经|jing1	0	abbr	經|经|jing1~5	經濟|经济|jing1 ji4	經濟	经济	jing1 ji4	1
+維|维|wei2	0	abbr	維|维|wei2~3	維生素|维生素|wei2 sheng1 su4	維生素	维生素	wei2 sheng1 su4	1
+總|总|zong3	0	abbr	總|总|zong3~6	總經理|总经理|zong3 jing1 li3	總經理	总经理	zong3 jing1 li3	1
+總|总|zong3	1	abbr	總|总|zong3~6	總編|总编|zong3 bian1	總編	总编	zong3 bian1	1
+色|色|shai3	0	used-in	色|色|shai3~2	色子|色子|shai3 zi5	色子	色子	shai3 zi5	1
+華|华|hua1	0	old-variant	華|华|hua1~1	花|花|hua1	花	花	hua1	1
+葯|药|yao4	0	variant	葯|药|yao4~2	藥|药|yao4	藥	药	yao4	1
+解|解|xie4	0	variant	解|解|xie4~2	懈|懈|xie4	懈	懈	xie4	1
+警|警|jing3	0	abbr	警|警|jing3~1	警察|警察|jing3 cha2	警察	警察	jing3 cha2	1
+辦|办|ban4	0	abbr	辦|办|ban4~4	辦公室|办公室|ban4 gong1 shi4	辦公室	办公室	ban4 gong1 shi4	1
+週|周|zhou1	0	variant	週|周|zhou1~2	周|周|zhou1	周	周	zhou1	1
+逼|逼|bi1	0	variant	逼|逼|bi1~3	屄|屄|bi1	屄	屄	bi1	1
+那|那|nuo2	0	old-variant	那|那|nuo2~4	挪|挪|nuo2	挪	挪	nuo2	1
+那裏|那里|na4 li5	0	twin		那裡|那里|na4 li5	那裡	那里	na4 li5	1
+那裡|那里|na4 li5	0	twin		那裏|那里|na4 li5	那裏	那里	na4 li5	1
+量|量|liang4	0	abbr	量|量|liang4~3	量詞|量词|liang4 ci2	量詞	量词	liang4 ci2	1
+鍾|钟|zhong1	0	variant	鍾|钟|zhong1~3	鐘|钟|zhong1	鐘	钟	zhong1	1
+開|开|kai1	0	abbr	開|开|kai1~8	開爾文|开尔文|Kai1 er3 wen2	開爾文	开尔文	Kai1 er3 wen2	1
+開|开|kai1	1	abbr	開|开|kai1~9	開本|开本|kai1 ben3	開本	开本	kai1 ben3	1
+阿|阿|a1	0	abbr	阿|阿|a1~3	阿富汗|阿富汗|A1 fu4 han4	阿富汗	阿富汗	A1 fu4 han4	1
+阿|阿|a1	1	abbr	阿|阿|a1~3	阿爾巴尼亞|阿尔巴尼亚|A1 er3 ba1 ni2 ya4	阿爾巴尼亞	阿尔巴尼亚	A1 er3 ba1 ni2 ya4	1
+阿|阿|a1	2	abbr	阿|阿|a1~3	阿爾及利亞|阿尔及利亚|A1 er3 ji2 li4 ya4	阿爾及利亞	阿尔及利亚	A1 er3 ji2 li4 ya4	1
+阿|阿|a1	3	abbr	阿|阿|a1~3	阿根廷|阿根廷|A1 gen1 ting2	阿根廷	阿根廷	A1 gen1 ting2	1
+高中|高中|gao1 zhong1	0	abbr	高中|高中|gao1 zhong1~1	高級中學|高级中学|gao1 ji2 zhong1 xue2	高級中學	高级中学	gao1 ji2 zhong1 xue2	1
+鬼|鬼|gui3	0	variant	鬼|鬼|gui3~4	詭|诡|gui3	詭	诡	gui3	1
+魚|鱼|yu2	0	used-in	魚|鱼|yu2~2	鮑魚|鲍鱼|bao4 yu2	鮑魚	鲍鱼	bao4 yu2	1
+鳥|鸟|diao3	0	variant	鳥|鸟|diao3~2	屌|屌|diao3	屌	屌	diao3	1
+麥|麦|mai4	0	abbr	麥|麦|mai4~2	麥克風|麦克风|mai4 ke4 feng1	麥克風	麦克风	mai4 ke4 feng1	1
