@@ -1,6 +1,6 @@
-# zhi-dict-wave1 — the adapted dataset of Zhi Dict
+# zhi-dict-wave1 — the adapted dataset of Coldscholar Dictionary 寒士词典
 
-This is the dictionary data shipped in the Zhi Dict Android app, published under CC BY-SA 4.0 as the
+This is the dictionary data shipped in the Coldscholar Dictionary 寒士词典 Android app, published under CC BY-SA 4.0 as the
 share-alike adaptation of CC-CEDICT.
 
 ## What it is
