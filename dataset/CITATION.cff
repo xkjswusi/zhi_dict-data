@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this package and the upstream sources used in your work; see release/BIBLIOGRAPHY.md."
+type: software
+title: "Coldscholar Dictionary: complete code and data package"
+authors:
+  - family-names: Woeltz
+    given-names: Adam
+version: "2026.10.30-v3.3"
+date-released: 2026-10-30
+license: Apache-2.0
+abstract: "Offline Chinese–Chinese Android dictionary with reproducible build inputs and complete lexical/Anki exports. The software is Apache-2.0; adapted lexical data is CC-BY-SA-4.0; graphics retain Arphic-1999. The date identifies local package preparation, not public publication."
+keywords:
+  - Chinese
+  - dictionary
+  - Android
+  - lexicography
+  - Anki

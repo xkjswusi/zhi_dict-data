@@ -1,0 +1,16 @@
+# Characters the stroke-order asset withholds (R88, D232): MMAH draws them, but assistant adjudication
+# confirmed the drawing wrong. The viewer shows them as unsupported; none is patched. Evidence:
+# docs/evidence/stroke-order-r88.md §2. build_stroke_order.py refuses a row whose character is not a
+# covered v3 headword character, so this list cannot go stale silently. R88's 40 `grass4` rows (the
+# four-stroke 艹) left this list at R89 (D234): stroke-order-reorder.tsv re-orders them instead.
+# char	class	reason
+隨	order	左 component drawn 撇 first; 左 and MMAH's own 隋 draw 横 first (upstream makemeahanzi#108)
+翰	order	strokes 9-16 interleave 人 with 羽 (upstream makemeahanzi#55, #96, #107)
+肠	order	撇 drawn before 横折折折钩; 𠃓 is 横折折折钩 then 撇 撇 (upstream makemeahanzi#95)
+滚	order	六 part draws its right dot before its left 撇 (upstream makemeahanzi#72)
+盖	order	三 横 before the 竖, which rests on the bottom 横 (the 王 rule); hanzi-writer-data#13
+為	glyph	drawn as the variant 爲 (upstream makemeahanzi#36)
+說	glyph	兌 drawn as 兑, so its top is 点 撇 not 撇 点 (upstream makemeahanzi#79)
+脫	glyph	as 說
+閱	glyph	as 說
+啟	glyph	drawn as the variant 啓

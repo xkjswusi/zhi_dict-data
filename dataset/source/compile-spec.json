@@ -1,0 +1,356 @@
+{
+ "artifact": "compile spec — the pinned inputs of the v3 runtime DB, the wave plus the content expansion (ARCHITECTURE §11.8-§11.9; R67n, D186). Every path is repo-relative and pinned by sha256; compile_db.py --spec refuses on any drift, and --verify rebuilds each patched artifact from its canonical batch + edits file.",
+ "db": "zhi-dict-v3",
+ "db_schema": 3,
+ "snapshot": {
+  "file": "dictionary/source/raw/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+  "sha256": "80a3b2c91524ce4ab5d22a90b1cfdeddb7918c36cd29ebf635f958e5b67ae6cf"
+ },
+ "spine": {
+  "file": "dictionary/defining/spine-spoken-zipf.json",
+  "sha256": "82690f23b062cf2fb731e676858abc7fa151f6f9a78a51fc1a21f21586473788"
+ },
+ "simp_rules": {
+  "file": "dictionary/database/simp-overrides.json",
+  "sha256": "2d234c8551b4316b807a1c543832188b57144db9c2c4af3392fb462aa208b77b"
+ },
+ "reading_order": {
+  "file": "dictionary/database/reading-order-v3.tsv",
+  "sha256": "3f99ad7d2dc6fddd16480838b25e3d152ac818404719b6bbd4a96973c1d69f9e"
+ },
+ "folds": {
+  "file": "dictionary/database/folds.tsv",
+  "sha256": "37e635b670ba44fbe0c46cdc40bfe2fa96c70bc60e930a85feef2e7160f037ba"
+ },
+ "dates_overrides": {
+  "file": "dictionary/database/dates-overrides.tsv",
+  "sha256": "26c1caa7bb9e7eac5ed6a147b64a6e0745655894079a8bfbfb136a3c0b01d4e2"
+ },
+ "house": {
+  "file": "dictionary/source/house/house-cedict.u8",
+  "sha256": "a089d657706c196e7ae8476399d97cbd4423041011d12f33e25b5ac116cfa73e",
+  "supersedes": [
+   {
+    "file": "dictionary/source/house/history/house-cedict-v1.u8",
+    "sha256": "f9c7d75054193403f4a746d7d7612096a7b84d3b8471b962597d052a063b8a46"
+   }
+  ]
+ },
+ "house_why": {
+  "file": "dictionary/source/house/house-why.tsv",
+  "sha256": "0e48d54955880a4c6045d90926f45a89597e36722e9902b404b78fbefede7871"
+ },
+ "house_overrides": {
+  "file": "dictionary/source/house/house-overrides.u8",
+  "sha256": "9a4792fb6a9b10684c768908458143271f74e105c378bf7314347c981e7bbdc9"
+ },
+ "house_overrides_why": {
+  "file": "dictionary/source/house/house-overrides-why.tsv",
+  "sha256": "ce1273b182761e38a8b6f2be78397c370bb677084429583b70a75de232f7a4bc"
+ },
+ "pinyin_case": {
+  "file": "dictionary/database/pinyin-case.tsv",
+  "sha256": "5052aaf30a2bb2e17eb41fcccfee303753733d4e00e235564b752c3581ea36ea"
+ },
+ "normalize": [
+  "ellipsis",
+  "label-twice",
+  "headword-simp"
+ ],
+ "link_fixes": {
+  "file": "dictionary/database/link-fixes.tsv",
+  "sha256": "0d7d9ca262037373df1a44f92c08102eef168f4b25028eb79ca296c081f65d1a"
+ },
+ "closure": true,
+ "definition_end": "。",
+ "storage": "compact",
+ "review_provenance": {
+  "assistant_adjudication": "it covered each batch's flag adjudication (R33–R52), the repairs of the Codex objections (R46, D127) and the R57 read of 64 records / 290 senses in the operator's stead (D153; docs/evidence/assistant-review-r57.md); for the expansion (R67i-R67m, R67n), every record of the probe and builds 1-4 was read against the house style and 4 D72 edits and 4 sense rejects were cast at R67n (docs/evidence/expansion-compile-r67n.md), and the pilot's 40 non-members were rejected on membership only; for build 5 (R67o), every sense was read and 1 D72 edit and 1 sense reject were cast (docs/evidence/expansion-build5-r67o.md), and 2 of the pilot's 40 were restored as build-5 members (38 stay rejected); for R74, the 23 Q99 records were hand-authored by the assistant and the fleet's 14 were read in full, with 1 D72 edit (docs/evidence/common-gap-r74.md); for R87, every sense of the operator-request fleet's 314 records was read, with no edit (docs/evidence/word-requests-r87.md); for R91, every sense of the house fleet's 21 records was read (one rung-1 fix-spawn for 胡椒博士), 春晚's build-2 record was rejected as superseded, and 8 D72 edits gave five animals their food use and four their food-word cross-references (docs/evidence/house-entries-r91.md); for R92, every sense of the spoken-core fleet's 730 records and the hand-authored 伙 was read, with 4 sense rejects and no edit, and Q104's 19 pilot records were restored as members on their earlier verdicts (docs/evidence/spoken-core-r92.md); for R96, every sense of the operator-request fleet's 90 records (8 on house version-2 lines) was read, with 1 sense reject and no edit, two records coming from one rung-1 fix-spawn (docs/evidence/word-requests-r96.md)",
+  "external_ai_audit": "one — Codex at R46, 64 records / 215 senses of batches 1–6, adjudicated objection by objection (D127; docs/evidence/audit-wave1-objections-codex-r46.md); none on the expansion",
+  "external_ai_audit_counts": {
+   "auditor": "Codex (operator-directed)",
+   "round": "R46",
+   "batches": [
+    "wave1-01",
+    "wave1-02",
+    "wave1-03",
+    "wave1-04",
+    "wave1-05",
+    "wave1-06"
+   ],
+   "records": 64,
+   "senses": 215,
+   "per_batch": null,
+   "per_batch_why": "the R46 sample (29 edited records plus risk-ranked additions) was recorded only as totals, in docs/evidence/audit-wave1-objections-codex-r46.md; no id list exists to split it"
+  }
+ },
+ "batches": [
+  {
+   "name": "wave1-01",
+   "batch": "dictionary/generated/wave1-01-v6.patched.json",
+   "tsv": "dictionary/review/wave1-01-v6.review.tsv",
+   "canonical": "dictionary/generated/wave1-01-v6.json",
+   "edits": "dictionary/review/wave1-01-v6.edits.json",
+   "batch_sha256": "fb8bb93d60bbcf84d5a4aa1f08abdfa4202cee24e47cfc1c7d5c87ede791b120",
+   "tsv_sha256": "f93f5aae9d80479f0bf0c1413cc67d13907596f368c21fe60538c48b1671fedb",
+   "canonical_sha256": "bccde0e649b137c11c2d0d21eafb1b597d0bfd29cd2c9a26c0decfb6decc9232",
+   "edits_sha256": "c2e2c220c91ec1f4c523fc240cf4e034aa83414d4fcdfb23fced286d743a4dd0"
+  },
+  {
+   "name": "wave1-02",
+   "batch": "dictionary/generated/wave1-02-v6.patched.json",
+   "tsv": "dictionary/review/wave1-02-v6.review.tsv",
+   "canonical": "dictionary/generated/wave1-02-v6.json",
+   "edits": "dictionary/review/wave1-02-v6.edits.json",
+   "batch_sha256": "554926e3fe5f81b6ca874970e43c41a81c9be8cec02a954c719109160bfc1adf",
+   "tsv_sha256": "1bb7f363c3619c2aff9a9b9f231ddd96e7071f6b265d88697998f511e36d6ac5",
+   "canonical_sha256": "d49628dbc15a4af2ccbbe1563d55c7028050c7342b597e0beeb77decb57d72c4",
+   "edits_sha256": "cca71b88676f062ae0e10a31ed8a0d1a8398771f795b59c2e0aa161f6ba31cca"
+  },
+  {
+   "name": "wave1-03",
+   "batch": "dictionary/generated/wave1-03-v6.patched.json",
+   "tsv": "dictionary/review/wave1-03-v6.review.tsv",
+   "canonical": "dictionary/generated/wave1-03-v6.json",
+   "edits": "dictionary/review/wave1-03-v6.edits.json",
+   "batch_sha256": "4e0a0b2350ef890885f709fd0fc8ae248afbba420e9452039b670dd790636b01",
+   "tsv_sha256": "8927717ff318c79c9614f6cca44564d31a00f4e3ec02b279782e14d910ffa67a",
+   "canonical_sha256": "e8056698cde7030faf32a40f11c32812957692a72ae5cadb72253e440ebe2299",
+   "edits_sha256": "a8114535c17342aad32f8839d9cee6fe18b8359e267e15e306668dbb481dde21"
+  },
+  {
+   "name": "wave1-04",
+   "batch": "dictionary/generated/wave1-04-v6.r91.patched.json",
+   "tsv": "dictionary/review/wave1-04-v6.r91.review.tsv",
+   "canonical": "dictionary/generated/wave1-04-v6.json",
+   "edits": "dictionary/review/wave1-04-v6.r91.edits.json",
+   "batch_sha256": "215a2b9208461b4c69b23f79a04a5de0ece71d73b756444b5ac2af79b32f6761",
+   "tsv_sha256": "ac1d2a6b83d0143d4fbc30e818d63657f62b789564f582d5da2c72b8d7c12eb6",
+   "canonical_sha256": "91f12f4d605dcb9d2d0e3526fcb601447ad8ccf5020a0da552b27dc3fe8d60a9",
+   "edits_sha256": "abfbc98f99b5708c7f092f6541b554dc9f2effceac536d3f05b7aea9d2e61c90"
+  },
+  {
+   "name": "wave1-05",
+   "batch": "dictionary/generated/wave1-05-v6.r102.patched.json",
+   "tsv": "dictionary/review/wave1-05-v6.r102.review.tsv",
+   "canonical": "dictionary/generated/wave1-05-v6.json",
+   "edits": "dictionary/review/wave1-05-v6.r102.edits.json",
+   "batch_sha256": "fdfe6c2fa7fd83dceb483927f782908b9bc18d7eb48be64abe433834975be615",
+   "tsv_sha256": "f733f27de2f5e9ad82079f323706133ec9f1d5c899fc3ed80ae7e1f14f6dfeb1",
+   "canonical_sha256": "5f76fb69452c532e015858d8eb663080b283fef7ffc64cdf95a6f8bb51be31ab",
+   "edits_sha256": "8635e984355bd6ce4d267f93970617e1511c5840d4c6b1f14eb686e854498f06"
+  },
+  {
+   "name": "wave1-06",
+   "batch": "dictionary/generated/wave1-06-v6.r91.patched.json",
+   "tsv": "dictionary/review/wave1-06-v6.r91.review.tsv",
+   "canonical": "dictionary/generated/wave1-06-v6.json",
+   "edits": "dictionary/review/wave1-06-v6.r91.edits.json",
+   "batch_sha256": "7af65af28ea89571293ac0be5a069849fb941328c869270df611ed328d7a7d95",
+   "tsv_sha256": "abf74ff11630671ed1081360177103eafa02ae5314cf0d5980c7df3c9ae1e3cc",
+   "canonical_sha256": "3bd9fc81e2a652e79dcb6116f2a5069330836474a8759bc2239829f486153af2",
+   "edits_sha256": "250e51bb4f9ee549c64a05bf7a753f9f89e99a1f778c8f35005a51b3e1ea607d"
+  },
+  {
+   "name": "wave1-07",
+   "batch": "dictionary/generated/wave1-07-v6.r91.patched.json",
+   "tsv": "dictionary/review/wave1-07-v6.r91.review.tsv",
+   "canonical": "dictionary/generated/wave1-07-v6.json",
+   "edits": "dictionary/review/wave1-07-v6.r91.edits.json",
+   "batch_sha256": "d02c811eea85a4a7958a02ee82618c7083498c2d3885bc984e2ea0a7baf7d9a7",
+   "tsv_sha256": "702676ba5cd40a6458cd69b7328bee1d4cd700ec785d4e7d3fa20a86612a9b4e",
+   "canonical_sha256": "bc171a000d94474d0dd6cd8aa026f4105963a620522d728c95647eb2031b702c",
+   "edits_sha256": "142544a72551570da2989889524e9153f4bf97b239ff7f7d368e5dec29dc2a12"
+  },
+  {
+   "name": "wave1-08",
+   "batch": "dictionary/generated/wave1-08-v6.patched.json",
+   "tsv": "dictionary/review/wave1-08-v6.review.tsv",
+   "canonical": "dictionary/generated/wave1-08-v6.json",
+   "edits": "dictionary/review/wave1-08-v6.edits.json",
+   "batch_sha256": "9f3ff75a5c89d33ea0b647ffb8f5cbe0495594996e9333f01c8546374962ddff",
+   "tsv_sha256": "69d1094d2fbfe2955314ea541937cc91dafaa6940976a60b327473f311a652fa",
+   "canonical_sha256": "c6a083464c8e7fc316866a99a6ebb6b148dc318e750661d64637b69d6c8c50eb",
+   "edits_sha256": "2c6239e656dbcd82e9e2b8d0c62b32d91111b71d9373052a6644c95af9aaa024"
+  },
+  {
+   "name": "wave1-09",
+   "batch": "dictionary/generated/wave1-09-v6.patched.json",
+   "tsv": "dictionary/review/wave1-09-v6.review.tsv",
+   "canonical": "dictionary/generated/wave1-09-v6.json",
+   "edits": "dictionary/review/wave1-09-v6.edits.json",
+   "batch_sha256": "029698597a0a84646a7c573fd46accd72520c484f57395c188e5031930c59a17",
+   "tsv_sha256": "afea95cff5b87ce2dc05af7ddc7dd0d64c1f6f7c81813bd58d70da512a63be42",
+   "canonical_sha256": "9686f8b23e689f7581c4df554a95505dadbb005ce1911ceebbc8489a1907438d",
+   "edits_sha256": "3ea2c76a4544cd9bef9c8cc9ebc320a606fe9110ed1b344bbf4886ddb5067c9a"
+  },
+  {
+   "name": "pilot-all-118-v5",
+   "batch": "dictionary/generated/all-118-v5.r102.patched.json",
+   "tsv": "dictionary/review/all-118-v5.r102.review.tsv",
+   "canonical": "dictionary/generated/pilot-all-118-v5.json",
+   "edits": "dictionary/review/all-118-v5.r102.edits.json",
+   "batch_sha256": "a8e3c1347ce664203a81fb1ef9fb7afaf0314d6a0ab6dc05f4a6d7bfbd1f25ee",
+   "tsv_sha256": "717baa1379663fd4a2ca06274eca6a8eae482e7cabc524dddd72f7f426a1b4a9",
+   "canonical_sha256": "01d3204416acf5a24cc941b1d07c4097e0c51a4ba1f56f14c21f55d1993e27c7",
+   "edits_sha256": "0a46cd75429aba0c8c31bd7754eb69cc13ee4021f0323b1b9af88e1356ea85af"
+  },
+  {
+   "name": "expansion-probe-r67i",
+   "batch": "dictionary/generated/expansion-probe-r67i.r102.patched.json",
+   "tsv": "dictionary/review/expansion-probe-r67i.r102.review.tsv",
+   "canonical": "dictionary/generated/expansion-probe-r67i.json",
+   "edits": "dictionary/review/expansion-probe-r67i.r102.edits.json",
+   "batch_sha256": "0f89d1e28c7a4f0f0c2223942b483d335ccf7ea557df02d8dc604a678dd42753",
+   "tsv_sha256": "965df404b595db396a3c1a8037c66b93549b5c8320ff152a468efd1dbaa4908a",
+   "canonical_sha256": "5f9ac923580aebf9cbfbc32624ad8fb7a55e71daf9a17ec651f391b1465c26f3",
+   "edits_sha256": "dbf8134f5981c28c3865423ffc97185cebef53f5b1916a164762d56f6efb52eb"
+  },
+  {
+   "name": "expansion-worked-v7",
+   "batch": "dictionary/generated/expansion-worked-v7.json",
+   "tsv": "dictionary/review/expansion-worked-v7.review.tsv",
+   "batch_sha256": "3c4fa7ecfa11c549c945a08ab3ec20ab95ffcbfa27c86c98227e8e019be162bb",
+   "tsv_sha256": "23d40de31c2b790bfc0c06b6bbc3aa4c4bb8efb7b9a383990287f01a098391f5"
+  },
+  {
+   "name": "expansion-build1-r67j",
+   "batch": "dictionary/generated/expansion-build1-r67j.r102.patched.json",
+   "tsv": "dictionary/review/expansion-build1-r67j.r102.review.tsv",
+   "canonical": "dictionary/generated/expansion-build1-r67j.json",
+   "edits": "dictionary/review/expansion-build1-r67j.r102.edits.json",
+   "batch_sha256": "3b276670c7a658437a48caece893ff89cfaf10bf46fc00f79344d94833e40667",
+   "tsv_sha256": "b4defb1b182b9e20dc384c8a027e246b6fe1c340e517a1206c4216b9ef1db0f5",
+   "canonical_sha256": "8cd3e08ea2b35e7950241f3257fea69459e8b20da9346f5698b6f6ce9b38388c",
+   "edits_sha256": "4720458b2a9ad5644fc95761e90fe8a665afdfc0164d7efd56e6094c193ccfa5"
+  },
+  {
+   "name": "expansion-build2-r67k",
+   "batch": "dictionary/generated/expansion-build2-r67k.r102.patched.json",
+   "tsv": "dictionary/review/expansion-build2-r67k.r102.review.tsv",
+   "canonical": "dictionary/generated/expansion-build2-r67k.json",
+   "edits": "dictionary/review/expansion-build2-r67k.r102.edits.json",
+   "batch_sha256": "3bdeb395b0e96ba4c06efff0de0d95c04e94b37c6582edebbe2a8f538df48b1d",
+   "tsv_sha256": "253d845b458c1e71f8dc873855396a8aebd5db1be8f118e76fca9a4621f86b53",
+   "canonical_sha256": "92638f9419223d8708a4b0cad175e0d42810e34343b94489647f7b17c7ab3032",
+   "edits_sha256": "d357143b7323d5d3170c3019fb2db211c8d35647fe0dcdea1f790f009d402e77"
+  },
+  {
+   "name": "expansion-build3-r67l",
+   "batch": "dictionary/generated/expansion-build3-r67l.r91.patched.json",
+   "tsv": "dictionary/review/expansion-build3-r67l.r91.review.tsv",
+   "canonical": "dictionary/generated/expansion-build3-r67l.json",
+   "edits": "dictionary/review/expansion-build3-r67l.r91.edits.json",
+   "batch_sha256": "2da5dce3bdfcb207855572126fd2ba02674469739d62469974af65b081e68962",
+   "tsv_sha256": "fb05d719d101c93cb01f8d8ea2abe32816a1e4a726f294d1c3d2889b5c8a19e8",
+   "canonical_sha256": "2c3454ef898239f635ae4d0143ae4c0767a6b6b0612ac68b67a479fb557b2a5d",
+   "edits_sha256": "ebb61c97edbe98533686d6e402df33d6a6e754f8ede685b15900c0a18c72f73a"
+  },
+  {
+   "name": "expansion-build4-r67m",
+   "batch": "dictionary/generated/expansion-build4-r67m.json",
+   "tsv": "dictionary/review/expansion-build4-r67m.review.tsv",
+   "batch_sha256": "207baf1906da602dc3d707b0440fd198880bab28579e5f2e9eb1c22fc9003652",
+   "tsv_sha256": "630c7d3f36af2ecd8f84e5e882f0f5a4a68c3bbe4898e9c8a913c1cee03bf70b"
+  },
+  {
+   "name": "expansion-build5-r67o",
+   "batch": "dictionary/generated/expansion-build5-r67o.patched.json",
+   "tsv": "dictionary/review/expansion-build5-r67o.review.tsv",
+   "canonical": "dictionary/generated/expansion-build5-r67o.json",
+   "edits": "dictionary/review/expansion-build5-r67o.edits.json",
+   "batch_sha256": "689e570a5eef32fcb1bf7f36cd37f22b97b8e2770c3612b871aa14c3dd13b5d1",
+   "tsv_sha256": "84a8bd1c6a73d8560f0bfe2d7c4ee1e5d65ec9b1f4d13e6a9d19fbc89f2e3d6a",
+   "canonical_sha256": "fffec81b4dc45f329b6b87f1fc75571513521b3aca86543e7aafd3fccbd42172",
+   "edits_sha256": "b57bd34b9f8ffd30f31f18fc4ccc874d37f6e3c0497343ee0a8f830f2911a23e"
+  },
+  {
+   "name": "expansion-hand-r74",
+   "batch": "dictionary/generated/expansion-hand-r74.json",
+   "tsv": "dictionary/review/expansion-hand-r74.review.tsv",
+   "batch_sha256": "2d13d0ecdcbacc68b1dcc3fa0316dfc4ec7d302937333fa4c8e1301a3010ca72",
+   "tsv_sha256": "d41e8c499e718e27d57c7bd667c0157d70321e86f336bc2bc84a1aaf77cad2b1"
+  },
+  {
+   "name": "expansion-common-r74",
+   "batch": "dictionary/generated/expansion-common-r74.patched.json",
+   "tsv": "dictionary/review/expansion-common-r74.review.tsv",
+   "canonical": "dictionary/generated/expansion-common-r74.json",
+   "edits": "dictionary/review/expansion-common-r74.edits.json",
+   "batch_sha256": "f91588778f71c87d5c9b7ed1e30eb4f4b58ff701d4bf1b65d221ce3dbaa29a8d",
+   "tsv_sha256": "d3e5d74ad9d03dfcb91859b0f541beddc3d6cc73dc5c76aacbfcca142fed5932",
+   "canonical_sha256": "07443a92207d56141554f2f84e9b15755e4f890bc5fbe5bd9fcb2866295ffce2",
+   "edits_sha256": "51421c108cb1418dd98e81412c9df556736d5e96cefb2d5e863c6a8381a14495"
+  },
+  {
+   "name": "expansion-requests-r87",
+   "batch": "dictionary/generated/expansion-requests-r87.json",
+   "tsv": "dictionary/review/expansion-requests-r87.review.tsv",
+   "batch_sha256": "8a996589bca7a2b3e216bc54659331a5f46a69aadf4fabf504e8a3cf8e442a4b",
+   "tsv_sha256": "7c9020efafd2cffef16d811e0d5761bbb2ab651d56afb653aa9511fd3f57672c"
+  },
+  {
+   "name": "expansion-r91",
+   "batch": "dictionary/generated/expansion-r91.json",
+   "tsv": "dictionary/review/expansion-r91.review.tsv",
+   "batch_sha256": "185c86e8b6f4f4448dbf057bc850bbdf226d6bb25a8e56e3f8ddb89b39e7bf6e",
+   "tsv_sha256": "22dba8a317e583c52f792a6d7401a1c609916559b5c01f72268ef046240ae4b3"
+  },
+  {
+   "name": "expansion-hand-r92",
+   "batch": "dictionary/generated/expansion-hand-r92.json",
+   "tsv": "dictionary/review/expansion-hand-r92.review.tsv",
+   "batch_sha256": "ae12b586ee4022dfc8a445959dd5d1368660413dd65881abbd265721cf6e1d52",
+   "tsv_sha256": "e657a7563f331101638ecf00536ca6b4ff5b421158547f9c7b8ce9622b028bc0"
+  },
+  {
+   "name": "expansion-r92",
+   "batch": "dictionary/generated/expansion-r92.json",
+   "tsv": "dictionary/review/expansion-r92.review.tsv",
+   "batch_sha256": "2fe242e330d4bac98e0682edec7894140c3fdc28f7f220b41219ed27559dbe5f",
+   "tsv_sha256": "ec22b6b8cacdb68c3fc47d3b7342afa7b018f31c8b4362f842073cdfc121060a"
+  },
+  {
+   "name": "expansion-r96",
+   "batch": "dictionary/generated/expansion-r96.json",
+   "tsv": "dictionary/review/expansion-r96.review.tsv",
+   "batch_sha256": "a90f7b336ec579605d539aa41f78846c78adea87c9b977182fe9cb1a044c7060",
+   "tsv_sha256": "dd4063b5151bbde4db4f06bbeaeac58a62d04b0e829ca2dba006ef47b4429cf1"
+  },
+  {
+   "name": "expansion-hand-r103",
+   "batch": "dictionary/generated/expansion-hand-r103.json",
+   "tsv": "dictionary/review/expansion-hand-r103.review.tsv",
+   "batch_sha256": "9aba2f5a6c3a2fe8968f14fbd0600ab7ed289cedc379b7b6d1a552e39e3cf4da",
+   "tsv_sha256": "ff761feb55473cac034d9b9dce1eb2cf7ecc632de6b3acfc49757df3bd0944be"
+  },
+  {
+   "name": "expansion-r103",
+   "batch": "dictionary/generated/expansion-r103.patched.json",
+   "tsv": "dictionary/review/expansion-r103.review.tsv",
+   "canonical": "dictionary/generated/expansion-r103.json",
+   "edits": "dictionary/review/expansion-r103.edits.json",
+   "batch_sha256": "4d52c0de651551ce59279ec7d1df6cfe6ab988a314fe84dbc6daf47781a9ac33",
+   "tsv_sha256": "a791e900a82128d217751906f75bbe296212af929a7a049f8347f53c671c69c0",
+   "canonical_sha256": "02f0dcde44cf322e6a9cda47d6b691f453856d9f1e3981903a77f44d6fca6599",
+   "edits_sha256": "dacade8b7de8c433cf914a5c3ffd940c095f295c1b2169a316c1cc5c35ae7e75"
+  }
+ ],
+ "membership": {
+  "selection": {
+   "file": "dictionary/selection/selection-v1.9.json",
+   "sha256": "d6b1784f22666b80e03e5404b7b25627e8473c7cfb46f4f95f22775a975da37b"
+  },
+  "window": 2000,
+  "admits": [
+   {
+    "file": "dictionary/generated/expansion-build5-r67o/ids.txt",
+    "sha256": "22c1c972619f7ea815d387f984b323ea96228a2b6ca289dd4e425c41074cb5b4"
+   }
+  ],
+  "held": {
+   "file": "dictionary/database/membership-held.tsv",
+   "sha256": "9d8bd743f28a5def5ab036b3e952e6ac813d9083393891231f337b9299244ca5"
+  }
+ }
+}

@@ -1,0 +1,684 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Coldscholar complete relational export",
+  "type": "object",
+  "properties": {
+    "format_version": {
+      "const": "1.0.0"
+    },
+    "release_version": {
+      "const": "2026.10.30-v3.3"
+    },
+    "tables": {
+      "type": "object",
+      "properties": {
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "kind": {
+                "type": "string"
+              },
+              "from_sense_uid": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_entry_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_trad": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_pinyin": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "resolved": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "entry_id",
+              "seq",
+              "kind",
+              "from_sense_uid",
+              "target_entry_id",
+              "target_trad",
+              "target_simp",
+              "target_pinyin",
+              "resolved"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "classifiers": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sense_uid": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "trad": {
+                "type": "string"
+              },
+              "simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pinyin": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "sense_uid",
+              "seq",
+              "trad",
+              "simp",
+              "pinyin"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "common_words": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sense_uid": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "trad": {
+                "type": "string"
+              },
+              "simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "pinyin": {
+                "type": "string"
+              },
+              "target_entry_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "resolved": {
+                "type": "integer"
+              },
+              "ex_trad": {
+                "type": "string"
+              },
+              "ex_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "ex_realized": {
+                "type": "string"
+              },
+              "ex_spans": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "ex_shows": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "ex_shows_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "sense_uid",
+              "seq",
+              "trad",
+              "simp",
+              "pinyin",
+              "target_entry_id",
+              "resolved",
+              "ex_trad",
+              "ex_simp",
+              "ex_realized",
+              "ex_spans",
+              "ex_shows",
+              "ex_shows_simp"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "trad": {
+                "type": "string"
+              },
+              "simp": {
+                "type": "string"
+              },
+              "pinyin": {
+                "type": "string"
+              },
+              "content_status": {
+                "type": "string"
+              },
+              "rank": {
+                "type": "integer"
+              },
+              "zipf_subtlex": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "review_status": {
+                "type": "string"
+              },
+              "adjudication": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "batch": {
+                "type": "string"
+              },
+              "prov_id": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "entry_id",
+              "trad",
+              "simp",
+              "pinyin",
+              "content_status",
+              "rank",
+              "zipf_subtlex",
+              "review_status",
+              "adjudication",
+              "batch",
+              "prov_id"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "examples": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sense_uid": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "trad": {
+                "type": "string"
+              },
+              "simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "realized": {
+                "type": "string"
+              },
+              "spans": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "shows": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "shows_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "sense_uid",
+              "seq",
+              "trad",
+              "simp",
+              "realized",
+              "spans",
+              "shows",
+              "shows_simp"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "glosses": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              },
+              "idx": {
+                "type": "integer"
+              },
+              "text": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "entry_id",
+              "idx",
+              "text"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "house_entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "entry_id"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "meta": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "key": {
+                "type": "string"
+              },
+              "value": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "key",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "pron_variants": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "kind": {
+                "type": "string"
+              },
+              "pinyin": {
+                "type": "string"
+              },
+              "applies_to": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "entry_id",
+              "seq",
+              "kind",
+              "pinyin",
+              "applies_to"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "provenance": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "prov_id": {
+                "type": [
+                  "integer",
+                  "null"
+                ]
+              },
+              "model": {
+                "type": "string"
+              },
+              "method": {
+                "type": "string"
+              },
+              "generated_on": {
+                "type": "string"
+              },
+              "prompts": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              }
+            },
+            "required": [
+              "prov_id",
+              "model",
+              "method",
+              "generated_on",
+              "prompts"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "search_hanzi": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              },
+              "form": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "entry_id",
+              "form"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "search_pinyin": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entry_id": {
+                "type": "string"
+              },
+              "toned": {
+                "type": "string"
+              },
+              "plain": {
+                "type": "string"
+              },
+              "kind": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "entry_id",
+              "toned",
+              "plain",
+              "kind"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "senses": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sense_uid": {
+                "type": "string"
+              },
+              "entry_id": {
+                "type": "string"
+              },
+              "ordinal": {
+                "type": "integer"
+              },
+              "sense_kind": {
+                "type": "string"
+              },
+              "pos": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "pos_simp": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "tags": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "register": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "domain": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "def_trad": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "def_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "expl_trad": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "expl_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "exemption": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sgi": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "prompt_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "review_status": {
+                "type": "string"
+              },
+              "adjudication": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "edits": {
+                "type": "string",
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "entity": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "dates": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "description": "JSON serialized as TEXT in SQLite; preserved verbatim here."
+              },
+              "source_entry_id": {
+                "type": "string"
+              },
+              "prov_id": {
+                "type": "integer"
+              }
+            },
+            "required": [
+              "sense_uid",
+              "entry_id",
+              "ordinal",
+              "sense_kind",
+              "pos",
+              "pos_simp",
+              "tags",
+              "register",
+              "domain",
+              "def_trad",
+              "def_simp",
+              "expl_trad",
+              "expl_simp",
+              "exemption",
+              "sgi",
+              "prompt_id",
+              "review_status",
+              "adjudication",
+              "edits",
+              "entity",
+              "dates",
+              "source_entry_id",
+              "prov_id"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "xrefs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sense_uid": {
+                "type": "string"
+              },
+              "seq": {
+                "type": "integer"
+              },
+              "target_entry_id": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_trad": {
+                "type": "string"
+              },
+              "target_simp": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "target_pinyin": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "sense_uid",
+              "seq",
+              "target_entry_id",
+              "target_trad",
+              "target_simp",
+              "target_pinyin"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "aliases",
+        "classifiers",
+        "common_words",
+        "entries",
+        "examples",
+        "glosses",
+        "house_entries",
+        "meta",
+        "pron_variants",
+        "provenance",
+        "search_hanzi",
+        "search_pinyin",
+        "senses",
+        "xrefs"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "format_version",
+    "release_version",
+    "tables"
+  ],
+  "additionalProperties": false
+}

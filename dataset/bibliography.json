@@ -1,0 +1,296 @@
+{
+  "checked_on": "2026-10-10",
+  "scope": "Direct source inputs, existing technical method citations and clearly marked background reading",
+  "qualification": "This is not a per-sense scholarly citation or endorsement ledger; current lexical claims retain their recorded source-gloss provenance.",
+  "references": [
+    {
+      "id": "cccedict2026",
+      "title": "CC-CEDICT",
+      "authors": [
+        "CC-CEDICT contributors",
+        "MDBG"
+      ],
+      "year": 2026,
+      "role": "direct-input",
+      "url": "https://www.mdbg.net/chinese/dictionary?page=cedict",
+      "license": "CC-BY-SA-4.0",
+      "version": "2026-08-10 snapshot",
+      "use": "Headwords, readings, source glosses and lexical adaptation; source IDs/gloss indices are preserved per record."
+    },
+    {
+      "id": "zhwiki2026",
+      "title": "Chinese Wikipedia: pages-articles dump, part 1",
+      "authors": [
+        "Chinese Wikipedia contributors"
+      ],
+      "year": 2026,
+      "role": "direct-input",
+      "url": "https://dumps.wikimedia.org/zhwiki/20260801/",
+      "license": "CC-BY-SA-4.0",
+      "version": "2026-08-01",
+      "use": "Prefix corpus for derived frequency selection/defining vocabulary; no article prose in the dictionary export."
+    },
+    {
+      "id": "mmah2026",
+      "title": "Make Me a Hanzi: graphics.txt",
+      "authors": [
+        "Shaunak Kishore",
+        "Make Me a Hanzi contributors",
+        "Arphic Technology Co., Ltd."
+      ],
+      "year": 2026,
+      "role": "direct-input",
+      "url": "https://github.com/skishore/makemeahanzi/tree/bddc96d41bef78427ed0e034e9f7e31d71fd1b92",
+      "license": "Arphic-1999",
+      "version": "bddc96d41bef78427ed0e034e9f7e31d71fd1b92",
+      "use": "Original stroke outlines/medians for handwriting and stroke-order assets; dictionary.txt is excluded."
+    },
+    {
+      "id": "cai2010",
+      "title": "SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles",
+      "authors": [
+        {
+          "family": "Cai",
+          "given": "Qing"
+        },
+        {
+          "family": "Brysbaert",
+          "given": "Marc"
+        }
+      ],
+      "year": 2010,
+      "role": "direct-input",
+      "doi": "10.1371/journal.pone.0010729",
+      "url": "https://doi.org/10.1371/journal.pone.0010729",
+      "container": "PLoS ONE",
+      "pages": "e10729",
+      "volume": "5",
+      "issue": "6",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "license": "CC-BY-4.0",
+      "use": "SUBTLEX-CH Files S1 supplies word frequency scores and selection/order influence.",
+      "supplement_doi": "10.1371/journal.pone.0010729.s002",
+      "rights_evidence": "evidence/subtlex-license.json",
+      "supplement_url": "https://plos.figshare.com/articles/dataset/SUBTLEX_CH_Chinese_Word_and_Character_Frequencies_Based_on_Film_Subtitles/143218"
+    },
+    {
+      "id": "tappert1990",
+      "title": "The state of the art in online handwriting recognition",
+      "authors": [
+        {
+          "family": "Tappert",
+          "given": "C.C."
+        },
+        {
+          "family": "Suen",
+          "given": "C.Y."
+        },
+        {
+          "family": "Wakahara",
+          "given": "T."
+        }
+      ],
+      "year": 1990,
+      "role": "method-reference",
+      "doi": "10.1109/34.57669",
+      "url": "https://doi.org/10.1109/34.57669",
+      "container": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "pages": "787-808",
+      "volume": "12",
+      "issue": "8",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "liu2004",
+      "title": "Online recognition of chinese characters: the state-of-the-art",
+      "authors": [
+        {
+          "family": "Liu",
+          "given": "Cheng-Lin"
+        },
+        {
+          "family": "Jaeger",
+          "given": "S."
+        },
+        {
+          "family": "Nakagawa",
+          "given": "M."
+        }
+      ],
+      "year": 2004,
+      "role": "method-reference",
+      "doi": "10.1109/tpami.2004.1262182",
+      "url": "https://doi.org/10.1109/tpami.2004.1262182",
+      "container": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "pages": "198-213",
+      "volume": "26",
+      "issue": "2",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "wakahara1997",
+      "title": "On-line cursive Kanji character recognition using stroke-based affine transformation",
+      "authors": [
+        {
+          "family": "Wakahara",
+          "given": "T."
+        },
+        {
+          "family": "Odaka",
+          "given": "K."
+        }
+      ],
+      "year": 1997,
+      "role": "method-reference",
+      "doi": "10.1109/34.643898",
+      "url": "https://doi.org/10.1109/34.643898",
+      "container": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "pages": "1381-1385",
+      "volume": "19",
+      "issue": "12",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "sakoe1978",
+      "title": "Dynamic programming algorithm optimization for spoken word recognition",
+      "authors": [
+        {
+          "family": "Sakoe",
+          "given": "H."
+        },
+        {
+          "family": "Chiba",
+          "given": "S."
+        }
+      ],
+      "year": 1978,
+      "role": "method-reference",
+      "doi": "10.1109/tassp.1978.1163055",
+      "url": "https://doi.org/10.1109/tassp.1978.1163055",
+      "container": "IEEE Transactions on Acoustics, Speech, and Signal Processing",
+      "pages": "43-49",
+      "volume": "26",
+      "issue": "1",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "damerau1964",
+      "title": "A technique for computer detection and correction of spelling errors",
+      "authors": [
+        {
+          "family": "Damerau",
+          "given": "Fred J."
+        }
+      ],
+      "year": 1964,
+      "role": "method-reference",
+      "doi": "10.1145/363958.363994",
+      "url": "https://doi.org/10.1145/363958.363994",
+      "container": "Communications of the ACM",
+      "pages": "171-176",
+      "volume": "7",
+      "issue": "3",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "wobbrock2007",
+      "title": "Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes",
+      "authors": [
+        {
+          "family": "Wobbrock",
+          "given": "Jacob O."
+        },
+        {
+          "family": "Wilson",
+          "given": "Andrew D."
+        },
+        {
+          "family": "Li",
+          "given": "Yang"
+        }
+      ],
+      "year": 2007,
+      "role": "method-reference",
+      "doi": "10.1145/1294211.1294238",
+      "url": "https://doi.org/10.1145/1294211.1294238",
+      "container": "Proceedings of the 20th annual ACM symposium on User interface software and technology",
+      "pages": "159-168",
+      "volume": null,
+      "issue": null,
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Cited in the existing project handwriting probe; citation metadata verified during packaging. Paper prose/PDF and third-party implementations are not bundled.",
+      "used_by": "docs/evidence/handwriting-probe-r67c.md:137"
+    },
+    {
+      "id": "vanheuven2014",
+      "title": "Subtlex-UK: A New and Improved Word Frequency Database for British English",
+      "authors": [
+        {
+          "family": "van Heuven",
+          "given": "Walter J. B."
+        },
+        {
+          "family": "Mandera",
+          "given": "Pawel"
+        },
+        {
+          "family": "Keuleers",
+          "given": "Emmanuel"
+        },
+        {
+          "family": "Brysbaert",
+          "given": "Marc"
+        }
+      ],
+      "year": 2014,
+      "role": "background-reading",
+      "doi": "10.1080/17470218.2013.850521",
+      "url": "https://doi.org/10.1080/17470218.2013.850521",
+      "container": "Quarterly Journal of Experimental Psychology",
+      "pages": "1176-1190",
+      "volume": "67",
+      "issue": "6",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Suggested further reading during packaging; factual citation metadata verified only. No English vocabulary thresholds or data are applied to this Chinese lexicon."
+    },
+    {
+      "id": "nation2006",
+      "title": "How Large a Vocabulary is Needed For Reading and Listening?",
+      "authors": [
+        {
+          "family": "Nation",
+          "given": "I."
+        }
+      ],
+      "year": 2006,
+      "role": "background-reading",
+      "doi": "10.3138/cmlr.63.1.59",
+      "url": "https://doi.org/10.3138/cmlr.63.1.59",
+      "container": "The Canadian Modern Language Review",
+      "pages": "59-82",
+      "volume": "63",
+      "issue": "1",
+      "metadata_evidence": "evidence/bibliographic-metadata.json",
+      "checked_on": "2026-10-10",
+      "use": "Suggested further reading during packaging; factual citation metadata verified only. No English vocabulary thresholds or data are applied to this Chinese lexicon."
+    }
+  ]
+}

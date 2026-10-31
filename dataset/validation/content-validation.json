@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "counts": {
+    "aliases": 271,
+    "classifiers": 1225,
+    "common_words": 3430,
+    "entries": 6172,
+    "examples": 9488,
+    "glosses": 16698,
+    "house_entries": 28,
+    "meta": 29,
+    "pron_variants": 99,
+    "provenance": 381,
+    "search_hanzi": 0,
+    "search_pinyin": 6267,
+    "senses": 10256,
+    "xrefs": 2716
+  },
+  "checks": [
+    "SQLite integrity",
+    "pinned database SHA-256",
+    "all table rows and columns equal in SQLite/JSON/TSV",
+    "joined lexicon exact",
+    "NULL and empty text distinct",
+    "UTF-8 strict/no BOM",
+    "no replacement/control characters",
+    "internal relations",
+    "all reference targets present in pinned source",
+    "headword/pinyin identity",
+    "ranks and sense order",
+    "pinned source IDs/glosses/indices including folded donors",
+    "Anki notes/cards/text exact coverage and no study history",
+    "Anki SQLite contains only logical pages"
+  ],
+  "text_values_checked": 368566,
+  "null_values": 81887,
+  "empty_strings": 0,
+  "non_nfc_strings_preserved": 0,
+  "content_status": {
+    "generated": 6084,
+    "redirect": 71,
+    "stub": 17
+  },
+  "human_review_status": {
+    "unreviewed": 6172
+  },
+  "references_outside_selected_dataset": {
+    "aliases": 82,
+    "common_words": 2449,
+    "xrefs": 0
+  },
+  "notes": [
+    "External references are permitted: source-resolved does not mean included in this selected dictionary.",
+    "Structural validation is not linguistic or personal human review."
+  ]
+}

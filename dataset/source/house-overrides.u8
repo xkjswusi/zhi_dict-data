@@ -1,0 +1,23 @@
+# Coldscholar Dictionary house overrides (R102, D265 ruling 3): CC-CEDICT-format lines that
+# replace the pinned snapshot's record of the same key (dictionary/source/MANIFEST.md,
+# 80a3b2c91524...). The key must exist in the snapshot; only the glosses change.
+# Author: the house. Every line is assistant-written (Claude Opus 5.5) from the snapshot lines it
+# re-points; that is assistant adjudication, not human review. house-overrides-why.tsv, beside
+# this file, gives each line's sources and the ruling.
+# Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), the dataset's own,
+# published with it. An override never feeds the trad->simp conversion table.
+# The file only grows (D255): a later version appends, and each earlier version stays frozen,
+# byte for byte, in history/ for the batches built on it.
+#! version=1
+#! format=ts
+#! charset=UTF-8
+#! entries=8
+#! publisher=Coldscholar Dictionary (house)
+誒 诶 [ei1] /hey (used to draw attention)/
+誒 诶 [ei2] /eh; huh (used to express surprise)/
+誒 诶 [ei3] /hmm (used to express disapproval)/
+誒 诶 [ei4] /yes (used to express agreement)/
+欸 欸 [ei1] /variant of 誒|诶[ei1]/
+欸 欸 [ei2] /variant of 誒|诶[ei2]/
+欸 欸 [ei3] /variant of 誒|诶[ei3]/
+欸 欸 [ei4] /variant of 誒|诶[ei4]/

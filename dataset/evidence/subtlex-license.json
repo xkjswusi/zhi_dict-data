@@ -1,0 +1,34 @@
+{
+  "checked_on": "2026-10-10",
+  "source": "Public Library of Science institutional Figshare repository",
+  "metadata_url": "https://api.figshare.com/v2/articles/143218",
+  "landing_page": "https://plos.figshare.com/articles/dataset/SUBTLEX_CH_Chinese_Word_and_Character_Frequencies_Based_on_Film_Subtitles/143218",
+  "article_id": 143218,
+  "version": 1,
+  "title": "SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles",
+  "authors": [
+    "Qing Cai",
+    "Marc Brysbaert"
+  ],
+  "resource_doi": "10.1371/journal.pone.0010729",
+  "published_date": "2010-06-02T00:53:38Z",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "file": {
+    "id": 421463,
+    "name": "Files_S1.zip",
+    "size": 1760600,
+    "is_link_only": false,
+    "download_url": "https://ndownloader.figshare.com/files/421463",
+    "supplied_md5": "b2152c246d69c7c2b0bc01b67369a345",
+    "computed_md5": "b2152c246d69c7c2b0bc01b67369a345",
+    "mimetype": "application/zip"
+  },
+  "local_input": "dictionary/defining/raw/journal.pone.0010729.s002.zip",
+  "sha256": "cced9cb382914b93956a24fd06c10de709d351ff4501ac94c9ab136004421f07",
+  "publisher_file_byte_identical": true,
+  "conclusion": "The publisher explicitly licenses the exact pinned supplement CC BY 4.0. Historical article-version ambiguity need not be inferred to license these bytes."
+}

@@ -1,0 +1,3 @@
+# Optional independent validation, not needed for export/regeneration.
+anki==25.9
+jsonschema==4.25.1

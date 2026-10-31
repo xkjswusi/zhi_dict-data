@@ -1,0 +1,42 @@
+# Coldscholar Dictionary house source (R91, D239): CC-CEDICT-format lines for words the pinned
+# CC-CEDICT snapshot (dictionary/source/MANIFEST.md, 80a3b2c91524...) lacks.
+# Author: the house. Every line is assistant-written (Claude Opus 5.5) from the shipped records
+# it builds on; that is assistant adjudication, not human review. house-why.tsv, beside this
+# file, gives each line's source records and reasons.
+# Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/), the dataset's own,
+# published with it. A line never shadows a snapshot record: the readers refuse that key.
+# The file only grows (D255): version 2 (R96) appends the operator's 2026-10-21 words, and each
+# earlier version stays frozen, byte for byte, in history/ for the batches built on it.
+#! version=2
+#! format=ts
+#! charset=UTF-8
+#! entries=28
+#! publisher=Coldscholar Dictionary (house)
+西方 西方 [xi1 fang1] /west/
+天吶 天呐 [tian1 na5] /see 天啊[tian1 a5]/
+互相矛盾 互相矛盾 [hu4 xiang1 mao2 dun4] /to contradict each other/mutually contradictory/
+南蠻 南蛮 [Nan2 man2] /Southern Barbarians, ancient name for non-Han peoples living to the south of China (derog.)/
+椰肉 椰肉 [ye1 rou4] /coconut meat; the white flesh of a coconut/
+胡椒博士 胡椒博士 [Hu2 jiao1 Bo2 shi4] /Dr Pepper (soft drink)/
+黃桃 黄桃 [huang2 tao2] /yellow peach (a peach with yellow flesh, often canned)/
+桑葚子 桑葚子 [sang1 shen4 zi5] /variant of 桑葚[sang1 shen4]/
+西方國家 西方国家 [Xi1 fang1 guo2 jia1] /Western countries; the countries of the West/
+上站 上站 [shang4 zhan4] /the previous stop (of a bus, train etc)/
+下站 下站 [xia4 zhan4] /the next stop (of a bus, train etc)/
+茶蛋 茶蛋 [cha2 dan4] /abbr. for 茶葉蛋|茶叶蛋[cha2 ye4 dan4]/
+剪髮 剪发 [jian3 fa4] /to get a haircut/to cut sb's hair/
+吃飯了嗎 吃饭了吗 [chi1 fan4 le5 ma5] /Have you eaten? (a common everyday greeting)/
+熱死了 热死了 [re4 si3 le5] /it's terribly hot; I'm dying of the heat (colloquial)/
+好好學習 好好学习 [hao3 hao3 xue2 xi2] /to study hard; to study well/
+好好學習天天向上 好好学习天天向上 [hao3 hao3 xue2 xi2 tian1 tian1 xiang4 shang4] /study hard and make progress every day (a well-known slogan encouraging students)/
+關燈 关灯 [guan1 deng1] /to turn off the light/
+沒有道理 没有道理 [mei2 you3 dao4 li5] /to make no sense; unreasonable/
+韓劇 韩剧 [Han2 ju4] /Korean TV series; K-drama/
+廣式點心 广式点心 [Guang3 shi4 dian3 xin5] /Cantonese dim sum; small dishes such as steamed dumplings and buns, eaten with tea/
+烤冷麵 烤冷面 [kao3 leng3 mian4] /kao lengmian, a street food from Northeast China: a thin sheet of noodle dough cooked on a griddle with egg and sauce, then rolled up and cut/
+日本料理 日本料理 [Ri4 ben3 liao4 li3] /Japanese cuisine; Japanese food/
+韓國料理 韩国料理 [Han2 guo2 liao4 li3] /Korean cuisine; Korean food/
+黃芥末 黄芥末 [huang2 jie4 mo5] /yellow mustard (the condiment, as distinct from green wasabi)/
+魚豆腐 鱼豆腐 [yu2 dou4 fu5] /fish tofu; soft cubes of fried fish paste, often cooked in hotpot/
+贛菜 赣菜 [Gan4 cai4] /Jiangxi cuisine/
+東北菜 东北菜 [Dong1 bei3 cai4] /Northeastern Chinese cuisine/

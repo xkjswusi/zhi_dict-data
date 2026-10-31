@@ -1,0 +1,272 @@
+entry_id	seq	kind	from_sense_uid	target_entry_id	target_trad	target_simp	target_pinyin	resolved
+中|中|zhong1	0	abbr	中|中|Zhong1~1	中國|中国|Zhong1 guo2	中國	中国	Zhong1 guo2	1
+么|幺|yao1	0	variant	么|幺|yao1~3	吆|吆|yao1	吆	吆	yao1	1
+了|了|liao3	0	variant	了|了|liao3~4	瞭|了|liao3	瞭	了	liao3	1
+了解|了解|liao3 jie3	0	twin	\N	瞭解|了解|liao3 jie3	瞭解	了解	liao3 jie3	1
+事兒|事儿|shi4 r5	0	erhua-variant	事兒|事儿|shi4 r5~4	事|事|shi4	事	事	shi4	1
+于|于|yu2	0	variant	于|于|yu2~4	於|于|yu2	於	于	yu2	1
+亞洲|亚洲|Ya4 zhou1	0	abbr	亞洲|亚洲|Ya4 zhou1~1	亞細亞洲|亚细亚洲|Ya4 xi4 ya4 Zhou1	亞細亞洲	亚细亚洲	Ya4 xi4 ya4 Zhou1	1
+交|交|jiao1	0	variant	交|交|jiao1~4	跤|跤|jiao1	跤	跤	jiao1	1
+仔|仔|zai3	0	variant	仔|仔|zai3~2	崽|崽|zai3	崽	崽	zai3	1
+以|以|yi3	0	abbr	以|以|Yi3~1	以色列|以色列|Yi3 se4 lie4	以色列	以色列	Yi3 se4 lie4	1
+份|份|fen4	0	variant	份|份|fen4~3	分|分|fen4	分	分	fen4	1
+伊|伊|yi1	0	abbr	伊|伊|yi1~1	伊拉克|伊拉克|Yi1 la1 ke4	伊拉克	伊拉克	Yi1 la1 ke4	1
+伊|伊|yi1	1	abbr	伊|伊|yi1~1	伊朗|伊朗|Yi1 lang3	伊朗	伊朗	Yi1 lang3	1
+伙|伙|huo3	0	variant	伙|伙|huo3~2	夥|伙|huo3	夥	伙	huo3	1
+佈|布|bu4	0	variant	佈|布|bu4~3	布|布|bu4	布	布	bu4	1
+佛|佛|Fo2	0	abbr	佛|佛|Fo2~1	佛陀|佛陀|Fo2 tuo2	佛陀	佛陀	Fo2 tuo2	1
+保|保|bao3	0	abbr	保|保|Bao3~1	保加利亞|保加利亚|Bao3 jia1 li4 ya4	保加利亞	保加利亚	Bao3 jia1 li4 ya4	1
+僧|僧|seng1	0	abbr	僧|僧|seng1~1	僧伽|僧伽|seng1 qie2	僧伽	僧伽	seng1 qie2	1
+元夜|元夜|yuan2 ye4	0	xref	元夜|元夜|yuan2 ye4~2	元宵|元宵|yuan2 xiao1	元宵	元宵	yuan2 xiao1	1
+元宵|元宵|yuan2 xiao1	0	xref	元宵|元宵|yuan2 xiao1~3	元夜|元夜|yuan2 ye4	元夜	元夜	yuan2 ye4	1
+克|克|ke4	0	abbr	克|克|Ke4~1	克羅地亞|克罗地亚|Ke4 luo2 di4 ya4	克羅地亞	克罗地亚	Ke4 luo2 di4 ya4	1
+克|克|ke4	1	abbr	克|克|Ke4~1	克羅埃西亞|克罗埃西亚|Ke4 luo2 ai1 xi1 ya4	克羅埃西亞	克罗埃西亚	Ke4 luo2 ai1 xi1 ya4	1
+入|入|ru4	0	abbr	入|入|ru4~5	入聲|入声|ru4 sheng1	入聲	入声	ru4 sheng1	1
+內蒙古|内蒙古|Nei4 meng3 gu3	0	xref	內蒙古|内蒙古|Nei4 meng3 gu3~1	內蒙古自治區|内蒙古自治区|Nei4 meng3 gu3 Zi4 zhi4 qu1	內蒙古自治區	内蒙古自治区	Nei4 meng3 gu3 Zi4 zhi4 qu1	1
+公交|公交|gong1 jiao1	0	abbr	公交|公交|gong1 jiao1~1	公共交通|公共交通|gong1 gong4 jiao1 tong1	公共交通	公共交通	gong1 gong4 jiao1 tong1	1
+共|共|gong4	0	abbr	共|共|gong4~3	共產黨|共产党|Gong4 chan3 dang3	共產黨	共产党	Gong4 chan3 dang3	1
+凶|凶|xiong1	0	variant	凶|凶|xiong1~2	兇|凶|xiong1	兇	凶	xiong1	1
+初中|初中|chu1 zhong1	0	abbr	初中|初中|chu1 zhong1~1	初級中學|初级中学|chu1 ji2 zhong1 xue2	初級中學	初级中学	chu1 ji2 zhong1 xue2	1
+制|制|zhi4	0	variant	制|制|zhi4~3	製|制|zhi4	製	制	zhi4	1
+前|前|qian2	0	abbr	前|前|qian2~6	公元前|公元前|gong1 yuan2 qian2	公元前	公元前	gong1 yuan2 qian2	1
+副|副|fu4	0	abbr	副|副|fu4~4	副詞|副词|fu4 ci2	副詞	副词	fu4 ci2	1
+加|加|jia1	0	abbr	加|加|Jia1~1	加拿大|加拿大|Jia1 na2 da4	加拿大	加拿大	Jia1 na2 da4	1
+勒|勒|le4	0	abbr	勒|勒|le4~6	勒克斯|勒克斯|le4 ke4 si1	勒克斯	勒克斯	le4 ke4 si1	1
+動|动|dong4	0	abbr	動|动|dong4~4	動詞|动词|dong4 ci2	動詞	动词	dong4 ci2	1
+化|化|hua4	0	abbr	化|化|hua4~4	化學|化学|hua4 xue2	化學	化学	hua4 xue2	1
+南|南|na1	0	used-in	南|南|na1~1	南無|南无|na1 mo2	南無	南无	na1 mo2	1
+南京|南京|Nan2 jing1	0	xref	南京|南京|Nan2 jing1~2	南京市|南京市|Nan2 jing1 Shi4	南京市	南京市	Nan2 jing1 Shi4	1
+南寧|南宁|Nan2 ning2	0	xref	南寧|南宁|Nan2 ning2~1	南寧市|南宁市|Nan2 ning2 Shi4	南寧市	南宁市	Nan2 ning2 Shi4	1
+南昌|南昌|Nan2 chang1	0	xref	南昌|南昌|Nan2 chang1~1	南昌市|南昌市|Nan2 chang1 Shi4	南昌市	南昌市	Nan2 chang1 Shi4	1
+博|博|bo2	0	abbr	博|博|bo2~5	博士|博士|bo2 shi4	博士	博士	bo2 shi4	1
+博|博|bo2	1	abbr	博|博|bo2~6	博客|博客|bo2 ke4	博客	博客	bo2 ke4	1
+印|印|yin4	0	abbr	印|印|Yin4~1	印度|印度|Yin4 du4	印度	印度	Yin4 du4	1
+印尼|印尼|Yin4 ni2	0	abbr	印尼|印尼|Yin4 ni2~1	印度尼西亞|印度尼西亚|Yin4 du4 ni2 xi1 ya4	印度尼西亞	印度尼西亚	Yin4 du4 ni2 xi1 ya4	1
+反|反|fan3	0	abbr	反|反|fan3~6	反切|反切|fan3 qie4	反切	反切	fan3 qie4	1
+台|台|tai2	0	variant	台|台|tai2~2	臺|台|tai2	臺	台	tai2	1
+合|合|he2	0	old-variant	合|合|he2~9	盒|盒|he2	盒	盒	he2	1
+合肥|合肥|He2 fei2	0	xref	合肥|合肥|He2 fei2~1	合肥市|合肥市|He2 fei2 Shi4	合肥市	合肥市	He2 fei2 Shi4	1
+吉林|吉林|Ji2 lin2	0	xref	吉林|吉林|Ji2 lin2~1	吉林省|吉林省|Ji2 lin2 Sheng3	吉林省	吉林省	Ji2 lin2 Sheng3	1
+名|名|ming2	0	abbr	名|名|ming2~5	名詞|名词|ming2 ci2	名詞	名词	ming2 ci2	1
+吧|吧|ba1	0	abbr	吧|吧|ba1~2	貼吧|贴吧|Tie1 ba1	貼吧	贴吧	Tie1 ba1	1
+呆|呆|dai1	0	variant	呆|呆|dai1~3	待|待|dai1	待	待	dai1	1
+呼和浩特|呼和浩特|Hu1 he2 hao4 te4	0	xref	呼和浩特|呼和浩特|Hu1 he2 hao4 te4~1	呼和浩特市|呼和浩特市|Hu1 he2 hao4 te4 Shi4	呼和浩特市	呼和浩特市	Hu1 he2 hao4 te4 Shi4	1
+哈|哈|ha1	0	abbr	哈|哈|ha1~4	哈士奇|哈士奇|ha1 shi4 qi2	哈士奇	哈士奇	ha1 shi4 qi2	1
+哈|哈|ha1	1	abbr	哈|哈|Ha1~1	哈薩克斯坦|哈萨克斯坦|Ha1 sa4 ke4 si1 tan3	哈薩克斯坦	哈萨克斯坦	Ha1 sa4 ke4 si1 tan3	1
+哈|哈|ha1	2	abbr	哈|哈|Ha1~2	哈爾濱|哈尔滨|Ha1 er3 bin1	哈爾濱	哈尔滨	Ha1 er3 bin1	1
+哈爾濱|哈尔滨|Ha1 er3 bin1	0	xref	哈爾濱|哈尔滨|Ha1 er3 bin1~1	哈爾濱市|哈尔滨市|Ha1 er3 bin1 Shi4	哈爾濱市	哈尔滨市	Ha1 er3 bin1 Shi4	1
+哪|哪|ne2	0	used-in	哪|哪|ne2~1	哪吒|哪吒|Ne2 zha1	哪吒	哪吒	Ne2 zha1	1
+喝|喝|he1	0	variant	喝|喝|he1~2	嗬|嗬|he1	嗬	嗬	he1	1
+嘑|呼|hu1	0	variant	嘑|呼|hu1~2	呼|呼|hu1	呼	呼	hu1	1
+嘛|嘛|ma2	0	used-in	嘛|嘛|ma2~2	唵嘛呢叭咪吽|唵嘛呢叭咪吽|an3 ma2 ni2 ba1 mi1 hong1	唵嘛呢叭咪吽	唵嘛呢叭咪吽	an3 ma2 ni2 ba1 mi1 hong1	1
+四川|四川|Si4 chuan1	0	xref	四川|四川|Si4 chuan1~1	四川省|四川省|Si4 chuan1 Sheng3	四川省	四川省	Si4 chuan1 Sheng3	1
+坐|坐|zuo4	0	variant	坐|坐|zuo4~4	座|座|zuo4	座	座	zuo4	1
+報|报|bao4	0	abbr	報|报|bao4~4	報名|报名|bao4 ming2	報名	报名	bao4 ming2	1
+天主|天主|Tian1 zhu3	0	abbr	天主|天主|Tian1 zhu3~2	天主教|天主教|Tian1 zhu3 jiao4	天主教	天主教	Tian1 zhu3 jiao4	1
+天吶|天呐|tian1 na5	0	xref	天吶|天呐|tian1 na5~1	天啊|天啊|tian1 a5	天啊	天啊	tian1 a5	1
+天哪|天哪|tian1 na5	0	xref	天哪|天哪|tian1 na5~1	天啊|天啊|tian1 a5	天啊	天啊	tian1 a5	1
+太原|太原|Tai4 yuan2	0	xref	太原|太原|Tai4 yuan2~1	太原市|太原市|Tai4 yuan2 Shi4	太原市	太原市	Tai4 yuan2 Shi4	1
+太極|太极|Tai4 ji2	0	abbr	太極|太极|Tai4 ji2~2	太極拳|太极拳|tai4 ji2 quan2	太極拳	太极拳	tai4 ji2 quan2	1
+太陽|太阳|tai4 yang5	0	abbr	太陽|太阳|tai4 yang5~2	太陽穴|太阳穴|tai4 yang2 xue2	太陽穴	太阳穴	tai4 yang2 xue2	1
+奧|奥|ao4	0	abbr	奧|奥|Ao4~2	奧地利|奥地利|Ao4 di4 li4	奧地利	奥地利	Ao4 di4 li4	1
+奧|奥|ao4	1	abbr	奧|奥|Ao4~1	奧林匹克|奥林匹克|Ao4 lin2 pi3 ke4	奧林匹克	奥林匹克	Ao4 lin2 pi3 ke4	1
+姜太公|姜太公|Jiang1 Tai4 gong1	0	xref	姜太公|姜太公|Jiang1 Tai4 gong1~1	姜子牙|姜子牙|Jiang1 Zi3 ya2	姜子牙	姜子牙	Jiang1 Zi3 ya2	1
+嬭|奶|nai3	0	variant	嬭|奶|nai3~2	奶|奶|nai3	奶	奶	nai3	1
+安|安|an1	0	abbr	安|安|an1~6	安培|安培|an1 pei2	安培	安培	an1 pei2	1
+安徽|安徽|An1 hui1	0	xref	安徽|安徽|An1 hui1~1	安徽省|安徽省|An1 hui1 Sheng3	安徽省	安徽省	An1 hui1 Sheng3	1
+寧夏|宁夏|Ning2 xia4	0	xref	寧夏|宁夏|Ning2 xia4~1	寧夏回族自治區|宁夏回族自治区|Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1	寧夏回族自治區	宁夏回族自治区	Ning2 xia4 Hui2 zu2 Zi4 zhi4 qu1	1
+尸|尸|shi1	0	variant	尸|尸|shi1~3	屍|尸|shi1	屍	尸	shi1	1
+山東|山东|Shan1 dong1	0	xref	山東|山东|Shan1 dong1~1	山東省|山东省|Shan1 dong1 Sheng3	山東省	山东省	Shan1 dong1 Sheng3	1
+山西|山西|Shan1 xi1	0	xref	山西|山西|Shan1 xi1~1	山西省|山西省|Shan1 xi1 Sheng3	山西省	山西省	Shan1 xi1 Sheng3	1
+嵗|岁|sui4	0	variant	嵗|岁|sui4~1	歲|岁|sui4	歲	岁	sui4	1
+左|左|zuo3	0	variant	左|左|zuo3~7	佐|佐|zuo3	佐	佐	zuo3	1
+巴|巴|ba1	0	abbr	巴|巴|ba1~3	巴士|巴士|ba1 shi4	巴士	巴士	ba1 shi4	1
+希|希|xi1	0	variant	希|希|xi1~2	稀|稀|xi1	稀	稀	xi1	1
+帳|帐|zhang4	0	variant	帳|帐|zhang4~2	賬|账|zhang4	賬	账	zhang4	1
+平方|平方|ping2 fang1	0	abbr	平方|平方|ping2 fang1~2	平方米|平方米|ping2 fang1 mi3	平方米	平方米	ping2 fang1 mi3	1
+底|底|di3	0	abbr	底|底|di3~6	底數|底数|di3 shu4	底數	底数	di3 shu4	1
+廣州|广州|Guang3 zhou1	0	xref	廣州|广州|Guang3 zhou1~1	廣州市|广州市|Guang3 zhou1 Shi4	廣州市	广州市	Guang3 zhou1 Shi4	1
+廣東|广东|Guang3 dong1	0	xref	廣東|广东|Guang3 dong1~1	廣東省|广东省|Guang3 dong1 Sheng3	廣東省	广东省	Guang3 dong1 Sheng3	1
+廣西|广西|Guang3 xi1	0	xref	廣西|广西|Guang3 xi1~1	廣西壯族自治區|广西壮族自治区|Guang3 xi1 Zhuang4 zu2 Zi4 zhi4 qu1	廣西壯族自治區	广西壮族自治区	Guang3 xi1 Zhuang4 zu2 Zi4 zhi4 qu1	1
+意|意|yi4	0	abbr	意|意|yi4~3	意大利|意大利|Yi4 da4 li4	意大利	意大利	Yi4 da4 li4	1
+愿|愿|yuan4	0	variant	愿|愿|yuan4~2	願|愿|yuan4	願	愿	yuan4	1
+成都|成都|Cheng2 du1	0	xref	成都|成都|Cheng2 du1~1	成都市|成都市|Cheng2 du1 Shi4	成都市	成都市	Cheng2 du1 Shi4	1
+托|托|tuo1	0	variant	托|托|tuo1~2	託|托|tuo1	託	托	tuo1	1
+拉薩|拉萨|La1 sa4	0	xref	拉薩|拉萨|La1 sa4~1	拉薩市|拉萨市|La1 sa4 Shi4	拉薩市	拉萨市	La1 sa4 Shi4	1
+拐|拐|guai3	0	variant	拐|拐|guai3~4	枴|拐|guai3	枴	拐	guai3	1
+搭|搭|da1	0	variant	搭|搭|da1~7	褡|褡|da1	褡	褡	da1	1
+撦|扯|che3	0	variant	撦|扯|che3~1	扯|扯|che3	扯	扯	che3	1
+故宮|故宫|Gu4 gong1	0	abbr	故宮|故宫|Gu4 gong1~2	故宮博物院|故宫博物院|Gu4 gong1 Bo2 wu4 yuan4	故宮博物院	故宫博物院	Gu4 gong1 Bo2 wu4 yuan4	1
+斗|斗|dou3	0	old-variant	斗|斗|dou3~3	陡|陡|dou3	陡	陡	dou3	1
+斯|斯|si1	0	abbr	斯|斯|Si1~1	斯洛伐克|斯洛伐克|Si1 luo4 fa2 ke4	斯洛伐克	斯洛伐克	Si1 luo4 fa2 ke4	1
+新|新|xin1	0	abbr	新|新|Xin1~2	新疆|新疆|Xin1 jiang1	新疆	新疆	Xin1 jiang1	1
+新|新|xin1	1	abbr	新|新|Xin1~1	新加坡|新加坡|Xin1 jia1 po1	新加坡	新加坡	Xin1 jia1 po1	1
+新疆|新疆|Xin1 jiang1	0	xref	新疆|新疆|Xin1 jiang1~1	新疆維吾爾自治區|新疆维吾尔自治区|Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1	新疆維吾爾自治區	新疆维吾尔自治区	Xin1 jiang1 Wei2 wu2 er3 Zi4 zhi4 qu1	1
+方|方|fang1	0	abbr	方|方|fang1~9	平方米|平方米|ping2 fang1 mi3	平方米	平方米	ping2 fang1 mi3	1
+方|方|fang1	1	abbr	方|方|fang1~9	立方米|立方米|li4 fang1 mi3	立方米	立方米	li4 fang1 mi3	1
+日|日|ri4	0	abbr	日|日|ri4~4	日本|日本|Ri4 ben3	日本	日本	Ri4 ben3	1
+昆明|昆明|Kun1 ming2	0	xref	昆明|昆明|Kun1 ming2~1	昆明市|昆明市|Kun1 ming2 Shi4	昆明市	昆明市	Kun1 ming2 Shi4	1
+易|易|yi4	0	abbr	易|易|Yi4~1	易經|易经|Yi4 jing1	易經	易经	Yi4 jing1	1
+春晚|春晚|Chun1 Wan3	0	abbr	春晚|春晚|Chun1 Wan3~1	春節聯歡晚會|春节联欢晚会|Chun1 jie2 Lian2 huan1 Wan3 hui4	春節聯歡晚會	春节联欢晚会	Chun1 jie2 Lian2 huan1 Wan3 hui4	1
+是的|是的|shi4 de5	0	variant	是的|是的|shi4 de5~2	似的|似的|shi4 de5	似的	似的	shi4 de5	1
+書|书|shu1	0	abbr	書|书|Shu1~1	書經|书经|Shu1 jing1	書經	书经	Shu1 jing1	1
+朝|朝|chao2	0	abbr	朝|朝|Chao2~1	朝鮮|朝鲜|Chao2 xian3	朝鮮	朝鲜	Chao2 xian3	1
+杭州|杭州|Hang2 zhou1	0	xref	杭州|杭州|Hang2 zhou1~1	杭州市|杭州市|Hang2 zhou1 Shi4	杭州市	杭州市	Hang2 zhou1 Shi4	1
+桑葚子|桑葚子|sang1 shen4 zi5	0	variant	桑葚子|桑葚子|sang1 shen4 zi5~1	桑葚|桑葚|sang1 shen4	桑葚	桑葚	sang1 shen4	1
+榜眼|榜眼|bang3 yan3	0	xref	榜眼|榜眼|bang3 yan3~2	狀元|状元|zhuang4 yuan2	狀元	状元	zhuang4 yuan2	1
+欲|欲|yu4	0	variant	欲|欲|yu4~2	慾|欲|yu4	慾	欲	yu4	1
+欸|欸|ai3	0	used-in	欸|欸|ai3~3	欸乃|欸乃|ai3 nai3	欸乃	欸乃	ai3 nai3	1
+欸|欸|ei1	0	variant	欸|欸|ei1~1	誒|诶|ei1	誒	诶	ei1	1
+欸|欸|ei2	0	variant	欸|欸|ei2~1	誒|诶|ei2	誒	诶	ei2	1
+欸|欸|ei3	0	variant	欸|欸|ei3~1	誒|诶|ei3	誒	诶	ei3	1
+欸|欸|ei4	0	variant	欸|欸|ei4~1	誒|诶|ei4	誒	诶	ei4	1
+歐|欧|ou1	0	abbr	歐|欧|ou1~2	歐姆|欧姆|ou1 mu3	歐姆	欧姆	ou1 mu3	1
+歐|欧|ou1	1	abbr	歐|欧|ou1~1	歐元|欧元|ou1 yuan2	歐元	欧元	ou1 yuan2	1
+歐|欧|ou1	2	old-variant	歐|欧|ou1~4	謳|讴|ou1	謳	讴	ou1	1
+歐|欧|ou1	3	abbr	歐|欧|Ou1~1	歐洲|欧洲|Ou1 zhou1	歐洲	欧洲	Ou1 zhou1	1
+歐|欧|ou1	4	abbr	歐|欧|Ou1~2	歐盟|欧盟|Ou1 meng2	歐盟	欧盟	Ou1 meng2	1
+歐洲|欧洲|Ou1 zhou1	0	abbr	歐洲|欧洲|Ou1 zhou1~1	歐羅巴洲|欧罗巴洲|Ou1 luo2 ba1 Zhou1	歐羅巴洲	欧罗巴洲	Ou1 luo2 ba1 Zhou1	1
+武漢|武汉|Wu3 han4	0	xref	武漢|武汉|Wu3 han4~1	武漢市|武汉市|Wu3 han4 Shi4	武漢市	武汉市	Wu3 han4 Shi4	1
+比|比|bi3	0	abbr	比|比|Bi3~1	比利時|比利时|Bi3 li4 shi2	比利時	比利时	Bi3 li4 shi2	1
+江蘇|江苏|Jiang1 su1	0	xref	江蘇|江苏|Jiang1 su1~1	江蘇省|江苏省|Jiang1 su1 Sheng3	江蘇省	江苏省	Jiang1 su1 Sheng3	1
+江西|江西|Jiang1 xi1	0	xref	江西|江西|Jiang1 xi1~1	江西省|江西省|Jiang1 xi1 Sheng3	江西省	江西省	Jiang1 xi1 Sheng3	1
+河北|河北|He2 bei3	0	xref	河北|河北|He2 bei3~1	河北省|河北省|He2 bei3 Sheng3	河北省	河北省	He2 bei3 Sheng3	1
+河南|河南|He2 nan2	0	xref	河南|河南|He2 nan2~1	河南省|河南省|He2 nan2 Sheng3	河南省	河南省	He2 nan2 Sheng3	1
+法|法|fa3	0	abbr	法|法|fa3~5	法家|法家|Fa3 jia1	法家	法家	Fa3 jia1	1
+法|法|fa3	1	abbr	法|法|fa3~6	法拉|法拉|fa3 la1	法拉	法拉	fa3 la1	1
+法|法|fa3	2	abbr	法|法|Fa3~1	法國|法国|Fa3 guo2	法國	法国	Fa3 guo2	1
+波|波|bo1	0	abbr	波|波|Bo1~1	波蘭|波兰|Bo1 lan2	波蘭	波兰	Bo1 lan2	1
+注|注|zhu4	0	variant	注|注|zhu4~5	註|注|zhu4	註	注	zhu4	1
+泰|泰|tai4	0	abbr	泰|泰|Tai4~1	泰國|泰国|Tai4 guo2	泰國	泰国	Tai4 guo2	1
+浙|浙|Zhe4	0	abbr	浙|浙|Zhe4~1	浙江|浙江|Zhe4 jiang1	浙江	浙江	Zhe4 jiang1	1
+浙江|浙江|Zhe4 jiang1	0	xref	浙江|浙江|Zhe4 jiang1~1	浙江省|浙江省|Zhe4 jiang1 Sheng3	浙江省	浙江省	Zhe4 jiang1 Sheng3	1
+海南|海南|Hai3 nan2	0	xref	海南|海南|Hai3 nan2~1	海南省|海南省|Hai3 nan2 Sheng3	海南省	海南省	Hai3 nan2 Sheng3	1
+海口|海口|Hai3 kou3	0	xref	海口|海口|Hai3 kou3~1	海口市|海口市|Hai3 kou3 Shi4	海口市	海口市	Hai3 kou3 Shi4	1
+海口|海口|hai3 kou3	0	xref	海口|海口|hai3 kou3~1	誇海口|夸海口|kua1 hai3 kou3	誇海口	夸海口	kua1 hai3 kou3	1
+混|混|hun2	0	variant	混|混|hun2~2	渾|浑|hun2	渾	浑	hun2	1
+混|混|hun2	1	variant	混|混|hun2~1	渾|浑|hun2	渾	浑	hun2	1
+港|港|gang3	0	abbr	港|港|Gang3~1	香港|香港|Xiang1 gang3	香港	香港	Xiang1 gang3	1
+游|游|you2	0	variant	游|游|you2~2	遊|游|you2	遊	游	you2	1
+湖北|湖北|Hu2 bei3	0	xref	湖北|湖北|Hu2 bei3~1	湖北省|湖北省|Hu2 bei3 Sheng3	湖北省	湖北省	Hu2 bei3 Sheng3	1
+湖南|湖南|Hu2 nan2	0	xref	湖南|湖南|Hu2 nan2~1	湖南省|湖南省|Hu2 nan2 Sheng3	湖南省	湖南省	Hu2 nan2 Sheng3	1
+湘|湘|Xiang1	0	abbr	湘|湘|Xiang1~1	湖南|湖南|Hu2 nan2	湖南	湖南	Hu2 nan2	1
+濟南|济南|Ji3 nan2	0	xref	濟南|济南|Ji3 nan2~1	濟南市|济南市|Ji3 nan2 Shi4	濟南市	济南市	Ji3 nan2 Shi4	1
+瀋陽|沈阳|Shen3 yang2	0	xref	瀋陽|沈阳|Shen3 yang2~1	瀋陽市|沈阳市|Shen3 yang2 Shi4	瀋陽市	沈阳市	Shen3 yang2 Shi4	1
+灋|法|fa3	0	old-variant	灋|法|fa3~1	法|法|fa3	法	法	fa3	1
+烏魯木齊|乌鲁木齐|Wu1 lu3 mu4 qi2	0	xref	烏魯木齊|乌鲁木齐|Wu1 lu3 mu4 qi2~1	烏魯木齊市|乌鲁木齐市|Wu1 lu3 mu4 qi2 Shi4	烏魯木齊市	乌鲁木齐市	Wu1 lu3 mu4 qi2 Shi4	1
+燈泡|灯泡|deng1 pao4	0	xref	燈泡|灯泡|deng1 pao4~3	電燈泡|电灯泡|dian4 deng1 pao4	電燈泡	电灯泡	dian4 deng1 pao4	1
+牛|牛|niu2	0	abbr	牛|牛|niu2~3	牛頓|牛顿|niu2 dun4	牛頓	牛顿	niu2 dun4	1
+牛逼|牛逼|niu2 bi1	0	variant	牛逼|牛逼|niu2 bi1~1	牛屄|牛屄|niu2 bi1	牛屄	牛屄	niu2 bi1	1
+特|特|te4	0	abbr	特|特|te4~4	特克斯|特克斯|te4 ke4 si1	特克斯	特克斯	te4 ke4 si1	1
+狀元|状元|zhuang4 yuan2	0	xref	狀元|状元|zhuang4 yuan2~1	榜眼|榜眼|bang3 yan3	榜眼	榜眼	bang3 yan3	1
+瓊|琼|Qiong2	0	abbr	瓊|琼|Qiong2~1	海南|海南|Hai3 nan2	海南	海南	Hai3 nan2	1
+瓦|瓦|wa3	0	abbr	瓦|瓦|wa3~2	瓦特|瓦特|wa3 te4	瓦特	瓦特	wa3 te4	1
+甘肅|甘肃|Gan1 su4	0	xref	甘肅|甘肃|Gan1 su4~1	甘肅省|甘肃省|Gan1 su4 Sheng3	甘肅省	甘肃省	Gan1 su4 Sheng3	1
+生物|生物|sheng1 wu4	0	abbr	生物|生物|sheng1 wu4~2	生物學|生物学|sheng1 wu4 xue2	生物學	生物学	sheng1 wu4 xue2	1
+畫|画|hua4	0	variant	畫|画|hua4~3	劃|划|hua4	劃	划	hua4	1
+疋|匹|pi3	0	variant	疋|匹|pi3~2	匹|匹|pi3	匹	匹	pi3	1
+發票|发票|fa1 piao4	0	abbr	發票|发票|fa1 piao4~2	統一發票|统一发票|tong3 yi1 fa1 piao4	統一發票	统一发票	tong3 yi1 fa1 piao4	1
+的|的|di1	0	abbr	的|的|di1~1	的士|的士|di1 shi4	的士	的士	di1 shi4	1
+皇|皇|huang2	0	old-variant	皇|皇|huang2~2	惶|惶|huang2	惶	惶	huang2	1
+皖|皖|Wan3	0	abbr	皖|皖|Wan3~1	安徽|安徽|An1 hui1	安徽	安徽	An1 hui1	1
+盃|杯|bei1	0	variant	盃|杯|bei1~3	杯|杯|bei1	杯	杯	bei1	1
+相機|相机|xiang4 ji1	0	abbr	相機|相机|xiang4 ji1~1	照相機|照相机|zhao4 xiang4 ji1	照相機	照相机	zhao4 xiang4 ji1	1
+瞭解|了解|liao3 jie3	0	twin	\N	了解|了解|liao3 jie3	了解	了解	liao3 jie3	1
+石家莊|石家庄|Shi2 jia1 zhuang1	0	xref	石家莊|石家庄|Shi2 jia1 zhuang1~1	石家莊市|石家庄市|Shi2 jia1 zhuang1 Shi4	石家莊市	石家庄市	Shi2 jia1 zhuang1 Shi4	1
+磅|磅|pang2	0	used-in	磅|磅|pang2~1	磅礡|磅礴|pang2 bo2	磅礡	磅礴	pang2 bo2	1
+福州|福州|Fu2 zhou1	0	xref	福州|福州|Fu2 zhou1~1	福州市|福州市|Fu2 zhou1 Shi4	福州市	福州市	Fu2 zhou1 Shi4	1
+福建|福建|Fu2 jian4	0	xref	福建|福建|Fu2 jian4~1	福建省|福建省|Fu2 jian4 Sheng3	福建省	福建省	Fu2 jian4 Sheng3	1
+禮|礼|li3	0	abbr	禮|礼|Li3~1	禮記|礼记|Li3 ji4	禮記	礼记	Li3 ji4	1
+秦|秦|Qin2	0	abbr	秦|秦|Qin2~2	陝西|陕西|Shan3 xi1	陝西	陕西	Shan3 xi1	1
+筆記本|笔记本|bi3 ji4 ben3	0	abbr	筆記本|笔记本|bi3 ji4 ben3~2	筆記本電腦|笔记本电脑|bi3 ji4 ben3 dian4 nao3	筆記本電腦	笔记本电脑	bi3 ji4 ben3 dian4 nao3	1
+簽|签|qian1	0	variant	簽|签|qian1~3	籤|签|qian1	籤	签	qian1	1
+簽|签|qian1	1	abbr	簽|签|qian1~2	簽證|签证|qian1 zheng4	簽證	签证	qian1 zheng4	1
+粵|粤|Yue4	0	abbr	粵|粤|Yue4~2	廣東|广东|Guang3 dong1	廣東	广东	Guang3 dong1	1
+索|索|suo3	0	abbr	索|索|Suo3~1	索馬里|索马里|Suo3 ma3 li3	索馬里	索马里	Suo3 ma3 li3	1
+經|经|jing1	0	abbr	經|经|jing1~5	經濟|经济|jing1 ji4	經濟	经济	jing1 ji4	1
+維|维|wei2	0	abbr	維|维|wei2~3	維生素|维生素|wei2 sheng1 su4	維生素	维生素	wei2 sheng1 su4	1
+維|维|wei2	1	abbr	維|维|Wei2~1	維吾爾|维吾尔|Wei2 wu2 er3	維吾爾	维吾尔	Wei2 wu2 er3	1
+維|维|wei2	2	abbr	維|维|Wei2~1	維吾爾族|维吾尔族|Wei2 wu2 er3 zu2	維吾爾族	维吾尔族	Wei2 wu2 er3 zu2	1
+總|总|zong3	0	abbr	總|总|zong3~6	總經理|总经理|zong3 jing1 li3	總經理	总经理	zong3 jing1 li3	1
+總|总|zong3	1	abbr	總|总|zong3~6	總編|总编|zong3 bian1	總編	总编	zong3 bian1	1
+羅漢|罗汉|luo2 han4	0	abbr	羅漢|罗汉|luo2 han4~1	阿羅漢|阿罗汉|a1 luo2 han4	阿羅漢	阿罗汉	a1 luo2 han4	1
+美|美|mei3	0	abbr	美|美|Mei3~1	美國|美国|Mei3 guo2	美國	美国	Mei3 guo2	1
+美|美|mei3	1	abbr	美|美|Mei3~2	美洲|美洲|Mei3 zhou1	美洲	美洲	Mei3 zhou1	1
+美洲|美洲|Mei3 zhou1	0	abbr	美洲|美洲|Mei3 zhou1~2	亞美利加洲|亚美利加洲|Ya4 mei3 li4 jia1 Zhou1	亞美利加洲	亚美利加洲	Ya4 mei3 li4 jia1 Zhou1	1
+臺|台|tai2	0	abbr	臺|台|Tai2~1	臺灣|台湾|Tai2 wan1	臺灣	台湾	Tai2 wan1	1
+臺北|台北|Tai2 bei3	0	twin	\N	台北|台北|Tai2 bei3	台北	台北	Tai2 bei3	1
+色|色|shai3	0	used-in	色|色|shai3~2	色子|色子|shai3 zi5	色子	色子	shai3 zi5	1
+芥蘭|芥兰|gai4 lan2	0	variant	芥蘭|芥兰|gai4 lan2~1	芥藍|芥蓝|gai4 lan2	芥藍	芥蓝	gai4 lan2	1
+英|英|ying1	0	abbr	英|英|Ying1~1	英國|英国|Ying1 guo2	英國	英国	Ying1 guo2	1
+茶蛋|茶蛋|cha2 dan4	0	abbr	茶蛋|茶蛋|cha2 dan4~1	茶葉蛋|茶叶蛋|cha2 ye4 dan4	茶葉蛋	茶叶蛋	cha2 ye4 dan4	1
+華|华|hua1	0	old-variant	華|华|hua1~1	花|花|hua1	花	花	hua1	1
+菲|菲|fei1	0	abbr	菲|菲|Fei1~1	菲律賓|菲律宾|Fei1 lu:4 bin1	菲律賓	菲律宾	Fei1 lu:4 bin1	1
+菸|烟|yan1	0	variant	菸|烟|yan1~1	煙|烟|yan1	煙	烟	yan1	1
+葯|药|yao4	0	variant	葯|药|yao4~2	藥|药|yao4	藥	药	yao4	1
+蒙|蒙|Meng3	0	abbr	蒙|蒙|Meng3~2	蒙古國|蒙古国|Meng3 gu3 guo2	蒙古國	蒙古国	Meng3 gu3 guo2	1
+藉|藉|ji2	0	used-in	藉|藉|ji2~2	狼藉|狼藉|lang2 ji2	狼藉	狼藉	lang2 ji2	1
+藏|藏|zang4	0	abbr	藏|藏|Zang4~2	西藏自治區|西藏自治区|Xi1 zang4 Zi4 zhi4 qu1	西藏自治區	西藏自治区	Xi1 zang4 Zi4 zhi4 qu1	1
+蘇|苏|su1	0	abbr	蘇|苏|Su1~1	蘇維埃|苏维埃|Su1 wei2 ai1	蘇維埃	苏维埃	Su1 wei2 ai1	1
+蘇|苏|su1	1	abbr	蘇|苏|Su1~2	江蘇|江苏|Jiang1 su1	江蘇	江苏	Jiang1 su1	1
+蘇|苏|su1	2	abbr	蘇|苏|Su1~3	蘇州|苏州|Su1 zhou1	蘇州	苏州	Su1 zhou1	1
+蘇|苏|su1	3	abbr	蘇|苏|Su1~1	蘇聯|苏联|Su1 lian2	蘇聯	苏联	Su1 lian2	1
+蘇聯|苏联|Su1 lian2	0	abbr	蘇聯|苏联|Su1 lian2~1	蘇維埃社會主義共和國聯盟|苏维埃社会主义共和国联盟|Su1 wei2 ai1 She4 hui4 zhu3 yi4 Gong4 he2 guo2 Lian2 meng2	蘇維埃社會主義共和國聯盟	苏维埃社会主义共和国联盟	Su1 wei2 ai1 She4 hui4 zhu3 yi4 Gong4 he2 guo2 Lian2 meng2	1
+蘭州|兰州|Lan2 zhou1	0	xref	蘭州|兰州|Lan2 zhou1~1	蘭州市|兰州市|Lan2 zhou1 Shi4	蘭州市	兰州市	Lan2 zhou1 Shi4	1
+螭|螭|chi1	0	variant	螭|螭|chi1~2	魑|魑|chi1	魑	魑	chi1	1
+西|西|xi1	0	abbr	西|西|Xi1~2	西班牙|西班牙|Xi1 ban1 ya2	西班牙	西班牙	Xi1 ban1 ya2	1
+西安|西安|Xi1 an1	0	xref	西安|西安|Xi1 an1~1	西安市|西安市|Xi1 an1 Shi4	西安市	西安市	Xi1 an1 Shi4	1
+西寧|西宁|Xi1 ning2	0	xref	西寧|西宁|Xi1 ning2~1	西寧市|西宁市|Xi1 ning2 Shi4	西寧市	西宁市	Xi1 ning2 Shi4	1
+西藏|西藏|Xi1 zang4	0	xref	西藏|西藏|Xi1 zang4~1	西藏自治區|西藏自治区|Xi1 zang4 Zi4 zhi4 qu1	西藏自治區	西藏自治区	Xi1 zang4 Zi4 zhi4 qu1	1
+解|解|xie4	0	variant	解|解|xie4~2	懈|懈|xie4	懈	懈	xie4	1
+詩|诗|shi1	0	abbr	詩|诗|Shi1~1	詩經|诗经|Shi1 jing1	詩經	诗经	Shi1 jing1	1
+論|论|Lun2	0	abbr	論|论|Lun2~1	論語|论语|Lun2 yu3	論語	论语	Lun2 yu3	1
+證|证|zheng4	0	variant	證|证|zheng4~3	症|症|zheng4	症	症	zheng4	1
+警|警|jing3	0	abbr	警|警|jing3~1	警察|警察|jing3 cha2	警察	警察	jing3 cha2	1
+豆腐乾|豆腐干|dou4 fu5 gan1	0	xref	豆腐乾|豆腐干|dou4 fu5 gan1~1	豆干|豆干|dou4 gan1	豆干	豆干	dou4 gan1	1
+豫|豫|Yu4	0	abbr	豫|豫|Yu4~1	河南|河南|He2 nan2	河南	河南	He2 nan2	1
+貴州|贵州|Gui4 zhou1	0	xref	貴州|贵州|Gui4 zhou1~1	貴州省|贵州省|Gui4 zhou1 Sheng3	貴州省	贵州省	Gui4 zhou1 Sheng3	1
+貴陽|贵阳|Gui4 yang2	0	xref	貴陽|贵阳|Gui4 yang2~1	貴陽市|贵阳市|Gui4 yang2 Shi4	貴陽市	贵阳市	Gui4 yang2 Shi4	1
+贛|赣|Gan4	0	abbr	贛|赣|Gan4~1	江西省|江西省|Jiang1 xi1 Sheng3	江西省	江西省	Jiang1 xi1 Sheng3	1
+超市|超市|chao1 shi4	0	abbr	超市|超市|chao1 shi4~1	超級市場|超级市场|chao1 ji2 shi4 chang3	超級市場	超级市场	chao1 ji2 shi4 chang3	1
+越|越|yue4	0	abbr	越|越|Yue4~1	越南|越南|Yue4 nan2	越南	越南	Yue4 nan2	1
+輕軌|轻轨|qing1 gui3	0	abbr	輕軌|轻轨|qing1 gui3~1	輕型軌道交通|轻型轨道交通|qing1 xing2 gui3 dao4 jiao1 tong1	輕型軌道交通	轻型轨道交通	qing1 xing2 gui3 dao4 jiao1 tong1	1
+辦|办|ban4	0	abbr	辦|办|ban4~4	辦公室|办公室|ban4 gong1 shi4	辦公室	办公室	ban4 gong1 shi4	1
+逮|逮|dai4	0	used-in	逮|逮|dai4~2	逮捕|逮捕|dai4 bu3	逮捕	逮捕	dai4 bu3	1
+週|周|zhou1	0	variant	週|周|zhou1~2	周|周|zhou1	周	周	zhou1	1
+逼|逼|bi1	0	variant	逼|逼|bi1~3	屄|屄|bi1	屄	屄	bi1	1
+遶|绕|rao4	0	variant	遶|绕|rao4~2	繞|绕|rao4	繞	绕	rao4	1
+遼寧|辽宁|Liao2 ning2	0	xref	遼寧|辽宁|Liao2 ning2~1	遼寧省|辽宁省|Liao2 ning2 Sheng3	遼寧省	辽宁省	Liao2 ning2 Sheng3	1
+邊兒|边儿|bian1 r5	0	xref	邊兒|边儿|bian1 r5~4	邊|边|bian1	邊	边	bian1	1
+那|那|nuo2	0	old-variant	那|那|nuo2~4	挪|挪|nuo2	挪	挪	nuo2	1
+那裏|那里|na4 li5	0	twin	\N	那裡|那里|na4 li5	那裡	那里	na4 li5	1
+那裡|那里|na4 li5	0	twin	\N	那裏|那里|na4 li5	那裏	那里	na4 li5	1
+郵件|邮件|you2 jian4	0	abbr	郵件|邮件|you2 jian4~1	電子郵件|电子邮件|dian4 zi3 you2 jian4	電子郵件	电子邮件	dian4 zi3 you2 jian4	1
+鄂|鄂|E4	0	abbr	鄂|鄂|E4~1	湖北|湖北|Hu2 bei3	湖北	湖北	Hu2 bei3	1
+鄭州|郑州|Zheng4 zhou1	0	xref	鄭州|郑州|Zheng4 zhou1~1	鄭州市|郑州市|Zheng4 zhou1 Shi4	鄭州市	郑州市	Zheng4 zhou1 Shi4	1
+量|量|liang4	0	abbr	量|量|liang4~3	量詞|量词|liang4 ci2	量詞	量词	liang4 ci2	1
+銀川|银川|Yin2 chuan1	0	xref	銀川|银川|Yin2 chuan1~1	銀川市|银川市|Yin2 chuan1 Shi4	銀川市	银川市	Yin2 chuan1 Shi4	1
+鍾|钟|zhong1	0	variant	鍾|钟|zhong1~3	鐘|钟|zhong1	鐘	钟	zhong1	1
+長春|长春|Chang2 chun1	0	xref	長春|长春|Chang2 chun1~1	長春市|长春市|Chang2 chun1 Shi4	長春市	长春市	Chang2 chun1 Shi4	1
+長沙|长沙|Chang2 sha1	0	xref	長沙|长沙|Chang2 sha1~1	長沙市|长沙市|Chang2 sha1 Shi4	長沙市	长沙市	Chang2 sha1 Shi4	1
+開|开|kai1	0	abbr	開|开|kai1~8	開爾文|开尔文|Kai1 er3 wen2	開爾文	开尔文	Kai1 er3 wen2	1
+開|开|kai1	1	abbr	開|开|kai1~9	開本|开本|kai1 ben3	開本	开本	kai1 ben3	1
+閩|闽|Min3	0	abbr	閩|闽|Min3~1	福建|福建|Fu2 jian4	福建	福建	Fu2 jian4	1
+阿|阿|a1	0	abbr	阿|阿|a1~3	阿富汗|阿富汗|A1 fu4 han4	阿富汗	阿富汗	A1 fu4 han4	1
+阿|阿|a1	1	abbr	阿|阿|a1~3	阿爾巴尼亞|阿尔巴尼亚|A1 er3 ba1 ni2 ya4	阿爾巴尼亞	阿尔巴尼亚	A1 er3 ba1 ni2 ya4	1
+阿|阿|a1	2	abbr	阿|阿|a1~3	阿爾及利亞|阿尔及利亚|A1 er3 ji2 li4 ya4	阿爾及利亞	阿尔及利亚	A1 er3 ji2 li4 ya4	1
+阿|阿|a1	3	abbr	阿|阿|a1~3	阿根廷|阿根廷|A1 gen1 ting2	阿根廷	阿根廷	A1 gen1 ting2	1
+陝西|陕西|Shan3 xi1	0	xref	陝西|陕西|Shan3 xi1~1	陝西省|陕西省|Shan3 xi1 Sheng3	陝西省	陕西省	Shan3 xi1 Sheng3	1
+陪|陪|pei2	0	old-variant	陪|陪|pei2~2	賠|赔|pei2	賠	赔	pei2	1
+雲南|云南|Yun2 nan2	0	xref	雲南|云南|Yun2 nan2~1	雲南省|云南省|Yun2 nan2 Sheng3	雲南省	云南省	Yun2 nan2 Sheng3	1
+青海|青海|Qing1 hai3	0	xref	青海|青海|Qing1 hai3~1	青海省|青海省|Qing1 hai3 Sheng3	青海省	青海省	Qing1 hai3 Sheng3	1
+非|非|fei1	0	abbr	非|非|Fei1~1	非洲|非洲|Fei1 zhou1	非洲	非洲	Fei1 zhou1	1
+非洲|非洲|Fei1 zhou1	0	abbr	非洲|非洲|Fei1 zhou1~1	阿非利加洲|阿非利加洲|A1 fei1 li4 jia1 Zhou1	阿非利加洲	阿非利加洲	A1 fei1 li4 jia1 Zhou1	1
+馬|马|ma3	0	abbr	馬|马|Ma3~1	馬來西亞|马来西亚|Ma3 lai2 xi1 ya4	馬來西亞	马来西亚	Ma3 lai2 xi1 ya4	1
+駕照|驾照|jia4 zhao4	0	abbr	駕照|驾照|jia4 zhao4~1	駕駛執照|驾驶执照|jia4 shi3 zhi2 zhao4	駕駛執照	驾驶执照	jia4 shi3 zhi2 zhao4	1
+體|体|ti1	0	used-in	體|体|ti1~1	體己|体己|ti1 ji5	體己	体己	ti1 ji5	1
+高中|高中|gao1 zhong1	0	abbr	高中|高中|gao1 zhong1~1	高級中學|高级中学|gao1 ji2 zhong1 xue2	高級中學	高级中学	gao1 ji2 zhong1 xue2	1
+鬼|鬼|gui3	0	variant	鬼|鬼|gui3~4	詭|诡|gui3	詭	诡	gui3	1
+魚|鱼|yu2	0	used-in	魚|鱼|yu2~2	鮑魚|鲍鱼|bao4 yu2	鮑魚	鲍鱼	bao4 yu2	1
+鳥|鸟|diao3	0	variant	鳥|鸟|diao3~2	屌|屌|diao3	屌	屌	diao3	1
+麥|麦|mai4	0	abbr	麥|麦|mai4~2	麥克風|麦克风|mai4 ke4 feng1	麥克風	麦克风	mai4 ke4 feng1	1
+黑龍江|黑龙江|Hei1 long2 jiang1	0	xref	黑龍江|黑龙江|Hei1 long2 jiang1~2	黑龍江省|黑龙江省|Hei1 long2 jiang1 Sheng3	黑龍江省	黑龙江省	Hei1 long2 jiang1 Sheng3	1

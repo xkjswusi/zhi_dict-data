@@ -1,0 +1,317 @@
+{
+  "release_version": "2026.10.30-v3.3",
+  "publication_status": "published",
+  "table_rows": {
+    "aliases": 271,
+    "classifiers": 1225,
+    "common_words": 3430,
+    "entries": 6172,
+    "examples": 9488,
+    "glosses": 16698,
+    "house_entries": 28,
+    "meta": 29,
+    "pron_variants": 99,
+    "provenance": 381,
+    "search_hanzi": 0,
+    "search_pinyin": 6267,
+    "senses": 10256,
+    "xrefs": 2716
+  },
+  "entries": 6172,
+  "anki_notes": 6172,
+  "anki_cards": 6172,
+  "scope": "All rows and fields in the app-pinned v3 lexical database; no source rows silently filtered.",
+  "licensing": "CC-BY-SA-4.0 lexical data; Apache-2.0 software; original source notices apply.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 61,
+      "sha256": "9af5f8954aa922d096f663403b5db171122d227b8bb0a5b63a07bba7e6f257c4"
+    },
+    {
+      "path": "anki/coldscholar-complete.apkg",
+      "bytes": 48914650,
+      "sha256": "4bcc80f84d69283cc1a2741faee8477d6e25a195ccca43543aa794f0382b9dad"
+    },
+    {
+      "path": "anki/coldscholar-complete.tsv",
+      "bytes": 44565958,
+      "sha256": "a49ccd5724be65628f30b7b881cb4652310eff0fd6929a3c9ac3e9a4278556c4"
+    },
+    {
+      "path": "bibliography.json",
+      "bytes": 10585,
+      "sha256": "2bcf77b75a7331fea59ad350de34026d9c9b5784256f6a17ce2a408159a8ce64"
+    },
+    {
+      "path": "BIBLIOGRAPHY.md",
+      "bytes": 5926,
+      "sha256": "b8b369ea4e4f62d5d02638078544bfc9ac6d26bf6d9a345db535b4c4211a0b0e"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 700,
+      "sha256": "1cec4ef31ac7312ec0fb12442ec8632b16f1639f76027d3f6118ad470af784d6"
+    },
+    {
+      "path": "config.json",
+      "bytes": 1222,
+      "sha256": "f90db25a3cf5746910de2f274c4af75fc275bac3730f22d2601e7576716ba367"
+    },
+    {
+      "path": "data/dictionary.json",
+      "bytes": 19500932,
+      "sha256": "b96a5025dd14ab089771fa360081fcf35bfa09a2b5e4c13478e18c3e2912c5eb"
+    },
+    {
+      "path": "data/lexicon.tsv",
+      "bytes": 20131215,
+      "sha256": "c79c5b1ec256df79bbde167696b7aed30439617160b5fa357b45bd866b60f5aa"
+    },
+    {
+      "path": "data/tables/aliases.tsv",
+      "bytes": 28863,
+      "sha256": "ee2438b29aaa5510ae4d310e7d142f92bb1fd34ea96206dcfde8c2a78ad19baa"
+    },
+    {
+      "path": "data/tables/classifiers.tsv",
+      "bytes": 48599,
+      "sha256": "396b9092f349e64e05d3056c697091d261409303b2336c8ccf6d1e751b9eaf8b"
+    },
+    {
+      "path": "data/tables/common_words.tsv",
+      "bytes": 569924,
+      "sha256": "d49af2b50d97d0bdb86630c6093cce8f3f2cd85d637511cda9b52ff5b6dc6776"
+    },
+    {
+      "path": "data/tables/entries.tsv",
+      "bytes": 621126,
+      "sha256": "93af0fbed5329991bf9aaa8d9ce9aa750d70bb620cb423f407020f3004cdcc4b"
+    },
+    {
+      "path": "data/tables/examples.tsv",
+      "bytes": 1210999,
+      "sha256": "9cb9d4c93bc14e8b2c32dc3300bd7a614c932e7ee70ee554121d6efb3a05ea7a"
+    },
+    {
+      "path": "data/tables/glosses.tsv",
+      "bytes": 738630,
+      "sha256": "81333c3ada5c3400e5b4313bbece480fd88b09966c4ae04988a44d0b36ef46a1"
+    },
+    {
+      "path": "data/tables/house_entries.tsv",
+      "bytes": 1020,
+      "sha256": "d043198f57e89004bcd079f74ab8ff7c3bd037a22f6c982265838c68c8a81c20"
+    },
+    {
+      "path": "data/tables/meta.tsv",
+      "bytes": 55430,
+      "sha256": "896e68be6e43a313d34fee77c62a717cc4ac706454658b7d5d620c9dcfa7dd0c"
+    },
+    {
+      "path": "data/tables/pron_variants.tsv",
+      "bytes": 5097,
+      "sha256": "cbe4d63f517be985d2394f42f3290383f19f2de6869ea140d48f398da88c0806"
+    },
+    {
+      "path": "data/tables/provenance.tsv",
+      "bytes": 72453,
+      "sha256": "7e0e27b2472b1a8ea79242163bbee8da1467de77b2832b11ad29df8a85a7e3cf"
+    },
+    {
+      "path": "data/tables/search_hanzi.tsv",
+      "bytes": 14,
+      "sha256": "afe6a6c403e13bfee3292b6ce88106270faab7bae72f70579a41c10ebc0d0af9"
+    },
+    {
+      "path": "data/tables/search_pinyin.tsv",
+      "bytes": 305295,
+      "sha256": "ed9822b2520cd4f8fbb6728a741c87f59074523e0cfb8fb4ff34a0f650e9db24"
+    },
+    {
+      "path": "data/tables/senses.tsv",
+      "bytes": 3062272,
+      "sha256": "3d0ee707f6a7275ce2e4707f27ca1fd07f7b9a1e664aed293771cd83111b49e0"
+    },
+    {
+      "path": "data/tables/xrefs.tsv",
+      "bytes": 209727,
+      "sha256": "b126a80a6606c65dab4641024b825d563d849dc5caf04ab26797776e6cae1a95"
+    },
+    {
+      "path": "evidence/bibliographic-metadata.json",
+      "bytes": 15125,
+      "sha256": "f77852c2d9b03af123c8995a8d822fe79956e7dd3e0830b7e300caf2f3072112"
+    },
+    {
+      "path": "evidence/subtlex-license.json",
+      "bytes": 1412,
+      "sha256": "1429bda471d9f83f93d8763cad1dece5e4a4baff6dbde0fcdf4f89cb9476a270"
+    },
+    {
+      "path": "LICENSE-CODE.txt",
+      "bytes": 10175,
+      "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0"
+    },
+    {
+      "path": "LICENSE-DATA.txt",
+      "bytes": 20138,
+      "sha256": "28a9529c7d0bb4dc51f4bf5c116a3d16ef247a052f7591466768ddf563fd1cf5"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 838,
+      "sha256": "feaf5992123749e3267861094c96ab09ee6b16ad75ece4a4217e316224b2beb4"
+    },
+    {
+      "path": "PREPUBLICATION_DECISIONS.md",
+      "bytes": 4523,
+      "sha256": "1c1ec7274ec853501fea4225362c0ad8d88f3deecfe8c5bea485a1a396a52e12"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 8757,
+      "sha256": "d93b82257244a1f9bbe47b34363520e4bdb32df218c4ab855423833a460c4c75"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5465,
+      "sha256": "4a564349612928ad7c8c52c395d4bcbc8f70334f9cd9d656ec2154e47a104312"
+    },
+    {
+      "path": "references.bib",
+      "bytes": 4731,
+      "sha256": "649f1db57e62f52b6c258846b901b4cd1ebff31ba298a26e12d963f0a6071bf6"
+    },
+    {
+      "path": "RESEARCH_POLICY.md",
+      "bytes": 3353,
+      "sha256": "95bae5f79eba6bc7dfe3d4dc82dda9d425901b4396c3db6e53b2fa46238e0b98"
+    },
+    {
+      "path": "schema/dictionary.schema.json",
+      "bytes": 17263,
+      "sha256": "a57beb80b09982ceaa5158983ba2f24554b443b1115eb54f133894646813f498"
+    },
+    {
+      "path": "schema/sqlite.sql",
+      "bytes": 3210,
+      "sha256": "549a0a2413649d4c6d4c90cc45389f42a8d31ee6257be576f001569b81ce9409"
+    },
+    {
+      "path": "schema/tables.json",
+      "bytes": 18006,
+      "sha256": "e967f8d2fb2cab7af6687e16c17343a6dff22ab8d3a8113a1a08f04de6c5e381"
+    },
+    {
+      "path": "SCHEMA.md",
+      "bytes": 6366,
+      "sha256": "f06472fef4f6c5f431042f1713011ef6cd97f2830bbef9feaedae20c34884660"
+    },
+    {
+      "path": "scripts/anki_deck.py",
+      "bytes": 10979,
+      "sha256": "87567163c230f28f675dc2dd37161569fe8a6303b6d9a68589e2cf8a854128c9"
+    },
+    {
+      "path": "scripts/export_release.py",
+      "bytes": 27714,
+      "sha256": "8ab9533863fd85367e2ef8c1af728d8383ff06d31ed62f8cc8399f7169b5ac05"
+    },
+    {
+      "path": "scripts/test_export_release.py",
+      "bytes": 4544,
+      "sha256": "bb2a727040a6b86afa9f76d2b5c8c957b6458609e951f636bb94ce83d1234681"
+    },
+    {
+      "path": "scripts/validation-requirements.txt",
+      "bytes": 101,
+      "sha256": "6dffb0396c6eed18fc8b13a7c728c13726192d93a0252f4d280f1257c730c6db"
+    },
+    {
+      "path": "scripts/verify_anki.py",
+      "bytes": 4271,
+      "sha256": "e393a51c1e4e6e4bcb1f46e6af5972b78a194b2509ee666f707cc1d744b41b03"
+    },
+    {
+      "path": "source/canonical.sqlite",
+      "bytes": 8450048,
+      "sha256": "f23b56b7390b2ca2d0a1a9b5ff1ba4a83ec7d184ae798259b942bb5f24ae8837"
+    },
+    {
+      "path": "source/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+      "bytes": 3967284,
+      "sha256": "80a3b2c91524ce4ab5d22a90b1cfdeddb7918c36cd29ebf635f958e5b67ae6cf"
+    },
+    {
+      "path": "source/compile-inputs.json",
+      "bytes": 12374,
+      "sha256": "6019891e489b7f3c5839b9bfeb6e0dd7368ef81c5b221c401841bb030dc35172"
+    },
+    {
+      "path": "source/compile-spec.json",
+      "bytes": 19329,
+      "sha256": "f2bae8b0220d8db7a186be78f135fd18e49e4ae5722138b7508a7b52700e38b0"
+    },
+    {
+      "path": "source/defining-source-manifest.md",
+      "bytes": 4769,
+      "sha256": "3151794ccd96a40e10fa465cce39feed2c0974d940148f875cb1fa382649c61f"
+    },
+    {
+      "path": "source/dictionary-source-manifest.md",
+      "bytes": 2739,
+      "sha256": "61d842eb1a16867186c8380b451a9b24bf073204181b5b67629bd152f1190d7f"
+    },
+    {
+      "path": "source/house-cedict.u8",
+      "bytes": 3272,
+      "sha256": "a089d657706c196e7ae8476399d97cbd4423041011d12f33e25b5ac116cfa73e"
+    },
+    {
+      "path": "source/house-overrides-why.tsv",
+      "bytes": 1160,
+      "sha256": "ce1273b182761e38a8b6f2be78397c370bb677084429583b70a75de232f7a4bc"
+    },
+    {
+      "path": "source/house-overrides.u8",
+      "bytes": 1286,
+      "sha256": "9a4792fb6a9b10684c768908458143271f74e105c378bf7314347c981e7bbdc9"
+    },
+    {
+      "path": "source/house-why.tsv",
+      "bytes": 5931,
+      "sha256": "0e48d54955880a4c6045d90926f45a89597e36722e9902b404b78fbefede7871"
+    },
+    {
+      "path": "source/link-fixes.tsv",
+      "bytes": 27788,
+      "sha256": "0d7d9ca262037373df1a44f92c08102eef168f4b25028eb79ca296c081f65d1a"
+    },
+    {
+      "path": "source/pinyin-case.tsv",
+      "bytes": 5552,
+      "sha256": "5052aaf30a2bb2e17eb41fcccfee303753733d4e00e235564b752c3581ea36ea"
+    },
+    {
+      "path": "source-files.json",
+      "bytes": 3166,
+      "sha256": "10e817fa32f28be3f47df7dec46a53cc4001b1dc9d74b8ab7b9432838882f536"
+    },
+    {
+      "path": "source-register.json",
+      "bytes": 4129,
+      "sha256": "a24d01ed3bec21f1c9f50474ff9a3e6fd6b3d8b5c9716c6bbb630df0a59b0a67"
+    },
+    {
+      "path": "validation/content-validation.json",
+      "bytes": 1499,
+      "sha256": "1ec83a71c11aad9d8e2202545d89ff4cc24ade4a6c6f84ec8ff1fe1e8f9bae23"
+    },
+    {
+      "path": "VERSION.json",
+      "bytes": 526,
+      "sha256": "78a7a700bff4d8aa40c7ef64ec3ccb8ca69966f62cc955faa3407d7275cbb6dc"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+entry_id	builds_on	why
+誒|诶|ei1	欸|欸|ei1 (snapshot line 59910) · 誒|诶|ei1 (line 100881)	the operator's ruling 3 (D265, 2026-10-29): 诶 heads, 欸 redirects. The snapshot glosses 诶 ei1 only "variant of 欸[ei1]"; this line takes 欸 ei1's gloss verbatim, so 诶 holds the definition
+誒|诶|ei2	欸|欸|ei2 (snapshot line 59911) · 誒|诶|ei2 (line 100882)	ruling 3 (D265): 欸 ei2's gloss verbatim; 诶 heads
+誒|诶|ei3	欸|欸|ei3 (snapshot line 59912) · 誒|诶|ei3 (line 100883)	ruling 3 (D265): 欸 ei3's gloss verbatim; 诶 heads
+誒|诶|ei4	欸|欸|ei4 (snapshot line 59913) · 誒|诶|ei4 (line 100884)	ruling 3 (D265): 欸 ei4's gloss verbatim; 诶 heads
+欸|欸|ei1	誒|诶|ei1 (snapshot line 100881)	ruling 3 (D265): 欸 ei1 becomes the variant, pointing the CC-CEDICT way (pointer rule 3), so it compiles as a redirect to 诶 (D245); the reverse of the snapshot's line
+欸|欸|ei2	誒|诶|ei2 (snapshot line 100882)	ruling 3 (D265): the redirect to 诶 ei2
+欸|欸|ei3	誒|诶|ei3 (snapshot line 100883)	ruling 3 (D265): the redirect to 诶 ei3
+欸|欸|ei4	誒|诶|ei4 (snapshot line 100884)	ruling 3 (D265): the redirect to 诶 ei4

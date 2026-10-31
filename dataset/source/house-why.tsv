@@ -1,0 +1,29 @@
+entry_id	builds_on	why
+西方|西方|xi1 fang1	東方|东方|dong1 fang1 · 西|西|xi1 · 西邊|西边|xi1 bian1	the direction; CC-CEDICT has only Xi1 fang1 (the West). Gloss mirrors the snapshot's 東方 dong1 fang1 "east" (Q121, D239)
+天吶|天呐|tian1 na5	天哪|天哪|tian1 na5 · 天啊|天啊|tian1 a5 · 吶|呐|na5	request #31; 吶 na5 is the snapshot's variant of 哪 na5, so 天吶 is 天哪's spelling. Points where 天哪 points ("see 天啊"), so it ships as a redirect with one hop, not two
+互相矛盾|互相矛盾|hu4 xiang1 mao2 dun4	互相|互相|hu4 xiang1 · 矛盾|矛盾|mao2 dun4	request #35; the set phrase, glossed from 互相 "each other" and 矛盾 "contradictory"
+南蠻|南蛮|Nan2 man2	蠻|蛮|man2 (v3 sense 3) · 東夷|东夷|Dong1 yi2 · 西戎|西戎|Xi1 rong2	request #43; glossed in the snapshot's 東夷 form ("Eastern Barbarians, non-Han tribe...") with (derog.), as v3's 蠻~3 carries derog; capitalised like 東夷 so the proper-name prompt routes it (ethnonym, rule 26)
+椰肉|椰肉|ye1 rou4	椰子|椰子|ye1 zi5 · 椰汁|椰汁|ye1 zhi1 · 肉|肉|rou4	request #53; v3's 椰子 already names the white flesh; 肉 "flesh (of fruit)"
+胡椒博士|胡椒博士|Hu2 jiao1 Bo2 shi4	七喜|七喜|Qi1 xi3 · 雪碧|雪碧|Xue3 bi4 · 芬達|芬达|Fen1 da2	request #61; a brand, glossed in the snapshot's soft-drink form ("7 Up (soft drink)"); capitalised so the proper-name prompt routes it, as 七喜
+黃桃|黄桃|huang2 tao2	桃子|桃子|tao2 zi5 · 黃|黄|huang2	request #66; a common fruit word: a yellow-fleshed peach, sold fresh and canned
+桑葚子|桑葚子|sang1 shen4 zi5	桑葚|桑葚|sang1 shen4 · 桑椹|桑椹|sang1 shen4	request #70; the 子-suffixed everyday form of 桑葚; "variant of", as the snapshot's 桑椹, so it ships as a redirect
+西方國家|西方国家|Xi1 fang1 guo2 jia1	西方|西方|Xi1 fang1 · 國家|国家|guo2 jia1	request #73; v3's Xi1 fang1 explanation already gives 西方國家; capitalised as Xi1 fang1
+上站|上站|shang4 zhan4	下一站|下一站|xia4 yi1 zhan4 · 站|站|zhan4	request #76 (上站/下站, beside 目的地 汽車站 地鐵站); the transit sense, parallel to 下站; the snapshot has no 上一站
+下站|下站|xia4 zhan4	下一站|下一站|xia4 yi1 zhan4 · 站|站|zhan4	request #76; the snapshot's 下一站 "the next stop (of a bus etc)", glossed directly so it defines, not redirects
+茶蛋|茶蛋|cha2 dan4	茶葉蛋|茶叶蛋|cha2 ye4 dan4	request #93; the everyday short form; "abbr. for", so the abbreviation prompt defines it (「茶葉蛋的簡稱」) with an alias to 茶葉蛋, by the operator's R91 menu ruling
+剪髮|剪发|jian3 fa4	理髮|理发|li3 fa4 · 剪|剪|jian3 · 剪頭|剪头|jian3 tou2	request #97; glossed in 理髮's two senses (get a haircut; cut someone's hair)
+吃飯了嗎|吃饭了吗|chi1 fan4 le5 ma5	吃飯|吃饭|chi1 fan4 · 了|了|le5 · 嗎|吗|ma5	request #107; a fixed greeting; the gloss names its use, so the general prompt explains it
+熱死了|热死了|re4 si3 le5	熱|热|re4 · 死|死|si3 (extremely) · 了|了|le5	request #112; a fixed colloquial exclamation; 死 here is the snapshot's "extremely"
+好好學習|好好学习|hao3 hao3 xue2 xi2	好好|好好|hao3 hao3 · 學習|学习|xue2 xi2	request #115
+好好學習天天向上|好好学习天天向上|hao3 hao3 xue2 xi2 tian1 tian1 xiang4 shang4	好好學習 (house) · 天天|天天|tian1 tian1 · 向上|向上|xiang4 shang4	request #115; the slogan, written without its comma as requested; v3's 向上 explanation quotes it
+關燈|关灯|guan1 deng1	開燈|开灯|kai1 deng1 · 關|关|guan1 · 燈|灯|deng1	request #126; mirrors the snapshot's 開燈 "to turn on the light"
+沒有道理|没有道理|mei2 you3 dao4 li5	有道理|有道理|you3 dao4 li5 · 沒有|没有|mei2 you3 · 道理|道理|dao4 li5	request #134; mirrors the snapshot's 有道理 "to make sense; reasonable"
+韓劇|韩剧|Han2 ju4	美劇|美剧|Mei3 ju4 · 韓國|韩国|Han2 guo2 · 劇|剧|ju4	request #162; glossed as v3's 美劇 is, without the "abbr. for" clause (韓國電視劇 is not in the snapshot, so it would only leave an unresolved alias)
+廣式點心|广式点心|Guang3 shi4 dian3 xin5	點心|点心|dian3 xin5 · 廣式|广式|Guang3 shi4 · 飲茶|饮茶|yin3 cha2	R96 request #18 (D255); the snapshot's 點心 names "dim sum (in Cantonese cooking)" and 飲茶 "to have tea and dim sum"; capitalised as the snapshot's 廣式
+烤冷麵|烤冷面|kao3 leng3 mian4	烤|烤|kao3 · 冷麵|冷面|leng3 mian4 · 涼麵|凉面|liang2 mian4	R96 request #23 (D255); a Northeast street food named for its griddled sheet of cold-noodle dough; the snapshot has no record
+日本料理|日本料理|Ri4 ben3 liao4 li3	料理|料理|liao4 li3 · 日本|日本|Ri4 ben3 · 日料|日料|Ri4 liao4	R96 request #26 (D255); the snapshot's own 日料 gloss writes it as "abbr. for 日本料理[Ri4 ben3 liao4 li3]", the form used here
+韓國料理|韩国料理|Han2 guo2 liao4 li3	料理|料理|liao4 li3 · 韓國|韩国|Han2 guo2 · 日本料理 (house)	R96 request #27 (D255); glossed as 日本料理 is
+黃芥末|黄芥末|huang2 jie4 mo5	芥末|芥末|jie4 mo5 · 黃|黄|huang2	R96 request #30 (D255); the snapshot's 芥末 is "mustard/wasabi"; the yellow condiment is the everyday sense of 黄芥末
+魚豆腐|鱼豆腐|yu2 dou4 fu5	豆腐|豆腐|dou4 fu5 · 魚丸|鱼丸|yu2 wan2	R96 request #33 (D255); a fish-paste food named for its tofu-like shape, common in hotpot; the snapshot has no record
+贛菜|赣菜|Gan4 cai4	川菜|川菜|Chuan1 cai4 · 贛|赣|Gan4	R96 request #83 (D255); glossed and capitalised as the snapshot's 川菜 湘菜 粵菜 魯菜; 贛 is the snapshot's "abbr. for Jiangxi"
+東北菜|东北菜|Dong1 bei3 cai4	川菜|川菜|Chuan1 cai4 · 東北|东北|Dong1 bei3	R96 request #84 (D255); glossed and capitalised as the snapshot's regional cuisines; 東北 Dong1 bei3 is "Northeast China"

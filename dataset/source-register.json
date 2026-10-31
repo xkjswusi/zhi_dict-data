@@ -1,0 +1,72 @@
+{
+  "audited_on": "2026-10-10",
+  "scope": "Complete app source, pinned compile inputs, lexical exports/deck and separate Arphic assets",
+  "proposed_data_license": "CC-BY-SA-4.0",
+  "publication_status": "published",
+  "sources": [
+    {
+      "id": "cc-cedict",
+      "license": "CC-BY-SA-4.0",
+      "disposition": "included-with-attribution-and-share-alike",
+      "evidence": ["https://www.mdbg.net/chinese/dictionary?page=cedict", "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"],
+      "local_evidence": ["source/dictionary-source-manifest.md", "source/cedict_1_0_ts_utf-8_mdbg.txt.gz"],
+      "affects": ["headwords", "readings", "source glosses", "adapted Chinese text", "source targets"]
+    },
+    {
+      "id": "house",
+      "license": "CC-BY-SA-4.0 under existing project policy D239",
+      "disposition": "included-with-entry-level-derivations",
+      "local_evidence": ["source/house-cedict.u8", "source/house-why.tsv", "data/tables/house_entries.tsv"],
+      "entry_count": 20,
+      "human_review": false
+    },
+    {
+      "id": "zhwiki-selection",
+      "license": "CC-BY-SA-4.0",
+      "disposition": "selection-influence-attributed-no-article-prose-bundled",
+      "evidence": ["https://dumps.wikimedia.org/legal.html", "https://zh.wikipedia.org/"],
+      "local_evidence": ["source/defining-source-manifest.md"],
+      "snapshot": "zhwiki-20260801-pages-articles-multistream1.xml-p1p187712.bz2",
+      "affects": ["selection", "defining vocabulary"]
+    },
+    {
+      "id": "subtlex-ch",
+      "license": "CC-BY-4.0",
+      "disposition": "included-with-explicit-publisher-supplement-license",
+      "evidence": ["https://doi.org/10.1371/journal.pone.0010729", "https://plos.figshare.com/articles/dataset/SUBTLEX_CH_Chinese_Word_and_Character_Frequencies_Based_on_Film_Subtitles/143218", "https://api.figshare.com/v2/articles/143218"],
+      "local_evidence": ["evidence/subtlex-license.json", "source/defining-source-manifest.md", "source/compile-inputs.json"],
+      "affects": ["entries.zipf_subtlex", "rank", "selection"],
+      "rights_evidence": "Publisher file 421463 is byte-identical to the pinned ZIP; PLOS explicitly lists CC BY 4.0. Historical inference is no longer required."
+    },
+    {
+      "id": "ai-generated-content",
+      "license": "Adapted data intended CC-BY-SA-4.0 to extent rights held",
+      "disposition": "included-with-full-model-prompt-review-provenance",
+      "local_evidence": ["data/tables/provenance.tsv", "data/tables/meta.tsv", "source/compile-spec.json"],
+      "qualification": "Adam Woeltz authorises project contributions only to the extent rights are held and subsist. Historic account contracts are not archived; no exclusive ownership or human-review claim."
+    },
+    {
+      "id": "makemeahanzi-graphics",
+      "license": "Arphic-1999",
+      "disposition": "included-as-separate-Arphic-component-in-full-package-excluded-from-lexical-export",
+      "evidence": ["https://github.com/skishore/makemeahanzi/blob/bddc96d41bef78427ed0e034e9f7e31d71fd1b92/README.md"],
+      "local_repository_evidence": ["release/ARPHIC-ASSETS.md", "licenses/ARPHICPL.TXT", "dictionary/source/MANIFEST.md"],
+      "components": ["graphics.txt", "hw-templates-v3.zht", "hw-templates-v3.hwconf.json", "stroke-order-v3.zso"]
+    },
+    {
+      "id": "restricted-or-unlicensed-candidate-lists",
+      "disposition": "not-in-pinned-compile-chain-and-not-staged",
+      "sources": ["Jun Da", "LCMC", "wordfreq/Jieba Chinese dictionary", "HSK", "TOCFL", "NAER", "BCC"],
+      "local_repository_evidence": ["docs/selection-signals.md", "dictionary/defining/MANIFEST.md", "docs/history/DECISIONS-phase1.md"],
+      "qualification": "No new claim about all current upstream terms; project exclusions and pinned-input audit are the basis."
+    },
+    {
+      "id": "project-software",
+      "license": "Apache-2.0",
+      "rights_holder": "Adam Woeltz",
+      "disposition": "included-under-owner-authorised-open-source-license",
+      "authorised_on": "2026-10-10",
+      "local_repository_evidence": ["LICENSE", "NOTICE", "LICENSES.md", "CONTRIBUTING.md"]
+    }
+  ]
+}

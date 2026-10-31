@@ -1,0 +1,570 @@
+[
+  {
+    "id": "cai2010",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=SUBTLEX-CH%3A+Chinese+Word+and+Character+Frequencies+Based+on+Film+Subtitles&rows=1",
+    "requested_title": "SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles",
+    "metadata": {
+      "DOI": "10.1371/journal.pone.0010729",
+      "title": [
+        "SUBTLEX-CH: Chinese Word and Character Frequencies Based on Film Subtitles"
+      ],
+      "author": [
+        {
+          "given": "Qing",
+          "family": "Cai",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc",
+          "family": "Brysbaert",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "Public Library of Science (PLoS)",
+      "container-title": [
+        "PLoS ONE"
+      ],
+      "volume": "5",
+      "issue": "6",
+      "page": "e10729",
+      "published": {
+        "date-parts": [
+          [
+            2010,
+            6,
+            2
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1371/journal.pone.0010729"
+    }
+  },
+  {
+    "id": "tappert1990",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works/10.1109/34.57669",
+    "requested_title": "The state of the art in on-line handwriting recognition",
+    "metadata": {
+      "DOI": "10.1109/34.57669",
+      "title": [
+        "The state of the art in online handwriting recognition"
+      ],
+      "author": [
+        {
+          "given": "C.C.",
+          "family": "Tappert",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.Y.",
+          "family": "Suen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "T.",
+          "family": "Wakahara",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "container-title": [
+        "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      ],
+      "volume": "12",
+      "issue": "8",
+      "page": "787-808",
+      "published": {
+        "date-parts": [
+          [
+            1990
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/34.57669"
+    }
+  },
+  {
+    "id": "liu2004",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=Online+recognition+of+Chinese+characters%3A+the+state-of-the-art&rows=1",
+    "requested_title": "Online recognition of Chinese characters: the state-of-the-art",
+    "metadata": {
+      "DOI": "10.1109/tpami.2004.1262182",
+      "title": [
+        "Online recognition of chinese characters: the state-of-the-art"
+      ],
+      "author": [
+        {
+          "family": "Cheng-Lin Liu",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Jaeger",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Nakagawa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "container-title": [
+        "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      ],
+      "volume": "26",
+      "issue": "2",
+      "page": "198-213",
+      "published": {
+        "date-parts": [
+          [
+            2004,
+            2
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tpami.2004.1262182"
+    }
+  },
+  {
+    "id": "wakahara1997",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=On-line+cursive+Kanji+character+recognition+using+stroke-based+affine+transformation&rows=1&filter=from-pub-date:1997-01-01,until-pub-date:1997-12-31,type:journal-article",
+    "requested_title": "On-line cursive Kanji character recognition using stroke-based affine transformation",
+    "metadata": {
+      "DOI": "10.1109/34.643898",
+      "title": [
+        "On-line cursive Kanji character recognition using stroke-based affine transformation"
+      ],
+      "author": [
+        {
+          "given": "T.",
+          "family": "Wakahara",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Odaka",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "container-title": [
+        "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+      ],
+      "volume": "19",
+      "issue": "12",
+      "page": "1381-1385",
+      "published": {
+        "date-parts": [
+          [
+            1997
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/34.643898"
+    }
+  },
+  {
+    "id": "sakoe1978",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=Dynamic+programming+algorithm+optimization+for+spoken+word+recognition&rows=1",
+    "requested_title": "Dynamic programming algorithm optimization for spoken word recognition",
+    "metadata": {
+      "DOI": "10.1109/tassp.1978.1163055",
+      "title": [
+        "Dynamic programming algorithm optimization for spoken word recognition"
+      ],
+      "author": [
+        {
+          "given": "H.",
+          "family": "Sakoe",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S.",
+          "family": "Chiba",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "container-title": [
+        "IEEE Transactions on Acoustics, Speech, and Signal Processing"
+      ],
+      "volume": "26",
+      "issue": "1",
+      "page": "43-49",
+      "published": {
+        "date-parts": [
+          [
+            1978,
+            2
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1109/tassp.1978.1163055"
+    }
+  },
+  {
+    "id": "damerau1964",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=A+technique+for+computer+detection+and+correction+of+spelling+errors&rows=1",
+    "requested_title": "A technique for computer detection and correction of spelling errors",
+    "metadata": {
+      "DOI": "10.1145/363958.363994",
+      "title": [
+        "A technique for computer detection and correction of spelling errors"
+      ],
+      "author": [
+        {
+          "given": "Fred J.",
+          "family": "Damerau",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "IBM Corporation, Yorktown Heights, NY"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "Association for Computing Machinery (ACM)",
+      "container-title": [
+        "Communications of the ACM"
+      ],
+      "volume": "7",
+      "issue": "3",
+      "page": "171-176",
+      "published": {
+        "date-parts": [
+          [
+            1964,
+            3
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1145/363958.363994"
+    }
+  },
+  {
+    "id": "wobbrock2007",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=Gestures+without+libraries%2C+toolkits+or+training&rows=1",
+    "requested_title": "Gestures without libraries, toolkits or training",
+    "metadata": {
+      "DOI": "10.1145/1294211.1294238",
+      "title": [
+        "Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes"
+      ],
+      "author": [
+        {
+          "given": "Jacob O.",
+          "family": "Wobbrock",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of Washington, Seattle, WA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrew D.",
+          "family": "Wilson",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Microsoft Research, Redmond, WA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yang",
+          "family": "Li",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "University of Washington, Seattle, WA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "ACM",
+      "container-title": [
+        "Proceedings of the 20th annual ACM symposium on User interface software and technology"
+      ],
+      "page": "159-168",
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            10,
+            7
+          ]
+        ]
+      },
+      "type": "proceedings-article",
+      "URL": "https://doi.org/10.1145/1294211.1294238"
+    }
+  },
+  {
+    "id": "vanheuven2014",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works?query.title=SUBTLEX-UK%3A+A+new+and+improved+word+frequency+database+for+British+English&rows=1",
+    "requested_title": "SUBTLEX-UK: A new and improved word frequency database for British English",
+    "metadata": {
+      "DOI": "10.1080/17470218.2013.850521",
+      "title": [
+        "Subtlex-UK: A New and Improved Word Frequency Database for British English"
+      ],
+      "author": [
+        {
+          "given": "Walter J. B.",
+          "family": "van Heuven",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Psychology, University of Nottingham, Nottingham, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pawel",
+          "family": "Mandera",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Experimental Psychology, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emmanuel",
+          "family": "Keuleers",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Experimental Psychology, Ghent University, Ghent, Belgium"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marc",
+          "family": "Brysbaert",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Experimental Psychology, Ghent University, Ghent, Belgium"
+            },
+            {
+              "name": "Psychology, Swansea University, Swansea, UK"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "SAGE Publications",
+      "container-title": [
+        "Quarterly Journal of Experimental Psychology"
+      ],
+      "volume": "67",
+      "issue": "6",
+      "page": "1176-1190",
+      "published": {
+        "date-parts": [
+          [
+            2014,
+            6
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.1080/17470218.2013.850521"
+    }
+  },
+  {
+    "id": "nation2006",
+    "checked_on": "2026-10-10",
+    "metadata_url": "https://api.crossref.org/works/10.3138/cmlr.63.1.59",
+    "requested_title": "How Large a Vocabulary Is Needed For Reading and Listening?",
+    "metadata": {
+      "DOI": "10.3138/cmlr.63.1.59",
+      "title": [
+        "How Large a Vocabulary is Needed For Reading and Listening?"
+      ],
+      "author": [
+        {
+          "given": "I.",
+          "family": "Nation",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Victoria University of Wellington, New Zealand"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "publisher": "University of Toronto Press Inc. (UTPress)",
+      "container-title": [
+        "The Canadian Modern Language Review"
+      ],
+      "volume": "63",
+      "issue": "1",
+      "page": "59-82",
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            9,
+            1
+          ]
+        ]
+      },
+      "type": "journal-article",
+      "URL": "https://doi.org/10.3138/cmlr.63.1.59"
+    }
+  }
+]

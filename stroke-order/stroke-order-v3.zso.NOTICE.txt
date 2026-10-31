@@ -1,0 +1,8 @@
+Modified Arphic asset: stroke-order-v3.zso
+Adam Woeltz / Coldscholar Dictionary, modified in 2026; final v3 rebuild 2026-10-30.
+Derived from Make Me a Hanzi graphics.txt at bddc96d41bef78427ed0e034e9f7e31d71fd1b92;
+Shaunak Kishore and contributors; Arphic Technology Co., Ltd., copyright 1999.
+Licence: Arphic Public License 1999 (Arphic-1999), unaltered in ARPHICPL.TXT beside this file.
+Retain this notice and licence. The editable source is ../arphic-source/graphics.txt and build_stroke_order.py with its two lists.
+Modified assets must remain freely available under Arphic-1999.
+No warranty. The pinned binary payload is preserved; this notice accompanies it.

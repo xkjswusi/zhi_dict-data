@@ -1,0 +1,39 @@
+{
+  "release_version": "2026.10.30-v3.3",
+  "format_version": "1.0.0",
+  "prepared_on": "2026-10-30",
+  "dataset_name": "Coldscholar Dictionary",
+  "dataset_license": "CC-BY-SA-4.0",
+  "code_license": "Apache-2.0",
+  "rights_holder": "Adam Woeltz",
+  "publication_status": "published",
+  "db_file": "dictionary/database/zhi-dict-v3.sqlite",
+  "db_sha256": "f23b56b7390b2ca2d0a1a9b5ff1ba4a83ec7d184ae798259b942bb5f24ae8837",
+  "content_hash": "2eadcac5ab615ecb6a60ffcb3ff75bdfffca91815f583c8d499ab389bfb9d5f6",
+  "lineage_hash": "4de3c010e154eebcd2b92121eebe03a7f1489a04bff7b843e726a50038b65d02",
+  "db_schema": 3,
+  "compile_spec": "dictionary/database/expansion.compile.json",
+  "expected_counts": {
+    "aliases": 271,
+    "classifiers": 1225,
+    "common_words": 3430,
+    "entries": 6172,
+    "examples": 9488,
+    "glosses": 16698,
+    "house_entries": 28,
+    "meta": 29,
+    "pron_variants": 99,
+    "provenance": 381,
+    "search_hanzi": 0,
+    "search_pinyin": 6267,
+    "senses": 10256,
+    "xrefs": 2716
+  },
+  "anki": {
+    "deck_name": "Coldscholar Dictionary — Complete v3",
+    "model_name": "Coldscholar Entry v1",
+    "deck_id": 1781047001,
+    "model_id": 1781047002,
+    "timestamp": 1793318400
+  }
+}

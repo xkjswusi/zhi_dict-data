@@ -1,0 +1,835 @@
+{
+  "aliases": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "kind",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "from_sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_trad",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "resolved",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "entry_id",
+      "seq"
+    ],
+    "row_order": [
+      "entry_id",
+      "seq"
+    ]
+  },
+  "classifiers": {
+    "columns": [
+      {
+        "name": "sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "sense_uid",
+      "seq"
+    ],
+    "row_order": [
+      "sense_uid",
+      "seq"
+    ]
+  },
+  "common_words": {
+    "columns": [
+      {
+        "name": "sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "resolved",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ex_trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ex_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ex_realized",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ex_spans",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "ex_shows",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ex_shows_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "sense_uid",
+      "seq"
+    ],
+    "row_order": [
+      "sense_uid",
+      "seq"
+    ]
+  },
+  "entries": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "simp",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "content_status",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "rank",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "zipf_subtlex",
+        "sqlite_type": "REAL",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "review_status",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "adjudication",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "batch",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "prov_id",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "entry_id"
+    ],
+    "row_order": [
+      "entry_id"
+    ]
+  },
+  "examples": {
+    "columns": [
+      {
+        "name": "sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "realized",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "spans",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "shows",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "shows_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "sense_uid",
+      "seq"
+    ],
+    "row_order": [
+      "sense_uid",
+      "seq"
+    ]
+  },
+  "glosses": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "idx",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "text",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "entry_id",
+      "idx"
+    ],
+    "row_order": [
+      "entry_id",
+      "idx"
+    ]
+  },
+  "house_entries": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "entry_id"
+    ],
+    "row_order": [
+      "entry_id"
+    ]
+  },
+  "meta": {
+    "columns": [
+      {
+        "name": "key",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "value",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "key"
+    ],
+    "row_order": [
+      "key"
+    ]
+  },
+  "pron_variants": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "kind",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "applies_to",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "entry_id",
+      "seq"
+    ],
+    "row_order": [
+      "entry_id",
+      "seq"
+    ]
+  },
+  "provenance": {
+    "columns": [
+      {
+        "name": "prov_id",
+        "sqlite_type": "INTEGER",
+        "nullable": true,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "model",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "method",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "generated_on",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "prompts",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      }
+    ],
+    "primary_key": [
+      "prov_id"
+    ],
+    "row_order": [
+      "prov_id"
+    ]
+  },
+  "search_hanzi": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "form",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [],
+    "row_order": [
+      "entry_id",
+      "form"
+    ]
+  },
+  "search_pinyin": {
+    "columns": [
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "toned",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "plain",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "kind",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [],
+    "row_order": [
+      "entry_id",
+      "toned",
+      "plain",
+      "kind"
+    ]
+  },
+  "senses": {
+    "columns": [
+      {
+        "name": "sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "ordinal",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "sense_kind",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "pos",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "pos_simp",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "tags",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "register",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "domain",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "def_trad",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "def_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "expl_trad",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "expl_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "exemption",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "sgi",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "prompt_id",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "review_status",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "adjudication",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "edits",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "entity",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "dates",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": true
+      },
+      {
+        "name": "source_entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "prov_id",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "sense_uid"
+    ],
+    "row_order": [
+      "sense_uid"
+    ]
+  },
+  "xrefs": {
+    "columns": [
+      {
+        "name": "sense_uid",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 1,
+        "json_text": false
+      },
+      {
+        "name": "seq",
+        "sqlite_type": "INTEGER",
+        "nullable": false,
+        "primary_key_position": 2,
+        "json_text": false
+      },
+      {
+        "name": "target_entry_id",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_trad",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_simp",
+        "sqlite_type": "TEXT",
+        "nullable": true,
+        "primary_key_position": 0,
+        "json_text": false
+      },
+      {
+        "name": "target_pinyin",
+        "sqlite_type": "TEXT",
+        "nullable": false,
+        "primary_key_position": 0,
+        "json_text": false
+      }
+    ],
+    "primary_key": [
+      "sense_uid",
+      "seq"
+    ],
+    "row_order": [
+      "sense_uid",
+      "seq"
+    ]
+  }
+}

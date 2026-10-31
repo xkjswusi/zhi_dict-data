@@ -1,0 +1,52 @@
+# Characters whose four-stroke 艹 (⺿) the stroke-order asset re-orders (R89, D234). MMAH draws it
+# 竖横竖横, which matches no standard; build_stroke_order.py writes it in Taiwan's order, 竖横横竖, by
+# swapping the block's third and fourth strokes, outlines and medians untouched. It refuses a row unless
+# the four strokes from `first` run left 竖, left 横, right 竖, right 横, and a row that names a withheld
+# or uncovered character. first = the 0-based index of the block's first stroke, located by median
+# geometry (R88's go; R89 §1: 舊 and 萊 have a second such run, inside 臼 and 來, and take the 艹 at 0).
+# Evidence: docs/evidence/stroke-order-r89.md. R104 reran R88's component search over the new DB and added
+# 勸 (R103), 邁 (R92) and 饃 (R96): enrichment-repin-r104.md §2.
+# char	first
+權	4
+歡	0
+獲	3
+臟	4
+襪	5
+觀	0
+諾	7
+謊	7
+護	7
+貓	7
+驚	0
+髒	10
+厲	2
+夢	0
+寬	3
+舊	0
+茲	0
+荊	0
+莊	0
+華	0
+萊	0
+萬	0
+葉	0
+蒼	0
+蓋	0
+蓮	0
+蔔	0
+蔣	0
+蔥	0
+蕭	0
+薑	0
+薩	0
+藍	0
+藝	0
+藥	0
+藺	0
+蘇	0
+蘋	0
+蘭	0
+蘿	0
+勸	0
+邁	0
+饃	8

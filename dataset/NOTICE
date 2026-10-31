@@ -1,0 +1,13 @@
+Coldscholar Dictionary
+Copyright 2026 Adam Woeltz, to the extent copyright subsists in project contributions.
+
+Project software and original technical documentation are licensed under Apache License 2.0.
+The dictionary data is adapted from CC-CEDICT and distributed under CC BY-SA 4.0.
+Handwriting and stroke-order assets derived from Make Me a Hanzi retain Arphic-1999.
+SUBTLEX-CH frequency inputs are by Qing Cai and Marc Brysbaert, CC BY 4.0.
+Chinese Wikipedia contributors supplied the corpus used for selection frequencies.
+
+Retain third-party notices and the component licences. See LICENSES.md,
+licenses/THIRD_PARTY.md, release/PROVENANCE.md and release/BIBLIOGRAPHY.md.
+AI assistance is documented in the data provenance. This notice does not assert
+exclusive ownership of AI outputs, factual information or third-party material.
